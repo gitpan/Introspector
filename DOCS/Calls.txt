@@ -1,0 +1,95 @@
+. = LoadNodes::DefaultPostProcess(ref(gcc::noderef)) called from file `gcc.pm' line 313
+. = gcc::visit_users(ref(gcc::noderef)) called from file `gcc.pm' line 273
+$ = gcc::preprocess(717, 0, 0) called from file `gcc.pm' line 353
+. = gcc::PostProcess() called from file `intrspctr.pl' line 571
+. = intrspctr::__ANON__[intrspctr.pl:582] called from file `Introspector.pm' line 125
+. = Introspector::start('test_tree.pl', ref(CODE), ref(CODE)) called from file `intrspctr.pl' line 583
+. = intrspctr::main called from file `intrspctr.pl' line 609
+$ = require 'intrspctr.pl' called from file `/home/mdupont/introspector/testinc.pl' line 16
+
+
+#######################################################################
+
+. = LoadNodes::DefaultPreProcess(ref(HASH)) called from file `gcc.pm' line 85
+$ = gcc::node(1, 'type_decl', 0, 0, 1031, 'i386.h') called from file `(eval 75)[MetaPackage.pm:154]' line 1
+$ = eval 'node(1,\'type_decl\',
+(
+	nref(\'type\',2),
+	nref(\'chan\',3),
+	ntext(\'srcl\',\'1031\'),
+	ntext(\'srcp\',\'i386.h\'),
+		)
+	);' called from file `MetaPackage.pm' line 154
+$ = MetaPackage::__ANON__[MetaPackage.pm:169]('node(1,\'type_decl\',^M^J(^M^J^Inref(\'type\',2),^M^J^Inref(\'chan\',3),^M^J^Intext(\'srcl\',\'1031\'),^M^J^Intext(\'srcp\',\'i386.h\'),^M^J^I^I)^M^J^I);', 0) called from file `Class/Contract.pm' line 824
+. = Class::Contract::__ANON__[Class/Contract.pm:839](ref(MetaPackage), 'node(1,\'type_decl\',^M^J(^M^J^Inref(\'type\',2),^M^J^Inref(\'chan\',3),^M^J^Intext(\'srcl\',\'1031\'),^M^J^Intext(\'srcp\',\'i386.h\'),^M^J^I^I)^M^J^I);', 0) called from file `LoadNodes.pm' line 64
+. = LoadNodes::LoadNodes('test_tree.pl') called from file `Introspector.pm' line 123
+. = Introspector::start('test_tree.pl', ref(CODE), ref(CODE)) called from file `intrspctr.pl' line 583
+. = intrspctr::main called from file `intrspctr.pl' line 609
+$ = require 'intrspctr.pl' called from file `/home/mdupont/introspector/testinc.pl' line 16
+  DB<17> 
+
+################################################################################
+FileHandling::OpenOutputFile('nodes/introspector/node_const/139122932') called at introspector/XMLPrinter.pm line 48
+introspector::XMLPrinter::printObjectFile('introspector::node_const=SCALAR(0x84ad8f4)', '^I<node_const>^J<node_base/>^J^I</node_const>^J') called at introspector/XMLPrinter.pm line 144
+
+introspector::XMLPrinter::printObjectXML('introspector::node_const=SCALAR(0x84ad8f4)') called at introspector/node_const.pm line 32
+introspector::node_const::__ANON__[introspector/node_const.pm:33](1) called at Class/Contract.pm line 824
+Class::Contract::__ANON__[Class/Contract.pm:839]('introspector::node_const=SCALAR(0x84ad8f4)', 1) called at (eval 13)[PerlGenerator.pm:78] line 6
+eval '
+	# use the package
+	use introspector::node_const;
+	my $x = new introspector::node_const;
+	$x->test;
+        $x->PrintXML(1);
+    
+;' called at PerlGenerator.pm line 78
+PerlGenerator::TranslatePackageToPerl('const') called at TranslateClasses.pm line 445
+TranslateClasses::TranslatePackagesAbstract('CODE(0x8876c5c)') called at PerlGenerator.pm line 418
+PerlGenerator::TranslatePackagesToPerl() called at Introspector.pm line 106
+Introspector::start('test_tree.pl', 'CODE(0x88e52fc)', 'CODE(0x88f58f4)') called at intrspctr.pl line 583
+intrspctr::main called at intrspctr.pl line 609
+require intrspctr.pl called at /home/mdupont/introspector/testinc.pl line 16
+################################################################################
+
+CALL(intrspctr::main-->Introspector::start)
+CALL(Introspector::start->GCC::PostProcess)
+CALL(GCC::PostProcess-->GCC::preprocess)
+CALL(GCC::preprocess-->gcc::visit_users)
+
+#*NodeProcess::PostProcess = sub { 
+#$node->OnPointersVisited(); # CALL(CALLBACK(NodeProcess::PostProcess)-->$node->OnPointersVisited);now we have processed all the refernces
+#print $PASS2XML $node->PrintXML;#CALL(CALLBACK(NodeProcess::PostProcess)-->$node->PrintXML)
+
+#CALL(GCC::process_references-->gcc::visit_users) not used yet
+
+CALL(gcc::node-->NodeProcess::PreProcess)
+CALL(gcc::node-->process_values($reference))
+
+########################################################
+
+
+
+CALL(GCC::PostProcess-->GCC::process_references)
+
+
+
+CALL(GCC::visit_users-->NodeProcess::PostProcess)
+CALL(CALLBACK(NodeProcess::PostProcess)-->$node->OnPointersVisited)
+CALL(CALLBACK(NodeProcess::PostProcess)-->$node->PrintXML)
+CALL(CALLBACK(NodeProcess::PostProcess)-->ProcessRefs)
+
+########################################################
+CALL(DependancyResolved-->CheckDependancy)1
+CALL(CheckDependancy-->NoDependancy)
+CALL(NoDependancy-->DependancyResolved)
+CALL(DependancyResolved-->CheckDependancy)2
+CALL(NoDependancy-->FinishPass1)
+CALL(FinishPass1-->OnPointersVisited)
+CALL(FinishPass1-->ProcessRefs($self,$node))
+CALL(FinishPass1-->ProcessValues($self,$node))
+
+########################################################
+CALL(NodeProcess::PreProcess-->ProcessValues)
+CALL(NodeProcess::PreProcess-->node->OnFirstVisit)
+
+

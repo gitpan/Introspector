@@ -1,0 +1,478 @@
+<PROJECT name="Introspector">
+<WELCOME>Welcome to the GCC XML Node Introspector project.</WELCOME>
+<COMMENT>This may look confusing, it is just a structured xml file, 
+read on.
+</COMMENT>
+
+
+TODOS :
+1. remove all the generated files from cvs
+2. create a project file the allows you to easily specify the output directories
+
+<OPERATIONS>
+<!-- -->
+<OPERATION name="make dist"/>
+<OPERATION name="check in"/>
+<OPERATION name="check out"/>
+<OPERATION name="produce HTML"/>
+<OPERATION name="test"/>
+<OPERATION name="install"/>
+<OPERATION name="configure"/>
+<OPERATION name="look for files not managed"/>
+<OPERATION name="remove files not documented"/>
+<OPERATION name="query project database"/>
+
+</OPERATIONS>
+
+<HISTORY>
+The introspector project contains many generations of source code.
+1. first generation
+	1.1. Loading of XML via generation of perl scripts.
+	1.2. Prototype of meta-programming in perl
+	1.3. Usage of class contract and other tools to create classes
+
+2. second generation
+	2.2  Generation of sql tables
+	2.3  Generation of normal -perl classes
+
+3. third generation
+	3.1 Usage of the database
+	3.2 Streamlining of the Compiler interface
+	3.2 Bootstrapping of the compiler
+	3.3 Usage of CVS to distribut
+
+Currently we are closing up cycle 3.
+
+4. fourth generation
+	4.1 creation of GUI in html
+
+5. Fifth Generation :
+	5.1 generation of c-code for compiler
+</HISTORY>
+<PROJECT LAYOUT>
+<DESCRIPTION>Here is the layout of the project</DESCRIPTION>
+
+<SECTION name="SCRIPT AND BINARY SECTION">
+<DIR path="./bin">
+<DESCRIPTION>contains the binary code</DESCRIPTION>
+<DESCRIPTION>The Bin directory will contain all the compiler code needed.
+             It also contains the modified compiler binaries.
+             The perl scripts that are needed should be found there as well.<DESCRIPTION>
+<FILES>
+./Introspector.pl		# empty driver forwards to ./intrspctr.pl
+./intrspctr.pl			# GENERATION 2/3 Driver
+</FILES>
+
+<SUBSECTION name="Generation 3"><FILES>
+./c_files/process.pl		# COMPILER INTERFACE ENTRY POINT for modules
+./c_files/processfunc.pl	# COMPILER INTERFACE ENTRY POINT for functions
+</FILES></SUBSECTION>
+
+<SUBSECTION name="C FILES"><FILES>
+./c_files/c-dump.c
+./c_files/c-decl.c
+./c_files/encode.c
+./tests/testblock.c
+./tests/teststrings.c
+./tests/quotestring.c
+</FILES></SUBSECTION>
+
+<SUBSECTION name="TO DELETE"><FILES>
+./indexnodes.pl  			# OLD
+./introspector/test_generated_code.pl 	# Test Code for generation- delete?
+./runquery.pl				# GENERATION 3 query Driver
+</FILES></SUBSECTION>
+
+<SECTION name="LIBRARY">
+<SUBSECTION name="Generation 2/3"><FILES>
+./B			# Generation 2 : should be lib/B contains a modified version of B::Deparse
+./Class			# Generation 2 : should be lib/Class contains a modified version of Class::Contract
+./introspector		# generation 2/3 node class definition
+./introspector_new2     # generation 2/3 node class definition- the new classes
+</FILES></SUBSECTION>
+
+<SUBSECTION name="Generation 1"><FILES>
+./gcc			# OLD generation 1 node parser code
+./gcc/gcc		# OLD generation 1 node parser code
+</FILES></SUBSECTION>
+
+<SUBSECTION name="TO DELETE"><FILES>
+./XMLParser		# obsolete parser to delete
+./introspector_old	# TO DELETE
+</FILES></SUBSECTION>
+
+<SUBSECTION name="TEST CODE"><FILES>
+./T			# test cases
+./c_files		# contains the modified c-files from gcc.
+./bin/testfile.pl		# Test Script
+</FILES></SUBSECTION>
+
+<SUBSECTION name="DATABASE CODE"><FILES>
+./database		# contains the SQL files
+./queries		# Queries to query the database
+./database/grant.sql
+./database/introspector_schema.sql
+./queries/currentfiles.sql
+./queries/drop_indexs.sql
+./queries/enums.sql
+./queries/tests.sql
+./queries/loadrelationships.sql
+./queries/exprs.sql
+./queries/fields_and_struct.sql
+</FILES></SUBSECTION>
+
+<SUBSECTION name="XSLT CODE"><FILES>
+./xsl			# OLD generation 1 xls transformations
+</FILES></SUBSECTION>
+</SECTION>
+
+<SECTION name="TEST">
+<DESCRIPTION>The following are test</DESCRIPTION>
+<FILES>
+./tests			# Test code for the compiler
+	./tests/testgen.pl
+	./tests/testload.pl
+./tests/xml		# output of the test xml
+</FILES></SECTION>
+
+
+<SECTION name="PERL SCRIPT">
+</FILES></SECTION>
+
+<SUBSECTION name="GENERAL PERL THINGS"><FILES>
+./DebugPrint.pm
+./Eval.pm
+./Breaker.pm
+./FileHandling.pm
+./IncludePaths.pm
+./warnings.pm
+</FILES></SUBSECTION>
+
+<SUBSECTION name="GENERATION3"><FILES>
+./ParseGCCXML.pm
+./Visitor.pm
+./c_files/gcc_introspector.pm	# Generation 3 COmpiler interface
+./database/queries.pm
+./db_node_ref.pm 
+</FILES></SUBSECTION>
+
+<SUBSECTION name="GENERATION2"><FILES>
+./Introspector.pm
+</FILES></SUBSECTION>
+
+<SUBSECTION name="GENERATORS"><FILES>
+./CodeFormatter.pm
+./CreateClasses.pm
+./CrossReference.pm
+./GeneratedPackage.pm
+./HTMLGenerator.pm
+./JavaGenerator.pm
+./PerlGenerator.pm
+./SQLGenerator.pm
+./StandardPerlGenerator.pm
+</FILES></SUBSECTION>
+
+<SUBSECTION name="GENERATION1"><FILES>
+./LoadIntrospector.pm
+./LoadMetaInfo.pm
+./LoadNodes.pm
+</FILES></SUBSECTION>
+
+<SUBSECTION name="GENERATION2"><FILES>
+./MetaAttribute.pm
+./MetaConstraint.pm
+./MetaFeature.pm
+./MetaInheritance.pm
+./MetaMethod.pm
+./MetaPackage.pm
+./MetaPackages.pm
+./MetaType.pm
+</FILES></SUBSECTION>
+
+<SUBSECTION name="GENERATION2 IMPORTANT"><FILES>
+./ModifyClasses.pm  	# Important 
+./TranslateClasses.pm	# 
+</FILES></SUBSECTION>
+
+<SUBSECTION name="GENERATION2 REVIEW"><FILES>
+./NodeProcess.pm
+./NodeVisitors.pm
+./ConnectionTypes.pm
+./components.pm		# use?
+</FILES></SUBSECTION>
+
+<SUBSECTION name="GENERATED RUNTIME"><FILES>
+./introspector/Dumper.pm	# XML Dumper? What does it do?
+./introspector/XMLParser.pm
+./introspector/XMLPrinter.pm
+./introspector/XMLRPCServer.pm
+./introspector/DebugPrint.pm
+./introspector/HTMLPrinter.pm
+</FILES></SUBSECTION>
+
+<SUBSECTION name="GENERATED HELPER"><FILES><QUESTION>ARE THESE USED?</QUESTION>
+./introspector/Boolean.pm		## 
+./introspector/Char.pm			##
+./introspector/Integer.pm		##
+./introspector/String.pm		##
+./introspector/integer_cst.pm		##
+./introspector/identifier_text.pm	##
+./introspector/long_text.pm		##
+./introspector/warnings.pm		##
+</FILES></SUBSECTION>
+
+
+<SUBSECTION name="OBSOLETE"><FILES>
+./B/IntrospectorDeparse.pm	# Borrowed Module
+./Class/Contract.pm		# Borrowed Module
+./XMLParser/Root.pm		# TO DELETE
+</FILES></SUBSECTION>
+
+<SUBSECTION name="GENERATION1"><FILES>
+./gcc/field.pm
+./gcc/fields.pm
+./gcc/node.pm
+./gcc/noderef.pm
+</FILES></SUBSECTION>
+
+<SUBSECTION name="GENERATION1 DATAFILES"><FILES>
+./input/field_overview.pm
+./input/type_overview.pm
+</FILES></SUBSECTION>
+</SECTION>
+
+<SECTION name="generated code"><FILES>
+./introspector/node_ARRAY.pm
+./introspector/node_Boolean.pm
+./introspector/node_Byte.pm
+./introspector/node_Double.pm
+./introspector/node_Float.pm
+./introspector/node_HASH.pm
+./introspector/node_IType.pm
+./introspector/node_Ialigned.pm
+./introspector/node_Ichained.pm
+./introspector/node_Icontainer.pm
+./introspector/node_Iqualified.pm
+./introspector/node_Isized.pm
+./introspector/node_Isubdecl_REF.pm
+./introspector/node_Ityped.pm
+./introspector/node_Iunqualified.pm
+./introspector/node_Long.pm
+./introspector/node_METHOD.pm
+./introspector/node_POINTER.pm
+./introspector/node_SCALAR.pm
+./introspector/node_Short.pm
+./introspector/node_Type.pm
+./introspector/node_addr.pm
+./introspector/node_addr_expr.pm
+./introspector/node_aligned.pm
+./introspector/node_array_ref.pm
+./introspector/node_array_type.pm
+./introspector/node_asm_stmt.pm
+./introspector/node_base.pm
+./introspector/node_base_interface.pm
+./introspector/node_bin_expr.pm
+./introspector/node_bit_and.pm
+./introspector/node_bit_and_expr.pm
+./introspector/node_bit_ior.pm
+./introspector/node_bit_ior_expr.pm
+./introspector/node_bit_not.pm
+./introspector/node_bit_not_expr.pm
+./introspector/node_bit_xor.pm
+./introspector/node_bit_xor_expr.pm
+./introspector/node_boolean_type.pm
+./introspector/node_break_stmt.pm
+./introspector/node_call.pm
+./introspector/node_call_expr.pm
+./introspector/node_case_label.pm
+./introspector/node_case_stmt.pm
+./introspector/node_chained.pm
+./introspector/node_complex_type.pm
+./introspector/node_component_ref.pm
+./introspector/node_compound.pm
+./introspector/node_compound_expr.pm
+./introspector/node_compound_stmt.pm
+./introspector/node_cond.pm
+./introspector/node_cond_expr.pm
+./introspector/node_cond_stmt.pm
+./introspector/node_const.pm
+./introspector/node_const_decl.pm
+./introspector/node_constructor.pm
+./introspector/node_container.pm
+./introspector/node_continue_stmt.pm
+./introspector/node_convert.pm
+./introspector/node_convert_expr.pm
+./introspector/node_decl.pm
+./introspector/node_decl_stmt.pm
+./introspector/node_do_stmt.pm
+./introspector/node_enumeral_type.pm
+./introspector/node_eq.pm
+./introspector/node_eq_expr.pm
+./introspector/node_exact_div.pm
+./introspector/node_exact_div_expr.pm
+./introspector/node_expr.pm
+./introspector/node_expr_stmt.pm
+./introspector/node_exprs.pm
+./introspector/node_field_decl.pm
+./introspector/node_fix_trunc.pm
+./introspector/node_fix_trunc_expr.pm
+./introspector/node_float.pm
+./introspector/node_float_expr.pm
+./introspector/node_for_stmt.pm
+./introspector/node_function_decl.pm
+./introspector/node_function_type.pm
+./introspector/node_ge.pm
+./introspector/node_ge_expr.pm
+./introspector/node_goto_stmt.pm
+./introspector/node_gt.pm
+./introspector/node_gt_expr.pm
+./introspector/node_identifer_text.pm
+./introspector/node_identifiable.pm
+./introspector/node_identifier_node.pm
+./introspector/node_ids.pm
+./introspector/node_if_stmt.pm
+./introspector/node_indirect_ref.pm
+./introspector/node_integer_cst.pm
+./introspector/node_integer_type.pm
+./introspector/node_ityped.pm
+./introspector/node_label_decl.pm
+./introspector/node_label_stmt.pm
+./introspector/node_le.pm
+./introspector/node_le_expr.pm
+./introspector/node_long_string.pm
+./introspector/node_long_text.pm
+./introspector/node_lshift.pm
+./introspector/node_lshift_expr.pm
+./introspector/node_lt.pm
+./introspector/node_lt_expr.pm
+./introspector/node_max.pm
+./introspector/node_max_expr.pm
+./introspector/node_min.pm
+./introspector/node_min_expr.pm
+./introspector/node_minus.pm
+./introspector/node_minus_expr.pm
+./introspector/node_modify.pm
+./introspector/node_modify_expr.pm
+./introspector/node_module.pm
+./introspector/node_mult.pm
+./introspector/node_mult_expr.pm
+./introspector/node_nameable.pm
+./introspector/node_named.pm
+./introspector/node_ne.pm
+./introspector/node_ne_expr.pm
+./introspector/node_negate.pm
+./introspector/node_negate_expr.pm
+./introspector/node_non_lvalue.pm
+./introspector/node_non_lvalue_expr.pm
+./introspector/node_nop.pm
+./introspector/node_nop_expr.pm
+./introspector/node_param_decl.pm
+./introspector/node_parm_decl.pm
+./introspector/node_plus.pm
+./introspector/node_plus_expr.pm
+./introspector/node_pointer_type.pm
+./introspector/node_postdecrement.pm
+./introspector/node_postdecrement_expr.pm
+./introspector/node_postincrement.pm
+./introspector/node_postincrement_expr.pm
+./introspector/node_predecrement.pm
+./introspector/node_predecrement_expr.pm
+./introspector/node_preincrement.pm
+./introspector/node_preincrement_expr.pm
+./introspector/node_qualified.pm
+./introspector/node_rdiv.pm
+./introspector/node_rdiv_expr.pm
+./introspector/node_real_cst.pm
+./introspector/node_real_type.pm
+./introspector/node_record_type.pm
+./introspector/node_ref_expr.pm
+./introspector/node_reference_type.pm
+./introspector/node_result_decl.pm
+./introspector/node_return_stmt.pm
+./introspector/node_rshift.pm
+./introspector/node_rshift_expr.pm
+./introspector/node_save.pm
+./introspector/node_save_expr.pm
+./introspector/node_scope_stmt.pm
+./introspector/node_sized.pm
+./introspector/node_stmt.pm
+./introspector/node_stmt_expr.pm
+./introspector/node_string_cst.pm
+./introspector/node_subdecl.pm
+./introspector/node_subdecl_REF.pm
+./introspector/node_switch_stmt.pm
+./introspector/node_text.pm
+./introspector/node_tree_list.pm
+./introspector/node_trunc_div.pm
+./introspector/node_trunc_div_expr.pm
+./introspector/node_trunc_mod.pm
+./introspector/node_trunc_mod_expr.pm
+./introspector/node_truth_andif.pm
+./introspector/node_truth_andif_expr.pm
+./introspector/node_truth_orif.pm
+./introspector/node_truth_orif_expr.pm
+./introspector/node_truth_xor.pm
+./introspector/node_truth_xor_expr.pm
+./introspector/node_type.pm
+./introspector/node_type_decl.pm
+./introspector/node_typed.pm
+./introspector/node_unary_expr.pm
+./introspector/node_union_type.pm
+./introspector/node_unqualified.pm
+./introspector/node_var_decl.pm
+./introspector/node_void_type.pm
+./introspector/node_while_stmt.pm
+</FILES></SECTION>
+
+
+<SECTION name="ADMIN">
+<FILES>
+./LICENCE.txt			# LICENCE STATEMENT
+./gpl.txt			# GPL 
+</FILES></SECTION>
+
+<SECTION name="DATA">
+<FILES>
+./input			# OLD generation 1 node data cache
+./input/test_tree.pl    # Generation 1 input file data
+./call_overview.pl	# Data File
+./field_overview.pl	# Data File
+./handle_indexes.pl	# Data File
+./output		# output files
+./bin/relationships.txt
+./bin/types.txt
+./gcc/fieldreport.txt
+./gcc/fieldreport1.txt
+./input/weights.txt
+./tests/relationships.txt
+./tests/attributes.txt
+</FILES></SECTION>
+
+
+<SECTION name="SHELL">
+<SUBSECTION name="MAKE"><FILES>
+./rebuild.sh			# MAKE
+./bin/install_compiler.sh	# MAKE
+./c_files/prepare.sh		# MAKE
+./copy_new_classes.sh		# MAKE
+./bin/build.sh			# MAKE
+</FILES></SUBSECTION>
+
+<SUBSECTION name="MAKE/TEST"><FILES>
+./bin/runtest.sh		# MAKE/TEST
+./bin/install_data.sh		# MAKE/TEST
+./bin/search.sh			# MAKE/TEST
+./c_files/test.sh		# MAKE/TEST
+./runtest_parse.sh		# MAKE/TEST
+</FILES></SUBSECTION>
+
+<SUBSECTION name="MAKE/DIST"><FILES>
+./c_files/makediffs.sh		# MAKE/DIST
+./database/getschema.sh		# MAKE/DIST
+./runimport.sh			# CVS
+./runcommit.sh			# CVS
+./runlogin.sh			# CVS
+</FILES></SUBSECTION>
+</SECTION>
+
+</PROJECT>

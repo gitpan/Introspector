@@ -1,0 +1,15 @@
+Source: libintrospector-perl
+Section: interpreters
+Priority: optional
+Build-Depends: debhelper (>= 3.0.5), perl (>= 5.8.0-7)
+Maintainer: James Michael DuPont <mdupont777@yahoo.com>
+Standards-Version: 3.5.1
+
+Package: libintrospector-perl
+Architecture: any
+Depends: ${perl:Depends}, ${shlibs:Depends}
+Description:  IntrOspEctOr Driver
+ The Introspector main driver routine
+ Purpose : Driver for the introspector Project. 
+ Allows high level manipulation of program structures.
+ allows your programs to load themselves.

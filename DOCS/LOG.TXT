@@ -1,0 +1,961 @@
+In Introspector Begin
+Import Called
+#Registered an event type of OnFirstVisit
+#OnFirstVisit Parameters : 
+#Registered an event type of InPackage
+#InPackage Parameters : 
+#Registered an event type of OnPointersVisited
+#OnPointersVisited Parameters : 
+#Registered an event type of all_pointers_resolved
+#all_pointers_resolved Parameters : 
+#Registered an event type of OnUsed
+#OnUsed Parameters : 
+#Registered an event type of printed
+#printed Parameters : 
+#Registered an event type of OnChain
+#OnChain Parameters : 
+Nameable - Identifiable record_type,function_decl,union_type,type_decl,enumeral_type,integer_type,var_decl,field_decl,parm_decl,const_decl
+Nameable - Named pointer_type,complex_type,record_type,real_type,union_type,enumeral_type,boolean_type,integer_type,array_type,void_type
+Unknown Type, going to fix:base at MetaType.pm line 50.
+Unknown Type, going to fix:const at MetaType.pm line 50.
+Unknown Type, going to fix:type at MetaType.pm line 50.
+Unknown Type, going to fix:record_type at MetaType.pm line 50.
+Unknown Type, going to fix:identifiable at MetaType.pm line 50.
+Unknown Type, going to fix:named at MetaType.pm line 50.
+Unknown Type, going to fix:IType at MetaType.pm line 50.
+Unknown Type, going to fix:Icontainer at MetaType.pm line 50.
+Unknown Type, going to fix:Isized at MetaType.pm line 50.
+Unknown Type, going to fix:Ialigned at MetaType.pm line 50.
+Unknown Type, going to fix:Iqualified at MetaType.pm line 50.
+Unknown Type, going to fix:Iunqualified at MetaType.pm line 50.
+Unknown Type, going to fix:qualified at MetaType.pm line 50.
+Unknown Type, going to fix:unqualified at MetaType.pm line 50.
+Unknown Type, going to fix:ids at MetaType.pm line 50.
+Unknown Type, going to fix:sized at MetaType.pm line 50.
+Unknown Type, going to fix:aligned at MetaType.pm line 50.
+Unknown Type, going to fix:container at MetaType.pm line 50.
+Unknown Type, going to fix:tree_list at MetaType.pm line 50.
+Unknown Type, going to fix:Ichained at MetaType.pm line 50.
+Unknown Type, going to fix:chained at MetaType.pm line 50.
+Unknown Type, going to fix:nameable at MetaType.pm line 50.
+Unknown Type, going to fix:subdecl_REF at MetaType.pm line 50.
+Unknown Type, going to fix:SCALAR at MetaType.pm line 50.
+Unknown Type, going to fix:reference_type at MetaType.pm line 50.
+Unknown Type, going to fix:pointer_type at MetaType.pm line 50.
+Unknown Type, going to fix:decl at MetaType.pm line 50.
+Unknown Type, going to fix:var_decl at MetaType.pm line 50.
+Unknown Type, going to fix:Ityped at MetaType.pm line 50.
+Unknown Type, going to fix:typed at MetaType.pm line 50.
+Unknown Type, going to fix:identifier_node at MetaType.pm line 50.
+Unknown Type, going to fix:Double at MetaType.pm line 50.
+Unknown Type, going to fix:field_decl at MetaType.pm line 50.
+Unknown Type, going to fix:Isubdecl_REF at MetaType.pm line 50.
+Unknown Type, going to fix:integer_cst at MetaType.pm line 50.
+Unknown Type, going to fix:void_type at MetaType.pm line 50.
+Unknown Type, going to fix:exprs at MetaType.pm line 50.
+Unknown Type, going to fix:complex_type at MetaType.pm line 50.
+Unknown Type, going to fix:real_type at MetaType.pm line 50.
+Unknown Type, going to fix:type_decl at MetaType.pm line 50.
+Unknown Type, going to fix:Short at MetaType.pm line 50.
+Unknown Type, going to fix:subdecl at MetaType.pm line 50.
+Unknown Type, going to fix:array_type at MetaType.pm line 50.
+Unknown Type, going to fix:integer_type at MetaType.pm line 50.
+Unknown Type, going to fix:Float at MetaType.pm line 50.
+Unknown Type, going to fix:function_type at MetaType.pm line 50.
+Unknown Type, going to fix:enumeral_type at MetaType.pm line 50.
+Unknown Type, going to fix:boolean_type at MetaType.pm line 50.
+Unknown Type, going to fix:constructor at MetaType.pm line 50.
+Unknown Type, going to fix:Byte at MetaType.pm line 50.
+Unknown Type, going to fix:Long at MetaType.pm line 50.
+Unknown Type, going to fix:parm_decl at MetaType.pm line 50.
+Unknown Type, going to fix:function_decl at MetaType.pm line 50.
+Unknown Type, going to fix:union_type at MetaType.pm line 50.
+Unknown Type, going to fix:module at MetaType.pm line 50.
+Unknown Type, going to fix:string_cst at MetaType.pm line 50.
+Unknown Type, going to fix:const_decl at MetaType.pm line 50.
+MEMBER public Integer id;//Optional Type
+MEMBER public String str;//Mandatory: No Type
+MEMBER public node_qualified Imp_qualconst;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_qualified Imp_qualrest;//Optional Type
+MEMBER public node_qualified Imp_qualvol;//Optional Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_subdecl children;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_container Imp_flds;//Optional Type
+MEMBER public node_chained Imp_chan;//Optional Type
+MEMBER public node_base valu;//MultiType : pointer_type,record_type,complex_type,real_type,integer_type,integer_cst,reference_type,void_type
+MEMBER public node_base purp;//Optional Multi Type : identifier_node,integer_cst
+MEMBER public node_SCALAR object;//Optional Type
+MEMBER public node_pointer_type refd;//Single_Type:pointer_type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public Integer srcl;//Optional Type
+MEMBER public String str;//Optional Type
+MEMBER public node_module srcp;//Optional Type
+MEMBER public String used;//Mandatory: No Type
+MEMBER public String str;//Option:No Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_chained Imp_chan;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_base type;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_base init;//Optional Multi Type : string_cst,constructor
+MEMBER public node_named named;//Optional Type
+MEMBER public String strg;//Mandatory: No Type
+MEMBER public String lngt;//Mandatory: No Type
+MEMBER public String str;//Option:No Type
+MEMBER public node_integer_cst bpos;//Single_Type:integer_cst
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_subdecl_REF Imp_scpe;//Optional Type
+MEMBER public node_chained Imp_chan;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_base type;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_qualified Imp_qualconst;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_qualified Imp_qualrest;//Optional Type
+MEMBER public node_qualified Imp_qualvol;//Optional Type
+MEMBER public node_qualified Imp_qualconst;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_qualified Imp_qualrest;//Optional Type
+MEMBER public node_qualified Imp_qualvol;//Optional Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_base ptd;//MultiType : pointer_type,record_type,real_type,union_type,function_type,integer_type,array_type,void_type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public String prec;//Mandatory: No Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_chained Imp_chan;//Optional Type
+MEMBER public node_base type;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_type unql;//Optional Type
+MEMBER public node_container scpe;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_integer_type domn;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_base elts;//MultiType : pointer_type,record_type,union_type,integer_type
+MEMBER public Boolean qualrest;//Optional Type
+MEMBER public Boolean qualconst;//Optional Type
+MEMBER public Boolean qualvol;//Optional Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_tree_list prms;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_base retn;//MultiType : pointer_type,record_type,complex_type,real_type,integer_type,void_type
+MEMBER public String prec;//Mandatory: No Type
+MEMBER public String str;//Option:No Type
+MEMBER public node_integer_cst min;//Single_Type:integer_cst
+MEMBER public node_integer_cst max;//Single_Type:integer_cst
+MEMBER public node_tree_list csts;//Single_Type:tree_list
+MEMBER public node_qualified Imp_qualconst;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_qualified Imp_qualrest;//Optional Type
+MEMBER public node_qualified Imp_qualvol;//Optional Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public String prec;//Mandatory: No Type
+MEMBER public String str;//Option:No Type
+MEMBER public node_integer_cst min;//Single_Type:integer_cst
+MEMBER public node_integer_cst max;//Single_Type:integer_cst
+MEMBER public node_qualified Imp_qualconst;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_qualified Imp_qualrest;//Optional Type
+MEMBER public node_qualified Imp_qualvol;//Optional Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public String algn;//Option:No Type
+MEMBER public node_tree_list elts;//Single_Type:tree_list
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_base type;//Optional Type
+MEMBER public String used;//Mandatory: No Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_subdecl_REF Imp_scpe;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_base type;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_base argt;//MultiType : pointer_type,integer_type
+MEMBER public node_integer_cst size;//Optional Type
+MEMBER public String str;//Mandatory: No Type
+MEMBER public node_parm_decl args;//Optional Type
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_subdecl children;//Optional Type
+MEMBER public node_chained Imp_chan;//Optional Type
+MEMBER public node_identifier_node mngl;//Optional Type
+MEMBER public node_base type;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public String str;//Mandatory: No Type
+MEMBER public node_qualified Imp_qualconst;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_qualified Imp_qualrest;//Optional Type
+MEMBER public node_qualified Imp_qualvol;//Optional Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_subdecl children;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_container Imp_flds;//Optional Type
+MEMBER public String low;//Mandatory: No Type
+MEMBER public String high;//Option:No Type
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_base type;//Optional Type
+MEMBER public String lngt;//Mandatory: No Type
+MEMBER public String strg;//Option:No Type
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_base type;//Optional Type
+MEMBER public node_SCALAR chan;//Optional Type
+MEMBER public node_integer_cst cnst;//Single_Type:integer_cst
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_chained Imp_chan;//Optional Type
+MEMBER public node_base type;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public Integer id;//Optional Type
+./output/html/node/node_base.html at HTMLGenerator.pm line 35.
+./output/html/node/node_const.html at HTMLGenerator.pm line 35.
+./output/html/node/node_type.html at HTMLGenerator.pm line 35.
+MEMBER public String str;//Mandatory: No Type
+MEMBER public node_qualified Imp_qualconst;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_qualified Imp_qualrest;//Optional Type
+MEMBER public node_qualified Imp_qualvol;//Optional Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_subdecl children;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_container Imp_flds;//Optional Type
+./output/html/node/node_record_type.html at HTMLGenerator.pm line 35.
+MEMBER public node_chained Imp_chan;//Optional Type
+MEMBER public node_base valu;//MultiType : pointer_type,record_type,complex_type,real_type,integer_type,integer_cst,reference_type,void_type
+MEMBER public node_base purp;//Optional Multi Type : identifier_node,integer_cst
+./output/html/node/node_tree_list.html at HTMLGenerator.pm line 35.
+./output/html/node/node_Iunqualified.html at HTMLGenerator.pm line 35.
+./output/html/node/node_Ichained.html at HTMLGenerator.pm line 35.
+./output/html/node/node_nameable.html at HTMLGenerator.pm line 35.
+./output/html/node/node_identifiable.html at HTMLGenerator.pm line 35.
+./output/html/node/node_Isized.html at HTMLGenerator.pm line 35.
+MEMBER public node_SCALAR object;//Optional Type
+./output/html/node/node_subdecl_REF.html at HTMLGenerator.pm line 35.
+MEMBER public node_pointer_type refd;//Single_Type:pointer_type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+./output/html/node/node_reference_type.html at HTMLGenerator.pm line 35.
+MEMBER public Integer srcl;//Optional Type
+MEMBER public String str;//Optional Type
+MEMBER public node_module srcp;//Optional Type
+./output/html/node/node_decl.html at HTMLGenerator.pm line 35.
+MEMBER public String used;//Mandatory: No Type
+MEMBER public String str;//Option:No Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_chained Imp_chan;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_base type;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_base init;//Optional Multi Type : string_cst,constructor
+./output/html/node/node_var_decl.html at HTMLGenerator.pm line 35.
+MEMBER public node_named named;//Optional Type
+./output/html/node/node_ids.html at HTMLGenerator.pm line 35.
+MEMBER public String strg;//Mandatory: No Type
+MEMBER public String lngt;//Mandatory: No Type
+./output/html/node/node_identifier_node.html at HTMLGenerator.pm line 35.
+./output/html/node/node_SCALAR.html at HTMLGenerator.pm line 35.
+./output/html/node/node_Double.html at HTMLGenerator.pm line 35.
+MEMBER public String str;//Option:No Type
+MEMBER public node_integer_cst bpos;//Single_Type:integer_cst
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_subdecl_REF Imp_scpe;//Optional Type
+MEMBER public node_chained Imp_chan;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_base type;//Optional Type
+MEMBER public node_ids name;//Optional Type
+./output/html/node/node_field_decl.html at HTMLGenerator.pm line 35.
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_qualified Imp_qualconst;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_qualified Imp_qualrest;//Optional Type
+MEMBER public node_qualified Imp_qualvol;//Optional Type
+./output/html/node/node_void_type.html at HTMLGenerator.pm line 35.
+./output/html/node/String.html at HTMLGenerator.pm line 35.
+MEMBER public node_qualified Imp_qualconst;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_qualified Imp_qualrest;//Optional Type
+MEMBER public node_qualified Imp_qualvol;//Optional Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_base ptd;//MultiType : pointer_type,record_type,real_type,union_type,function_type,integer_type,array_type,void_type
+./output/html/node/node_pointer_type.html at HTMLGenerator.pm line 35.
+./output/html/node/node_exprs.html at HTMLGenerator.pm line 35.
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_ids name;//Optional Type
+./output/html/node/node_complex_type.html at HTMLGenerator.pm line 35.
+./output/html/node/Integer.html at HTMLGenerator.pm line 35.
+MEMBER public String prec;//Mandatory: No Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+./output/html/node/node_real_type.html at HTMLGenerator.pm line 35.
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_chained Imp_chan;//Optional Type
+MEMBER public node_base type;//Optional Type
+MEMBER public node_ids name;//Optional Type
+./output/html/node/node_type_decl.html at HTMLGenerator.pm line 35.
+./output/html/node/node_Short.html at HTMLGenerator.pm line 35.
+MEMBER public node_type unql;//Optional Type
+./output/html/node/node_unqualified.html at HTMLGenerator.pm line 35.
+MEMBER public node_container scpe;//Optional Type
+./output/html/node/node_subdecl.html at HTMLGenerator.pm line 35.
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_integer_type domn;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_base elts;//MultiType : pointer_type,record_type,union_type,integer_type
+./output/html/node/node_array_type.html at HTMLGenerator.pm line 35.
+./output/html/node/node_Iqualified.html at HTMLGenerator.pm line 35.
+./output/html/node/node_typed.html at HTMLGenerator.pm line 35.
+./output/html/node/Boolean.html at HTMLGenerator.pm line 35.
+MEMBER public Boolean qualrest;//Optional Type
+MEMBER public Boolean qualconst;//Optional Type
+MEMBER public Boolean qualvol;//Optional Type
+./output/html/node/node_qualified.html at HTMLGenerator.pm line 35.
+./output/html/node/node_IType.html at HTMLGenerator.pm line 35.
+./output/html/node/node_Float.html at HTMLGenerator.pm line 35.
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_tree_list prms;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_base retn;//MultiType : pointer_type,record_type,complex_type,real_type,integer_type,void_type
+./output/html/node/node_function_type.html at HTMLGenerator.pm line 35.
+MEMBER public String prec;//Mandatory: No Type
+MEMBER public String str;//Option:No Type
+MEMBER public node_integer_cst min;//Single_Type:integer_cst
+MEMBER public node_integer_cst max;//Single_Type:integer_cst
+MEMBER public node_tree_list csts;//Single_Type:tree_list
+MEMBER public node_qualified Imp_qualconst;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_qualified Imp_qualrest;//Optional Type
+MEMBER public node_qualified Imp_qualvol;//Optional Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+./output/html/node/node_enumeral_type.html at HTMLGenerator.pm line 35.
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_ids name;//Optional Type
+./output/html/node/node_boolean_type.html at HTMLGenerator.pm line 35.
+MEMBER public String prec;//Mandatory: No Type
+MEMBER public String str;//Option:No Type
+MEMBER public node_integer_cst min;//Single_Type:integer_cst
+MEMBER public node_integer_cst max;//Single_Type:integer_cst
+MEMBER public node_qualified Imp_qualconst;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_qualified Imp_qualrest;//Optional Type
+MEMBER public node_qualified Imp_qualvol;//Optional Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+./output/html/node/node_integer_type.html at HTMLGenerator.pm line 35.
+MEMBER public String algn;//Option:No Type
+./output/html/node/node_aligned.html at HTMLGenerator.pm line 35.
+MEMBER public node_tree_list elts;//Single_Type:tree_list
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_base type;//Optional Type
+./output/html/node/node_constructor.html at HTMLGenerator.pm line 35.
+./output/html/node/node_Byte.html at HTMLGenerator.pm line 35.
+./output/html/node/node_Long.html at HTMLGenerator.pm line 35.
+MEMBER public String used;//Mandatory: No Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_subdecl_REF Imp_scpe;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_base type;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_base argt;//MultiType : pointer_type,integer_type
+./output/html/node/node_parm_decl.html at HTMLGenerator.pm line 35.
+MEMBER public node_integer_cst size;//Optional Type
+./output/html/node/node_sized.html at HTMLGenerator.pm line 35.
+./output/html/node/node_Ityped.html at HTMLGenerator.pm line 35.
+./output/html/node/node_named.html at HTMLGenerator.pm line 35.
+./output/html/node/node_Ialigned.html at HTMLGenerator.pm line 35.
+MEMBER public String str;//Mandatory: No Type
+MEMBER public node_parm_decl args;//Optional Type
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_subdecl children;//Optional Type
+MEMBER public node_chained Imp_chan;//Optional Type
+MEMBER public node_identifier_node mngl;//Optional Type
+MEMBER public node_base type;//Optional Type
+MEMBER public node_ids name;//Optional Type
+./output/html/node/node_function_decl.html at HTMLGenerator.pm line 35.
+MEMBER public String str;//Mandatory: No Type
+MEMBER public node_qualified Imp_qualconst;//Optional Type
+MEMBER public node_unqualified Imp_unql;//Optional Type
+MEMBER public node_ids name;//Optional Type
+MEMBER public node_qualified Imp_qualrest;//Optional Type
+MEMBER public node_qualified Imp_qualvol;//Optional Type
+MEMBER public node_type Imp_type;//Optional Type
+MEMBER public node_sized Imp_size;//Optional Type
+MEMBER public node_subdecl children;//Optional Type
+MEMBER public node_aligned Imp_algn;//Optional Type
+MEMBER public node_container Imp_flds;//Optional Type
+./output/html/node/node_union_type.html at HTMLGenerator.pm line 35.
+./output/html/node/node_Icontainer.html at HTMLGenerator.pm line 35.
+./output/html/node/node_Isubdecl_REF.html at HTMLGenerator.pm line 35.
+MEMBER public String low;//Mandatory: No Type
+MEMBER public String high;//Option:No Type
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_base type;//Optional Type
+./output/html/node/node_integer_cst.html at HTMLGenerator.pm line 35.
+./output/html/node/node_module.html at HTMLGenerator.pm line 35.
+MEMBER public String lngt;//Mandatory: No Type
+MEMBER public String strg;//Option:No Type
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_base type;//Optional Type
+./output/html/node/node_string_cst.html at HTMLGenerator.pm line 35.
+./output/html/node/node_container.html at HTMLGenerator.pm line 35.
+MEMBER public node_SCALAR chan;//Optional Type
+./output/html/node/node_chained.html at HTMLGenerator.pm line 35.
+MEMBER public node_integer_cst cnst;//Single_Type:integer_cst
+MEMBER public node_typed Imp_type;//Optional Type
+MEMBER public node_chained Imp_chan;//Optional Type
+MEMBER public node_base type;//Optional Type
+MEMBER public node_ids name;//Optional Type
+./output/html/node/node_const_decl.html at HTMLGenerator.pm line 35.
+
+####################################################
+package node_base;
+sub OnPointersVisited # OnPointersVisited
+{
+    package CreateClasses;
+    my $self = shift @_;
+    NodeVisitors::Node_OnPointersVisited $self;
+};
+
+
+####################################################
+package node_base;
+sub OnChain # OnChain
+{
+    ()
+};
+
+
+####################################################
+package node_base;
+sub OnUsed # OnUsed
+($$$) {
+    my $node = shift @_;
+    my $type = NodeVisitors::GetNodeType($node);
+    my $linkobject = $links{${$node->id;}};
+    my $attrs = NodeVisitors::ProcessAttributes($node);
+    my $relationship = shift @_;
+    my $weight = $$weights{$relationship};
+    my $other_node = shift @_;
+    my $other_type = NodeVisitors::GetNodeType($other_node);
+    my $otherlinkobject = $links{${$other_node->id;}};
+    print '<VisitWeight1 ';
+    print 'to="' . ${$node->id;} . '"';
+    print 'rel="' . $relationship . '"';
+    print 'from="' . ${$other_node->id;} . '"';
+    print ">\n";
+    if (not $$linkobject{'lowestw'}) {
+        ++$$linkobject{'count'};
+        $$linkobject{'lowestw'} = $maxweight;
+        $$linkobject{'lowestn'} = $$linkobject{'lowestr'} = $$linkobject{'forward'} = undef;
+    }
+    if (not $$otherlinkobject{'lowestw'}) {
+        ++$$otherlinkobject{'count'};
+        $$otherlinkobject{'lowestw'} = $maxweight;
+        $$otherlinkobject{'lowestn'} = undef;
+        $$otherlinkobject{'lowestr'} = 'forward';
+        $$otherlinkobject{'forward'} = undef;
+    }
+    my $lowestw = $$linkobject{'lowestw'};
+    my $lowestn = $$linkobject{'lowestn'};
+    my $lowestr = $$linkobject{'lowestr'};
+    if (not $weight) {
+        ();
+    }
+    else {
+        print '<VisitWeight2 to="' . ${$node->id;} . '"';
+        print 'rel="' . $relationship . '" ';
+        print 'from="' . ${$other_node->id;} . '" ';
+        print qq[weight="$weight" ];
+        print qq[lowest="$lowestw" ];
+        print qq[totype="$type" ];
+        print qq[fromtype="$other_type"/>\n];
+        if ($weight < $lowestw) {
+            if ($lowestw ne $maxweight) {
+                print '<Replace id="' . $$linkobject{'lowestr'} . '" with="' . $relationship . qq["/>\n];
+            }
+            $$linkobject{'node'} = $node;
+            $$linkobject{'lowestw'} = $weight;
+            $$linkobject{'lowestn'} = $other_node;
+            $$linkobject{'lowestr'} = $relationship;
+            print '<SaveWeight from="' . ${$node->id;} . '" type="' . $type . '" rel="' . $relationship . '" to="' . ${$other_node->id;} . qq[" othertype="$other_type" weight="$weight" lowest="$lowestw">\n];
+            print '<New_Relationship rel="' . $$linkobject{'lowestr'} . '" ';
+            print 'weight="' . $$linkobject{'lowestw'} . qq["/>\n];
+            print '</SaveWeight>';
+        }
+        elsif ($weight == $lowestw) {
+            ();
+        }
+    }
+    print "</VisitWeight1>\n";
+};
+
+
+####################################################
+package node_base;
+sub OnFirstVisit # OnFirstVisit
+{
+    package CreateClasses;
+    &DebugScratch('^');
+};
+
+use introspector::node_base; # TOTEST
+my $node_base_node= new introspector::node_base; # TOTEST
+$node_base_node->test(); # TOTEST
+use introspector::node_const; # TOTEST
+my $node_const_node= new introspector::node_const; # TOTEST
+$node_const_node->test(); # TOTEST
+use introspector::node_type; # TOTEST
+my $node_type_node= new introspector::node_type; # TOTEST
+$node_type_node->test(); # TOTEST
+use introspector::node_record_type; # TOTEST
+my $node_record_type_node= new introspector::node_record_type; # TOTEST
+$node_record_type_node->test(); # TOTEST
+
+####################################################
+package node_tree_list;
+sub OnChain # OnChain
+{
+    package CreateClasses;
+    my $self = shift @_;
+    my $NextFunction = shift @_;
+    &$NextFunction($self);
+};
+
+use introspector::node_tree_list; # TOTEST
+my $node_tree_list_node= new introspector::node_tree_list; # TOTEST
+$node_tree_list_node->test(); # TOTEST
+use introspector::node_Iunqualified; # TOTEST
+my $node_Iunqualified_node= new introspector::node_Iunqualified; # TOTEST
+$node_Iunqualified_node->test(); # TOTEST
+<test_package name="node_Iunqualified"/>
+use introspector::node_Ichained; # TOTEST
+my $node_Ichained_node= new introspector::node_Ichained; # TOTEST
+$node_Ichained_node->test(); # TOTEST
+<test_package name="node_Ichained"/>
+use introspector::node_nameable; # TOTEST
+my $node_nameable_node= new introspector::node_nameable; # TOTEST
+$node_nameable_node->test(); # TOTEST
+<test_package name="node_nameable"/>
+use introspector::node_identifiable; # TOTEST
+my $node_identifiable_node= new introspector::node_identifiable; # TOTEST
+$node_identifiable_node->test(); # TOTEST
+<test_package name="node_identifiable"/>
+use introspector::node_Isized; # TOTEST
+my $node_Isized_node= new introspector::node_Isized; # TOTEST
+$node_Isized_node->test(); # TOTEST
+<test_package name="node_Isized"/>
+use introspector::node_subdecl_REF; # TOTEST
+my $node_subdecl_REF_node= new introspector::node_subdecl_REF; # TOTEST
+$node_subdecl_REF_node->test(); # TOTEST
+<test_package name="node_subdecl_REF"/>
+use introspector::node_reference_type; # TOTEST
+my $node_reference_type_node= new introspector::node_reference_type; # TOTEST
+$node_reference_type_node->test(); # TOTEST
+
+####################################################
+package node_decl;
+sub OnPointersVisited # OnPointersVisited
+{
+    package CreateClasses;
+    my $self = shift @_;
+    NodeVisitors::ProcessDecl $self;
+};
+
+use introspector::node_decl; # TOTEST
+my $node_decl_node= new introspector::node_decl; # TOTEST
+$node_decl_node->test(); # TOTEST
+use introspector::node_var_decl; # TOTEST
+my $node_var_decl_node= new introspector::node_var_decl; # TOTEST
+$node_var_decl_node->test(); # TOTEST
+
+####################################################
+package node_ids;
+sub OnUsed # OnUsed
+{
+    package CreateClasses;
+    my $self = shift @_;
+    my $NodeType = shift @_;
+    my $Field = shift @_;
+    my $UsedBy = shift @_;
+    node_base::OnUsed $self, $NodeType, $Field, $UsedBy;
+    NodeVisitors::VisitIdentifier $self, $NodeType, $Field, $UsedBy;
+};
+
+
+####################################################
+package node_ids;
+sub OnFirstVisit # OnFirstVisit
+{
+    package CreateClasses;
+    my $self = shift @_;
+    NodeVisitors::SeeIdentifier $self;
+};
+
+use introspector::node_ids; # TOTEST
+my $node_ids_node= new introspector::node_ids; # TOTEST
+$node_ids_node->test(); # TOTEST
+use introspector::node_identifier_node; # TOTEST
+my $node_identifier_node_node= new introspector::node_identifier_node; # TOTEST
+$node_identifier_node_node->test(); # TOTEST
+use introspector::node_SCALAR; # TOTEST
+my $node_SCALAR_node= new introspector::node_SCALAR; # TOTEST
+$node_SCALAR_node->test(); # TOTEST
+<test_package name="node_SCALAR"/>
+use introspector::node_Double; # TOTEST
+my $node_Double_node= new introspector::node_Double; # TOTEST
+$node_Double_node->test(); # TOTEST
+<test_package name="node_Double"/>
+use introspector::node_field_decl; # TOTEST
+my $node_field_decl_node= new introspector::node_field_decl; # TOTEST
+$node_field_decl_node->test(); # TOTEST
+use introspector::node_void_type; # TOTEST
+my $node_void_type_node= new introspector::node_void_type; # TOTEST
+$node_void_type_node->test(); # TOTEST
+use introspector::String; # TOTEST
+my $String_node= new introspector::String; # TOTEST
+$String_node->test(); # TOTEST
+<test_package name="String"/>
+use introspector::node_pointer_type; # TOTEST
+my $node_pointer_type_node= new introspector::node_pointer_type; # TOTEST
+$node_pointer_type_node->test(); # TOTEST
+use introspector::node_exprs; # TOTEST
+my $node_exprs_node= new introspector::node_exprs; # TOTEST
+$node_exprs_node->test(); # TOTEST
+use introspector::node_complex_type; # TOTEST
+my $node_complex_type_node= new introspector::node_complex_type; # TOTEST
+$node_complex_type_node->test(); # TOTEST
+use introspector::Integer; # TOTEST
+my $Integer_node= new introspector::Integer; # TOTEST
+$Integer_node->test(); # TOTEST
+<test_package name="Integer"/>
+use introspector::node_real_type; # TOTEST
+my $node_real_type_node= new introspector::node_real_type; # TOTEST
+$node_real_type_node->test(); # TOTEST
+use introspector::node_type_decl; # TOTEST
+my $node_type_decl_node= new introspector::node_type_decl; # TOTEST
+$node_type_decl_node->test(); # TOTEST
+use introspector::node_Short; # TOTEST
+my $node_Short_node= new introspector::node_Short; # TOTEST
+$node_Short_node->test(); # TOTEST
+<test_package name="node_Short"/>
+use introspector::node_unqualified; # TOTEST
+my $node_unqualified_node= new introspector::node_unqualified; # TOTEST
+$node_unqualified_node->test(); # TOTEST
+<test_package name="node_unqualified"/>
+
+####################################################
+package node_subdecl;
+sub OnPointersVisited # OnPointersVisited
+{
+    package CreateClasses;
+    my $self = shift @_;
+    NodeVisitors::ProcessSubDecl $self;
+};
+
+
+####################################################
+package node_subdecl;
+sub OnChain # OnChain
+{
+    package CreateClasses;
+    my $self = shift @_;
+    my $NextFunction = shift @_;
+    &$NextFunction($self);
+};
+
+use introspector::node_subdecl; # TOTEST
+my $node_subdecl_node= new introspector::node_subdecl; # TOTEST
+$node_subdecl_node->test(); # TOTEST
+use introspector::node_array_type; # TOTEST
+my $node_array_type_node= new introspector::node_array_type; # TOTEST
+$node_array_type_node->test(); # TOTEST
+use introspector::node_Iqualified; # TOTEST
+my $node_Iqualified_node= new introspector::node_Iqualified; # TOTEST
+$node_Iqualified_node->test(); # TOTEST
+<test_package name="node_Iqualified"/>
+use introspector::node_typed; # TOTEST
+my $node_typed_node= new introspector::node_typed; # TOTEST
+$node_typed_node->test(); # TOTEST
+<test_package name="node_typed"/>
+use introspector::Boolean; # TOTEST
+my $Boolean_node= new introspector::Boolean; # TOTEST
+$Boolean_node->test(); # TOTEST
+<test_package name="Boolean"/>
+use introspector::node_qualified; # TOTEST
+my $node_qualified_node= new introspector::node_qualified; # TOTEST
+$node_qualified_node->test(); # TOTEST
+<test_package name="node_qualified"/>
+use introspector::node_IType; # TOTEST
+my $node_IType_node= new introspector::node_IType; # TOTEST
+$node_IType_node->test(); # TOTEST
+<test_package name="node_IType"/>
+use introspector::node_Float; # TOTEST
+my $node_Float_node= new introspector::node_Float; # TOTEST
+$node_Float_node->test(); # TOTEST
+<test_package name="node_Float"/>
+use introspector::node_function_type; # TOTEST
+my $node_function_type_node= new introspector::node_function_type; # TOTEST
+$node_function_type_node->test(); # TOTEST
+use introspector::node_enumeral_type; # TOTEST
+my $node_enumeral_type_node= new introspector::node_enumeral_type; # TOTEST
+$node_enumeral_type_node->test(); # TOTEST
+use introspector::node_boolean_type; # TOTEST
+my $node_boolean_type_node= new introspector::node_boolean_type; # TOTEST
+$node_boolean_type_node->test(); # TOTEST
+use introspector::node_integer_type; # TOTEST
+my $node_integer_type_node= new introspector::node_integer_type; # TOTEST
+$node_integer_type_node->test(); # TOTEST
+use introspector::node_aligned; # TOTEST
+my $node_aligned_node= new introspector::node_aligned; # TOTEST
+$node_aligned_node->test(); # TOTEST
+<test_package name="node_aligned"/>
+use introspector::node_constructor; # TOTEST
+my $node_constructor_node= new introspector::node_constructor; # TOTEST
+$node_constructor_node->test(); # TOTEST
+use introspector::node_Byte; # TOTEST
+my $node_Byte_node= new introspector::node_Byte; # TOTEST
+$node_Byte_node->test(); # TOTEST
+<test_package name="node_Byte"/>
+use introspector::node_Long; # TOTEST
+my $node_Long_node= new introspector::node_Long; # TOTEST
+$node_Long_node->test(); # TOTEST
+<test_package name="node_Long"/>
+use introspector::node_parm_decl; # TOTEST
+my $node_parm_decl_node= new introspector::node_parm_decl; # TOTEST
+$node_parm_decl_node->test(); # TOTEST
+use introspector::node_sized; # TOTEST
+my $node_sized_node= new introspector::node_sized; # TOTEST
+$node_sized_node->test(); # TOTEST
+use introspector::node_Ityped; # TOTEST
+my $node_Ityped_node= new introspector::node_Ityped; # TOTEST
+$node_Ityped_node->test(); # TOTEST
+<test_package name="node_Ityped"/>
+use introspector::node_named; # TOTEST
+my $node_named_node= new introspector::node_named; # TOTEST
+$node_named_node->test(); # TOTEST
+<test_package name="node_named"/>
+use introspector::node_Ialigned; # TOTEST
+my $node_Ialigned_node= new introspector::node_Ialigned; # TOTEST
+$node_Ialigned_node->test(); # TOTEST
+<test_package name="node_Ialigned"/>
+use introspector::node_function_decl; # TOTEST
+my $node_function_decl_node= new introspector::node_function_decl; # TOTEST
+$node_function_decl_node->test(); # TOTEST
+use introspector::node_union_type; # TOTEST
+my $node_union_type_node= new introspector::node_union_type; # TOTEST
+$node_union_type_node->test(); # TOTEST
+use introspector::node_Icontainer; # TOTEST
+my $node_Icontainer_node= new introspector::node_Icontainer; # TOTEST
+$node_Icontainer_node->test(); # TOTEST
+<test_package name="node_Icontainer"/>
+use introspector::node_Isubdecl_REF; # TOTEST
+my $node_Isubdecl_REF_node= new introspector::node_Isubdecl_REF; # TOTEST
+$node_Isubdecl_REF_node->test(); # TOTEST
+<test_package name="node_Isubdecl_REF"/>
+use introspector::node_integer_cst; # TOTEST
+my $node_integer_cst_node= new introspector::node_integer_cst; # TOTEST
+$node_integer_cst_node->test(); # TOTEST
+use introspector::node_module; # TOTEST
+my $node_module_node= new introspector::node_module; # TOTEST
+$node_module_node->test(); # TOTEST
+<test_package name="node_module"/>
+use introspector::node_string_cst; # TOTEST
+my $node_string_cst_node= new introspector::node_string_cst; # TOTEST
+$node_string_cst_node->test(); # TOTEST
+use introspector::node_container; # TOTEST
+my $node_container_node= new introspector::node_container; # TOTEST
+$node_container_node->test(); # TOTEST
+<test_package name="node_container"/>
+use introspector::node_chained; # TOTEST
+my $node_chained_node= new introspector::node_chained; # TOTEST
+$node_chained_node->test(); # TOTEST
+<test_package name="node_chained"/>
+use introspector::node_const_decl; # TOTEST
+my $node_const_decl_node= new introspector::node_const_decl; # TOTEST
+$node_const_decl_node->test(); # TOTEST
+Class::Contract We are building a class named :MetaConstraint
+Class::Contract We are building a class named :MetaFeature
+Class::Contract We are building a class named :MetaAttribute
+Class::Contract We are building a class named :MetaAttributeOpt
+Class::Contract We are building a class named :MetaAttributePointer
+Class::Contract We are building a class named :MetaAttributeReference
+Class::Contract We are building a class named :MetaAttributeMulti
+Class::Contract We are building a class named :MetaAttributePointerMulti
+Class::Contract We are building a class named :MetaAttributeReferenceMulti
+Class::Contract We are building a class named :MetaMethod
+Class::Contract We are building a class named :MetaInheritance
+Class::Contract We are building a class named :MetaPackage
+node_Ialigned	node_Ialigned			1
+const	node_const			1
+record_type	node_record_type			1
+tree_list	node_tree_list			1
+Iunqualified	node_Iunqualified			1
+node_field_decl	node_field_decl			1
+identifiable	node_identifiable			1
+node_chained	node_chained			2
+node_boolean_type	node_boolean_type			1
+node_integer_type	node_integer_type			1
+Isized	node_Isized			1
+reference_type	node_reference_type			1
+node_constructor	node_constructor			1
+void_type	node_void_type			1
+node_qualified	node_qualified			1
+exprs	node_exprs			1
+node_Iqualified	node_Iqualified			1
+real_type	node_real_type			1
+type_decl	node_type_decl			1
+Short	node_Short			1
+node_Ityped	node_Ityped			1
+node_Ichained	node_Ichained			1
+node_integer_cst	node_integer_cst			2
+array_type	node_array_type			1
+node_reference_type	node_reference_type			1
+node_ids	node_ids			1
+typed	node_typed			1
+node_var_decl	node_var_decl			1
+node_Isubdecl_REF	node_Isubdecl_REF			1
+IType	node_IType			1
+node_Long	node_Long			1
+node_Byte	node_Byte			1
+node_subdecl_REF	node_subdecl_REF			1
+node_Iunqualified	node_Iunqualified			1
+node_identifiable	node_identifiable			1
+Long	node_Long			1
+Byte	node_Byte			1
+constructor	node_constructor			1
+parm_decl	node_parm_decl			1
+node_nameable	node_nameable			1
+node_container	node_container			2
+Ityped	node_Ityped			1
+node_SCALAR	node_SCALAR			1
+node_Icontainer	node_Icontainer			1
+Ialigned	node_Ialigned			1
+function_decl	node_function_decl			1
+node_string_cst	node_string_cst			1
+union_type	node_union_type			1
+node_Double	node_Double			1
+node_unqualified	node_unqualified			1
+integer_cst	node_integer_cst			2
+node_tree_list	node_tree_list			1
+node_decl	node_decl			1
+node_function_decl	node_function_decl			1
+decl	node_decl			1
+const_decl	node_const_decl			1
+node_base	node_base			14
+node_Float	node_Float			1
+node_void_type	node_void_type			1
+base	node_base			14
+node_real_type	node_real_type			1
+Ichained	node_Ichained			1
+node_type_decl	node_type_decl			1
+subdecl_REF	node_subdecl_REF			1
+identifier_node	node_identifier_node			1
+var_decl	node_var_decl			1
+SCALAR	node_SCALAR			1
+field_decl	node_field_decl			1
+Double	node_Double			1
+node_array_type	node_array_type			1
+String	String			1
+node_named	node_named			2
+node_sized	node_sized			1
+pointer_type	node_pointer_type			1
+complex_type	node_complex_type			1
+Integer	Integer			2
+subdecl	node_subdecl			4
+unqualified	node_unqualified			1
+Iqualified	node_Iqualified			1
+Boolean	Boolean			3
+qualified	node_qualified			1
+node_module	node_module			2
+nameable	node_nameable			1
+node_record_type	node_record_type			1
+node_subdecl	node_subdecl			4
+Float	node_Float			1
+node_const	node_const			1
+ids	node_ids			1
+node_parm_decl	node_parm_decl			1
+function_type	node_function_type			1
+enumeral_type	node_enumeral_type			1
+boolean_type	node_boolean_type			1
+integer_type	node_integer_type			1
+aligned	node_aligned			1
+node_type	node_type			13
+node_function_type	node_function_type			1
+node_union_type	node_union_type			1
+node_enumeral_type	node_enumeral_type			1
+node_Isized	node_Isized			1
+type	node_type			13
+named	node_named			2
+sized	node_sized			1
+node_aligned	node_aligned			1
+node_exprs	node_exprs			1
+node_pointer_type	node_pointer_type			1
+node_Short	node_Short			1
+node_complex_type	node_complex_type			1
+Icontainer	node_Icontainer			1
+Isubdecl_REF	node_Isubdecl_REF			1
+node_typed	node_typed			1
+node_const_decl	node_const_decl			1
+string_cst	node_string_cst			1
+module	node_module			2
+container	node_container			2
+node_identifier_node	node_identifier_node			1
+node_IType	node_IType			1
+chained	node_chained			2

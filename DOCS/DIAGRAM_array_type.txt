@@ -1,0 +1,259 @@
+
+	I can imagine this as a diagram and hyper linked!
+	
+pointer_type(4588)+--ptd-->array_type(4618)
+       ^          |          +---->elts--> integer_type(77)
+       |      	  |                             +---max--->integer_cst(83)
+       |      	  |                             +---min--->integer_cst(82)
+       |      	  |                             +---name-->type_decl(41)
+       |      	  |                                         +--type-->integer_type (60)
+       |      	  |                                         +--name-->indentifier_node(59) "char"
+       |      	  |                                         +--size-->integer_cst(81)  "8"
+       |      	  |                                         +--unql-->integer_type(60)
+       |          |                           +--->domn--> intger_type(4651)
+       |      	  |+------+                   +--->size--> integer_cst(4650)
+       |          +- size +-integer_cst(32)
+       |      	   +----+-+    	       	
+       |       	       	 		
+       |      	+-------+------------+ 	#DEFTREECODE (CLEANUP_POINT_EXPR, "cleanup_point_expr", 'e', 1)
+       +--type--| address_expr (4560)+->op_0-->string_cst(4589) 'cleanup_point_expr'
+                +--------------------+
+       	                ^ 	     
+       		       	|   	     
+		      +-+--+   	     
+		      |op_0| 
+		      +-+--+ 
+		        |  
+		        |   +---------------+
+		       	o---+nop_expr (4535)|
+			    +---------------+
+			       |
+			       |
+			       |      	+----------------+
+	       		       +--valu--+tree_list (4508)|-- purp - integer_cst (4534) "54"
+		 tree_list<------chan<--+----------------+
+			   		     chan^
+			              	+----------------+
+	           (4507)nop_expr-valu--+tree_list (4482)|-- purp - integer_cst (4506) "54"
+		                        +----------------+
+
+			               +-----------------------+
+			               |     list    4456      |
+			               +-----------------------+
+
+			               +-----------------------+
+			               |     list    4423      |
+			               +-----------------------+
+			               |     list    4392      |
+			               +-----------------------+
+			               |     list    4361      |
+			               +-----------------------+
+			               |     list    4329      |
+			               +-----------------------+
+			               |     list    4296      |
+			               +-----------------------+
+
+
+                                  +-------------------------------+
+          			  |     ***** MANY MORE ******    |
+           			  |     SEE tree_code_name.txt    |
+            			  |     **********************    |
+         			  +-------------------------------+
+				  +-------------------------------+
+				  |      	       	          |
+       	       	       	       	  |    	  BEGIN OF LIST		  |
+				  |                               |
+				  +-------------------------------+
+						 ^
+						 |
+						 +---------------------+
+	   							       |
+	 CONSTRUCTOR
+		    
++---------------------------------------------------+		       |
+|from_id | to_id |  from_type  |  to_type   | usage |		       |
++--------+-------+-------------+------------+-------|		       |
+|   2714 |  2743 | constructor | tree_list  | elts  +------------------+
+|   2714 |  2712 | constructor | array_type | type  |
++----o----------------------------------------------+
+     |		    
+     +........................................................+
+   		      					      .
+       	      VAR_DECL
+	      
++------------------------------------------------------+      .
+| from_id | to_id | from_type |     to_type     | usage|      .
++--------+-------+-----------+-----------------+-------|      .
+|   2688 |  2713 | var_decl  | var_decl        | chan  |      .	     +---------------------------------+
+|   2688 |  2714 | var_decl  | constructor     | init  o......+	     |            		       |
+|   2688 |  2711 | var_decl  | identifier_node | name  o------------>|tree_indentifer "tree_code_name" |
+|   2688 |  2715 | var_decl  | integer_cst     | size  |	     |    (2711)                       |
+|   2688 |  2712 | var_decl  | array_type      | type  |	     +---------------------------------+
+|        |       |           |                 |       |					       
++--------+-------+-----------+-----------------+-------+
+|        |                                             |
+|   srcp | "tree_empty.c"                              |
+|   srcl | "85"                                        |
+|        |                                             |
++------------------------------------------------------+
+
+
+
+
+select * from 
+       node_identifier_node idn, 
+       node_var_decl v 
+       
+       where 
+	     idn.strg = '"tree_code_name"' 
+	     and 
+	     idn.node_file =v.node_file 
+	     and 
+	     idn.node_function = v.node_function 
+	     and 
+	     idn.id = v.name  
+	     and 
+	     idn.node_function <> '___global';
+
+
+ interface_name |       strg       |      node_function       | id  | node_file  |    node_type    | named | lngt | interface_name | name |      node_function       | id  | node_file  | node_type |  srcp  | scpe | srcl | type | size | algn | chan | used | str | init 
+----------------+------------------+--------------------------+-----+------------+-----------------+-------+------+----------------+------+--------------------------+-----+------------+-----------+--------+------+------+------+------+------+------+------+-----+------
+                | "tree_code_name" | code_to_string           |  70 | error.c    | identifier_node |       |      |                |   70 | code_to_string           |  68 | error.c    | var_decl  | tree.h |      |   69 |   71 |   72 | 32   |      | 1    |     |     
+
+                | "tree_code_name" | dequeue_and_dump         | 285 | c-dump.c   | identifier_node |       |      |                |  285 | dequeue_and_dump         | 274 | c-dump.c   | var_decl  | tree.h |      |   69 |  286 |  287 | 32   |      | 1    |     |     
+
+                | "tree_code_name" | add_c_tree_codes         | 111 | c-common.c | identifier_node |       |      |                |  111 | add_c_tree_codes         | 107 | c-common.c | var_decl  | tree.h |      |   69 |  112 |  113 | 32   |      | 1    |     |     
+################################################
+
+                | "tree_code_name" | dequeue_and_dump_nochain | 285 | c-dump.c   | identifier_node |       |      |                |  285 | dequeue_and_dump_nochain | 274 | c-dump.c   | var_decl  | tree.h |      |   69 |  286 |  287 | 32   |      | 1    |     |     
+								 .
+	     .....................................................
+	     . 
+ from_id | to_id | from_type |     to_type     | usage 
+---------+-------+-----------+-----------------+-------
+     274 |   285 | var_decl  | identifier_node | name
+      .	       
+      .......  
+	    .  
+	    .  
+ from_id | to_id | from_type | to_type  | usage 
+---------+-------+-----------+----------+-------
+     264 |   274 | array_ref | var_decl | op_0
+     |.
+     |-------------------------------------------------------+
+     |.	       						     |
+     o
+ from_id | to_id | from_type | to_type  | usage 	     |
+---------+-------+-----------+----------+-------	     |
+     264 |   275 | array_ref | nop_expr | op_1		     |
+------------------------------------------------	     |
+
+
+
+from_id | to_id | from_type |     to_type     | usage 
+---------+-------+-----------+-----------------+-------
+       4 |    10 | parm_decl | pointer_type    | argt
+       4 |     9 | parm_decl | identifier_node | name --> "di"
+       4 |     1 | parm_decl | function_decl   | scpe
+       4 |    11 | parm_decl | integer_cst     | size
+       4 |   793 | parm_decl | for_stmt        | srcl
+       4 |    10 | parm_decl | pointer_type    | type
+	-\
+	  --\
+	     --
+from_id | to_id | from_type |  to_type  | usage 
+---------+-------+-----------+-----------+-------
+     828 |     4 | tree_list | parm_decl | valu
+      -\
+        ---\
+      	    ---
+ from_id | to_id | from_type |   to_type   | usage 
+---------+-------+-----------+-------------+-------
+     247 |   828 | expr_stmt | tree_list   | line   # WHAT IS THIS? the line number! this must be an error!
+     247 |   256 | expr_stmt | modify_expr | expr	     |
+--------------|-------------------------------------	     |
+     	     .| 					     |
+     ---------+ 					     |
+ from|id | to_id |  from_type  |   to_type    | usage 	     |
+---------+-------+-------------+--------------+-------	     |
+     256 |   144 | modify_expr | var_decl     | op_0 -<------+--------+
+     256 |   264 | modify_expr | array_ref    | op_1  o------+        |
+     256 |   151 | modify_expr | pointer_type | type		      |
+	     .							      |
+      ........							      |
+  from_id | to_id |  from_type   |   to_type    | usage 	      |
+---------+-------+--------------+--------------+-------		      |
+     151 |    40 | pointer_type | integer_type | ptd		      |
+     151 |    11 | pointer_type | integer_cst  | size		      |
+								      |
+								      |
+ select * from node_usage2 where from_id = 144;;		      |
+ from_id | to_id | from_type |     to_type     | usage <--+-----------+
+---------+-------+-----------+-----------------+-------	  |
+     144 |   150 | var_decl  | identifier_node | name  	  |
+     144 |     1 | var_decl  | function_decl   | scpe  	  |
+     144 |    11 | var_decl  | integer_cst     | size  	  |
+     144 |   802 | var_decl  | expr_stmt       | srcl  	  |
+     144 |   151 | var_decl  | pointer_type    | type  	  |
+						       	  |
+						       	  |
+USER							  |
+#  from_id | to_id |  from_type  | to_type  | usage 	  |
+---------+-------+-------------+----------+-------	  |
+     255 |   144 | modify_expr | var_decl | op_0  --------+
+     256 |   144 | modify_expr | var_decl | op_0	  
+     467 |   144 | field_decl  | var_decl | srcl	  
+      |
+      |------+
+             | 									 
+ from_id | to_id |   from_type   |  to_type   | usage 	  			 
+---------+-------+---------------+------------+-------	  			 
+     426 |   467 | component_ref | field_decl | op_1	  			 
+      |										 
+      |------+									
+             | 									
+  from_id | to_id | from_type |    to_type    | usage 	  			
+---------+-------+-----------+---------------+-------	  			
+     393 |   426 | nop_expr  | component_ref | op_0   -------------------------+
+       	      o								       |
+       	      |								       | 
+      +-------+								       | 
+      |									       | 
+      o									       |
+from_id | to_id |   from_type   |    to_type    | usage			       |
+---------+-------+---------------+---------------+-------		       |
+     426 |   466 | component_ref | component_ref | op_0			       |
+     426 |   467 | component_ref | field_decl    | op_1			       |
+       	      o								       |
+      +-------|								       |
+      |	      								       |
+ from_id | to_id | from_type  |     to_type     | usage 		       |
+---------+-------+------------+-----------------+-------		       |
+     467 |   506 | field_decl | identifier_node | name  --> "static_flag"      |
+     467 |   137 | field_decl | record_type     | scpe			       |
+     467 |   282 | field_decl | integer_cst     | size			       |
+     467 |   144 | field_decl | var_decl        | srcl			       |
+     467 |    81 | field_decl | integer_type    | type			       |
+       									       |
+       									       |
+  from_id | to_id | from_type | to_type  | usage                  	       |
+---------+-------+-----------+----------+-------  <----------------------------+
+     366 |   393 | ne_expr   | nop_expr | op_0	  			       
+      o         							       
+      |	       								       
+      +-------+ 							       
+ 	      | 							       
+       	      o 							       
+  from_id | to_id | from_type | to_type | usage	    			       
+---------+-------+-----------+---------+-------	    			       
+     344 |   366 | if_stmt   | ne_expr | cond	    			       
+      o	       
+      |
+      +-------+	
+	      |	
+	      o	
+  from_id | to_id | from_type | to_type | usage 			       
+---------+-------+-----------+---------+-------				       
+     330 |   344 | if_stmt   | if_stmt | next--- STOP HERE!!! NEXT is a completly different statement
+									       
+									       

@@ -1,0 +1,35 @@
+TODOS :
+1. remove all the generated files from cvs
+
+2. create a project file 
+	a. that allows you to easily specify the output directories
+	b. Create a way to specify where the generated source files get put
+
+
+3. create a cleaner way to specify the class model for the code generator 
+	a. usage of rdf 
+	b. generate from the types overview/field overview
+	c. be able to call the meta-classes from daml
+	create a daml version of the meta-model and translate current model into it.
+
+4. create a better interface into types overview
+	add type
+	add field
+	add fields
+	add configuration (type, fields)
+	add reference (fromtype, fromfield, to type, to configuration, count)
+
+5. create a better way to specify the meta-model to use
+	use_metamodel("gcc", "version1")
+
+	5.1 make a way to store the libs of meta-models in perl
+	    create a standard makemaker around them
+	    create a standard debian package around them
+	    fill out standard documents
+	    create a testing framework.
+
+6. Better distributions
+	1. make a script to also call alien on the debian packages
+	2. make a script to use the introspector as the default compiler for debian
+	3. make a env setting as to where the rdf files are written.
+	4. make a way to upload the rdf files to the web server in a nice directory structure.

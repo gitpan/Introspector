@@ -1,0 +1,20 @@
+This is the debian package for the Introspector module.
+It was created by James Michael DuPont <mdupont777@yahoo.com> using dh-make-perl.
+
+contains code from :
+
+the B::* modules
+Malcolm Beattie, mbeattie@sable.ox.ac.uk.
+
+the Class Contract ::
+
+Copyright (c) 1997-2000, Damian Conway. All Rights Reserved.
+This module is free software. It may be used, redistributed
+and/or modified under the terms of the Perl Artistic License
+  (see http://www.perl.com/perl/misc/Artistic.html)
+
+XML Parser
+Copyright (c) 2000-2001, C. Garrett Goebel. All Rights Reserved.
+This module is free software. It may be used, redistributed
+and/or modified under the terms of the Perl Artistic License
+  (see http://www.perl.com/perl/misc/Artistic.html)

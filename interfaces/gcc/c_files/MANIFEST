@@ -1,0 +1,17 @@
+./MANIFEST
+./gcc-intrspctr.c
+./Makefile
+./c-objc-common.c
+./tree.h
+./Makefile.in
+./c-decl.c
+./cp/parse.y
+./cp/decl.c
+./cp/class.c
+./cp/decl2.c
+./cp/optimize.c
+./gcc-intrspctr.h
+./tree-dump.c
+./tree-dump.h
+./java/decl.c
+./java/parse.y

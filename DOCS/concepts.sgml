@@ -1,0 +1,151 @@
+<configuration>
+
+
+<overview>
+a node is 
+a declaration
+</overview>
+
+<type name="module">
+the module is determined by an <attribute name="srcl"/>
+I want to know what the objects are created/declared in module, and by whom.
+</type>
+
+<type name="compiled sourcefile">
+the source file that was compiled, is a module, but it references all the others in the run.
+</type>
+
+<type name="referenced sourcefile">
+the referenced source file is a file that was used directly or indirectly by the compiled sourcefile
+</type>
+
+<type name="author" />
+<type name="person" />
+
+<type name="declaration">
+
+<methods>
+<method name="printXML"></method>
+</methods>
+
+<relationships>
+<relationship from="declaration" to="name">a declaration is given a name</relationship>
+<relationship from="declaration" to="size">a declaration is given a size</relationship>
+<relationship from="declaration" to="type">a declaration has a type</relationship>
+<relationship from="declaration" to="user">a declaration is created by a user</relationship>
+<relationship from="declaration" to="module">a declaration is stored in a module</relationship>
+<relationship from="declaration" to="attributes">a declaration has attributes</relationship>
+</relationships>
+
+<attributes>
+<attribute>user</attribute>
+<attribute>module</attribute>
+<attribute>type</attribute>
+<attribute>attributes</attribute>
+</attributes>
+
+</type>
+
+<type name="nodes" />
+<type name="relationship" />
+<type name="relationships" />
+<type name="attribute" />
+<type name="attributes" />
+<type name="role" />
+<type name="roles" />
+
+
+<type name="rule" />
+<type name="rules" />
+<type name="function" />
+<type name="functions" />
+<type name="method" />
+<type name="methods" />
+<connection type="is-created-by" from="node" to="rule" through="function" />
+
+
+<concepts>
+<concept name="pattern of nodes">
+a pattern of nodes is a set of nodes connected in a certain way,
+</concept>
+
+<concept name="pattern of connections">
+a pattern of connections is a set of connections that have similar attributes
+</concept>
+
+<concept name="understanding of a node">
+a understanding of a node might just be the understanding of how to use it.
+</concept>
+
+
+<concept name="memory of a node">
+we can remember how a node is and how it is used, this can be called a KT (Kogitive Typus)
+</concept>
+
+<concepts>
+
+<events>
+<event name="declaration">
+a declaration is an important event
+</event>
+<event name="creation"/>
+<event name="usage"/>
+<event name="reference"/>
+<event name="visualise"/>
+<event name="manipulate"/>
+<event name="externalise"/>
+<events>
+
+<connections>
+<connection type="is-a-type-of" from="creation" to="verb">
+the creation of a node is not exactly usage becuase the object does not exist yet
+</connection>
+<connection type="is-a-type-of" from="usage"    to="verb">
+the creation of a node is not exactly usage becuase the object does not exist yet
+</connection>
+<connection type="is-a-type-of" from="referencing" to="usage" />
+</connections>
+
+<event>
+create
+create event
+create node event
+creator of node
+cause of creation
+cause of the create node event
+pattern of creation
+parameters of the creation
+context of the creation
+</event>
+
+<event>
+use
+usage
+usage event
+user of node
+cause of usage
+pattern of usage
+
+</event>
+
+<attribute>
+usefullness
+cost of usage
+ease of usage
+</attribute>
+
+<relationship>
+    <group of nodes>
+    <network of nodes>
+
+    <link>
+    <nodes being synonyms>
+    <distance between nodes>
+    <path between nodes>
+    <connection between nodes>
+    </link>
+
+</relationship>
+
+
+</configuration>

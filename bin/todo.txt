@@ -1,0 +1,4 @@
+ERROR:  Unterminated quoted string
+ERROR:  parser: parse error at or near ","
+ERROR:  parser: parse error at or near "else"
+ERROR:  parser: parse error at or near "then"

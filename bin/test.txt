@@ -1,0 +1,10 @@
+Open File./xml/____global.xml at /development/projects/sourceforge/introspector_root/ParseGCCXML.pm line 153.
+./xml/____global.xml.rep at /development/projects/sourceforge/introspector_root/ParseGCCXML.pm line 158.
+./xml/____global.xml.sql at /development/projects/sourceforge/introspector_root/ParseGCCXML.pm line 159.
+Open File./xml/_dump_pointer.xml at /development/projects/sourceforge/introspector_root/ParseGCCXML.pm line 153.
+./xml/_dump_pointer.xml.rep at /development/projects/sourceforge/introspector_root/ParseGCCXML.pm line 158.
+./xml/_dump_pointer.xml.sql at /development/projects/sourceforge/introspector_root/ParseGCCXML.pm line 159.
+move ./xml/tmp_Sat_Jan_19_22_49_40_2002testfunc.xml ->./xml/_dump_pointer.xml at /development/projects/sourceforge/introspector_root/ParseGCCXML.pm line 598.
+File func ./xml/tmp_Sat_Jan_19_22_49_40_2002testfunc.xml
+File func ./xml/tmp_Sat_Jan_19_22_49_40_2002testfunc.xml
+../c_files/c-dump.i,dump_pointer

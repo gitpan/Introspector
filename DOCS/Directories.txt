@@ -1,0 +1,42 @@
+TO PUT INTO OTHER PROJECT:
+	input
+	introspector
+
+GCC INTERFACE :
+	c_files
+	c_files/cp
+	c_files/java
+
+PERL CODE : 
+	gcc
+	B
+	Class
+	Introspector
+	Introspector/GCC
+
+DATABASE CODE: 
+	database
+	output/SQL
+	queries
+
+TESTS :
+	bin
+	T
+	TESTS
+	TESTS/test_cpp
+	TESTS/test_java
+	tests
+	tests/simple
+	tests/xml
+TO LEAVE :
+	DOCS
+TO REMOVE :
+	XMLParser
+	xsl
+	TOOLS
+
+REMOVED :	
+	introspector/*
+	output/SQL	
+	output/Java
+	output/HTML

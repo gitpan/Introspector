@@ -1,0 +1,13 @@
+AddIndex(
+	TableName,
+
+	IndexName,
+		ColumnList(ColumnName,IsUnique,IsNullable)
+	);
+	Relationship	(FromTable, FromColumn, ToTable, ToColumn)
+	
+
+1. make a script to also call alien on the debian packages
+2. make a script to use the introspector as the default compiler for debian
+3. make a env setting as to where the rdf files are written.
+4. make a way to upload the rdf files to the web server in a nice directory structure.

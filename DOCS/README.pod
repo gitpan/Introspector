@@ -1,0 +1,318 @@
+
+=head1 PLAN
+
+plan:
+
+	classes 
+	fields 
+	field types
+	
+=cut
+
+=head1 IDEAS
+
+here is a way to look at a node:
+you have four basic things
+
+a :
+single, node,element,atom,cell,neuron,number,byte,dot,vertex,thing,
+    
+b:a-a
+pair,pointer,edge,arc,line,arrow,street,usage,relationship,association,connection,
+
+c:a*+b*
+bunch,graph,plane,set,network,polynomial,matrix,collection,bag,component,
+    
+d:b+
+selection,iterator,path,trail,way,stack,
+
+
+=cut
+
+=head1 METATYPE
+
+    1. Metatype 
+    A metatype is a package whose instances will translate into a fully qualified type string.
+    A metatype is a component of nodes derived from type.
+    A metatype is a mangled name of a function
+    A metatype is a what is in the bloodhounds mind when it is looking for something.
+    A metatype is a c++ class
+    
+    It can describe a simple type like 
+    an integer, 
+    a string, 
+    an enumeration, 
+    a function,
+    or even a reference to another object.   
+
+=cut
+
+=head1 Symbol
+
+    ##############################
+    Sign. Symbol. Letter. Icon. 
+    Alphabet.
+    ##############################
+
+=cut
+
+=head1 Word
+
+    ##############
+    Word.
+    Dictionary
+    ##############
+
+=cut
+
+=head1
+
+    ##############
+    Sentence.
+    Paragraph.
+    ##############
+
+=cut
+
+=head1 Sign
+
+    ##################
+    Significant.
+    Signified.
+    Interpretation.
+    Meaning.
+    Context.
+    ##################
+
+=cut
+
+=head1 Message
+
+    ##############################
+    Sender
+    Contents
+    Receiver
+    ##############################
+
+=cut
+
+=head1
+
+    Constant Value  :
+    The constant value is a type of Object. 
+    A constant value is a type of variable.
+
+    Enum : 
+    the set of possible values of an object are also a type.
+    The possible values have names.
+    The names are also able to be aliased.
+
+    Bit :
+    a True False Value
+
+    Byte :
+    a tuple of 8 independant bits columns
+    a enumeration from 1 to 2^8 (256)
+    
+    Char :
+    a Byte that is mapped onto the ascii table alphabet
+    
+    Integer : 
+    An integer is a count of numbers
+ 
+    Value :
+    a single value of a type
+
+    Vector :
+    a set sized number of elements
+
+    String :
+    A sequence of Characters
+    Can be seen as a very long number, where each char is a digit and the string is a sequence of digits.
+
+    Variable :
+    A named place for a value of a type can be stored and that is initialized to a certain value.
+
+    Tuple/Record
+    A Vector of Variables make up a tuple.
+
+    Pointer : 
+    Reference to an Value in memory
+
+    Index  :
+    Reference to an Value in in an Vector in memory
+
+    Namespace :
+    a set of names of types
+
+    List : 
+    a chain of types
+
+    Selection of types:
+    a small set of types, maybe stored in a list
+    
+    Function : 
+    a transformation that will take an object in a given state and turn it into a new state.
+
+=cut
+
+=head1 TYPE
+
+    A Type represents a set of instances.
+    The set of types represents many sets of sets of many instances.
+    a topologie of instances.
+
+=cut
+
+=head1 INSTANCE
+
+    Instances of types :
+    1. on one computer
+    2. in one network of computers
+    3. in one users mind, as seen on one computer
+    4. in one persons mind at a given time
+    5. in one persons mind at a during his/hers entire lifetime
+    7. in group persons mind at a during thier entire lifetime
+    8. written on to a computer by a person in one session.
+    9. installed on a computer and registered into windows registry.
+
+=cut
+
+=head1 MetaType
+
+    What is a metatype : 
+    A metatype is a type that describes another type.
+    The instances of the type metatype are objects that describe types.    
+    The object instance of the type metatype that is filled with data to describe the type metatype 
+    A metatype is a difficult object to grasp. 
+    
+    A reference to a type is also difficult to grasp :
+    is it the value of a key name of the type.
+
+    An enumeration of types as well.
+    A metatype describes the naming of a type.
+    A metatype describes the relationship between types.
+    A metatype must handle the selection of a single type from a set of types. 
+
+    What is a type : 
+    a type describes a set of objects :
+    a set of objects that are described by a type :    
+    a type is a set of attributes that common to a set of objects.
+
+    What is an Object :
+    an Object is a set of values.
+    a Aspect of an object is a type of operation that we can apply to it.
+
+    What is an Object :
+    An instance of an Type in memory
+    
+    What is an attribute : 
+    an attribute is an aspect of an object,
+    an object has multiple attributes that occur togeather.
+  
+    What is an Attribute :
+    a name for a of values of an object
+    
+    What are Attributes :
+    a set of attributes of an object
+ 
+=cut 
+
+=head2 Attribute
+
+    What does it mean to Group by an Attribute :
+    The set of all the distinct subsets of the objects that are grouped by the same constant attribute value.
+    a set of values that are common in an attribute of an type of object is a constant attribute.
+
+    Join Two Groups by Two Different Attribute :
+    If an grouping objects by an attribute is the same 
+    as a different grouping by a different attribute  
+    then the two attributes are related.
+
+    What is the Topologie of a set of types : 
+    The set of the subsets of a set of types.
+
+    What is the Topology of the objects of type : 
+    The set of all the distinct subsets of the objects of a type
+
+=cut
+
+=head2 INTERFACE
+
+    Interface : 
+    a set of functions that are supported by a given set of types
+    
+    State : 
+    an object is in the state of being an instance of a type.
+
+    Session :
+    A session is a time interval a connection between two things.
+
+
+=cut
+
+=head2 CONNECTION
+
+    What is a Connection : 
+    A link between two things
+
+    What is an "AND" connection : 
+    The positive connection between two nodes.
+    
+    What is a "Not" Operator :
+    The negation of a value
+
+    Relationship:
+    a pair of values make up a binary relationship.
+
+=cut
+
+=head2 METATYPE USAGE
+
+    What can I do with a metatype?
+
+    Create an instance of it as a type? But what does that mean? 
+    Create an instance of it as a object? But what does that mean? 
+    Encode the bits of data to the form expected of the for that type of data!
+    Write the bits in the right format.
+   
+    What is an instance of a type?
+    Does it live inside a compiler?    
+    
+    What can I do with a metatype?
+    encode it as a stream of bytes.
+    decode it from a stream of bytes.
+    encode it in a instance in memory.    
+    encode it as a stream of bytes it into a 
+    programming language       : java, perl 
+    data description language  : SQL.
+    
+    Create an metatype from the description of a person.    
+    Replace a variable in the metatype with another variable.
+    Search through the representation and edit it.
+    
+=cut
+
+
+=head1 COMPLEX TYPES
+    
+    Hash Function :
+    a relationship between strings and numbers that maps a string onto a unique number
+
+    Hash Table :
+    an array that contains the strings in the cells defined by the hash table
+
+    Binary Tree :
+    a set of pairs of references to Nodes that contain values.
+
+    Key    :
+    Reference to an object in in an hash table keyed by an attribute in memory
+
+=cut
+
+=head1 GLOBAL_OBJECT_ID
+
+    Global Object Identifier: 
+    Reference to an object on a memory or disk on a different computer in the network
+
+=cut

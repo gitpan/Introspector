@@ -1,0 +1,6 @@
+Revision history for Perl extension Introspector::GCC.
+
+0.01  Thu Dec  5 23:20:19 2002
+	- original version; created by h2xs 1.21 with options
+		-O -n Introspector::GCC
+

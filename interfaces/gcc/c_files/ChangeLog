@@ -1,0 +1,183 @@
+2002-12-15 13:14  mdupont
+
+	* ChangeLog, Makefile.in, escaping.c, tree-dump.c, tree-dump.h:
+	first intergration
+
+2002-12-14 17:31  marioluca
+
+	* Makefile.in, escaping.c: 
+	 Modified Files:
+		c_files/Makefile.in Add include path for libxml2
+		c_files/escaping.c  Put bogus parameter for old redland to
+	zero
+	
+	-------------------------------------------------------------------
+	--------
+
+2002-12-14 17:02  marioluca
+
+	* Makefile.in, escaping.c, tree-dump.c: 
+	-------------------------------------------------------------------
+	--- Modified Files:	     c_files/Makefile.in  Added escaping.o
+	entry	  c_files/tree-dump.c  Patch for dumping locals as literals
+	and escaping
+	
+	Added Files:	c_files/escaping.c  Escaped versions of librdf
+	functions
+	-------------------------------------------------------------------
+	---
+
+2002-12-14 15:08  mdupont
+
+	* ChangeLog: update the change log
+
+2002-12-14 15:05  mdupont
+
+	* ChangeLog, c-objc-common.c, cp/decl2.c: fixed two dump_node calls
+
+2002-12-07 17:58  mdupont
+
+	* ChangeLog: updated the changelog
+
+2002-12-07 17:29  mdupont
+
+	* c-decl.c, tree-dump.c: added this files c-decl.c updated the
+	tree-dump perl interface
+
+2002-12-07 16:44  mdupont
+
+	* ChangeLog: adding a changelog
+
+2002-12-07 16:42  mdupont
+
+	* c-common.c, c-common.c.diff, c-common.h, c-common.h.diff,
+	c-decl.c, c-decl.c.diff, c-dump.c, c-dump.c.diff, c-dump.h,
+	c-dump.h.diff, c-parse.c, c-parse.c.diff, diff-c-dump.c, encode.c,
+	gcc-main-rdf-urN.patch, gcc-main-rdf.patch, gcc.c,
+	gcc_introspector.pm, makediffs.sh, prepare.sh, process.pl,
+	processfunc.pl, ssa-patch.patch, ssa-rdf-patch.patch, test.sh,
+	toplev.c: cleaning up the directory removing all unneeded files
+
+2002-12-07 16:27  mdupont
+
+	* MANIFEST, Makefile, Makefile.in, c-decl.c, c-objc-common.c,
+	tree-dump.c, tree.h, cp/class.c, cp/decl2.c, cp/optimize.c,
+	java/decl.c, java/parse.y: to test again
+
+2002-12-06 19:21  mdupont
+
+	* c-decl.c: [no log message]
+
+2002-12-06 19:14  mdupont
+
+	* tree-dump.c: cygwin is working
+
+2002-12-04 09:07  mdupont
+
+	* tree-dump.c: added a todo
+
+2002-12-03 20:34  mdupont
+
+	* cp/decl.c: this works
+
+2002-12-03 20:18  mdupont
+
+	* gcc-main-rdf-urN.patch: this one works!
+
+2002-12-03 08:47  mdupont
+
+	* gcc-intrspctr.c, gcc-intrspctr.h, tree-dump.c, tree-dump.h,
+	cp/parse.y: udpates
+
+2002-12-03 08:46  mdupont
+
+	* gcc-main-rdf-urN.patch: updates!
+
+2002-12-02 09:02  mdupont
+
+	* gcc-main-rdf-urN.patch: update
+
+2002-12-02 04:45  mdupont
+
+	* gcc-main-rdf-urN.patch: new patch, java support does not work yet
+
+2002-11-26 00:42  mdupont
+
+	* gcc-main-rdf.patch: this is support of the main gcc branch for
+	the rdf based introspector
+
+2002-11-25 09:55  mdupont
+
+	* ssa-rdf-patch.patch: this is untested code
+
+2002-11-25 00:19  mdupont
+
+	* ssa-rdf-patch.patch: this is the beginnings of the libRDF support
+
+2002-11-22 01:00  mdupont
+
+	* ssa-patch.patch: experimental patch to enable function bodies
+
+2002-11-03 19:19  mdupont
+
+	* ssa-patch.patch: added in the ssa patch
+
+2002-04-09 07:38  mdupont
+
+	* MANIFEST, Makefile, makediffs.sh, prepare.sh, test.sh: This is a
+	major update. All main-non-generated files have been boilerplated
+	with GPL. The PAL has been removed for the most part. the rest to
+	come.
+
+2002-04-09 07:33  mdupont
+
+	* gcc_introspector.pm, process.pl, processfunc.pl: to apply GPL
+
+2002-02-24 23:08  mdupont
+
+	* #c-common.h.diff#, #c-dump.i#, #makediffs.sh#, c-common.def,
+	c-dump.c.diff2, c-dump.i, c-dump.s, c-dumper.s, collect2, cpp,
+	cpp0, encode.c~, gcc_introspector.pm~, gcov, genattr, genattrtab,
+	gencheck, gencodes, genconfig, genemit, genextract, genflags,
+	gengenrtl, genopinit, genoutput, genpeep, genrecog, libgcc.mk,
+	makediffs.sh, makediffs.sh~, perl.i, prepare.sh, prepare.sh~,
+	processfunc.pl~, specs, test.i, test.sh, tradcpp0, tree.s,
+	tree_small.i, xgcc: get rid of uneeded files
+
+2002-02-18 08:37  mdupont
+
+	* cc1, tree.i, tree.i.tu: deleted big files
+
+2002-02-17 23:19  mdupont
+
+	* #c-common.h.diff#, #c-dump.i#, #makediffs.sh#, c-common.c,
+	c-common.c.diff, c-common.def, c-common.h, c-common.h.diff,
+	c-decl.c, c-decl.c.diff, c-dump.h.diff, c-dump.i, c-dump.s,
+	c-dumper.s, c-parse.c, c-parse.c.diff, diff-c-dump.c, encode.c,
+	encode.c~, gcc.c, gcc_introspector.pm, gcc_introspector.pm~,
+	makediffs.sh, makediffs.sh~, prepare.sh, prepare.sh~, process.pl,
+	processfunc.pl, processfunc.pl~, test.sh, toplev.c: Here are the
+	changes to the c-files
+
+2002-02-17 22:23  mdupont
+
+	* c-dump.c, c-dump.c.diff, c-dump.h: this is a major update
+
+2002-01-07 22:12  moorman
+
+	* c-dump.c, c-dump.c.diff, c-dump.c.diff2, c-dump.h, cc1, collect2,
+	cpp, cpp0, gcov, genattr, genattrtab, gencheck, gencodes,
+	genconfig, genemit, genextract, genflags, gengenrtl, genopinit,
+	genoutput, genpeep, genrecog, libgcc.mk, perl.i, specs, test.i,
+	tradcpp0, tree.i, tree.i.tu, tree.s, tree_small.i, xgcc: Initial
+	revision
+
+2002-01-07 22:12  moorman
+
+	* c-dump.c, c-dump.c.diff, c-dump.c.diff2, c-dump.h, cc1, collect2,
+	cpp, cpp0, gcov, genattr, genattrtab, gencheck, gencodes,
+	genconfig, genemit, genextract, genflags, gengenrtl, genopinit,
+	genoutput, genpeep, genrecog, libgcc.mk, perl.i, specs, test.i,
+	tradcpp0, tree.i, tree.i.tu, tree.s, tree_small.i, xgcc: Initial
+	import.
+

@@ -1,0 +1,31 @@
+();
+sub OpenOutputFile {
+    package FileHandling;
+    my $filename = shift @_;
+    my $fh = 'FileHandle'->new;
+    if ($fh->open('>' . $outputbase . $filename)) {
+        return $fh;
+    }
+    else {
+        die "cannot open $filename";
+    }
+}
+sub OpenReadFile {
+    package FileHandling;
+    my $filename = shift @_;
+    my $fh = 'FileHandle'->new;
+    if ($fh->open($inputbase . $filename)) {
+        return $fh;
+    }
+    else {
+        die "cannot open $filename";
+    }
+}
+sub CloseFile {
+    package FileHandling;
+    my $fh = shift @_;
+    $fh->close;
+}
+sub main {
+    OpenOutputFile 'X';
+}

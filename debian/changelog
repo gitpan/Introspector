@@ -1,0 +1,13 @@
+libintrospector-perl (0.04-2) unstable; urgency=low
+
+  * cleaned up perl
+
+ -- James Michael DuPont <mdupont777@yahoo.com>  Sun, 19 Jan 2002 13:20:30 +0100
+
+	
+libintrospector-perl (0.04-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- James Michael DuPont <mdupont777@yahoo.com>  Thu, 21 Nov 2002 21:45:47 +0100
+

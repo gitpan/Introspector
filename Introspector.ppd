@@ -1,0 +1,10 @@
+<SOFTPKG NAME="Introspector" VERSION="0,04,0,0">
+	<TITLE>Introspector</TITLE>
+	<ABSTRACT></ABSTRACT>
+	<AUTHOR>James Michael DuPont &lt;mdupont777@yahoo.com&gt;</AUTHOR>
+	<IMPLEMENTATION>
+		<OS NAME="linux" />
+		<ARCHITECTURE NAME="i386-linux-thread-multi" />
+		<CODEBASE HREF="" />
+	</IMPLEMENTATION>
+</SOFTPKG>

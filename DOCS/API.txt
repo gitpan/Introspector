@@ -1,0 +1,59 @@
+
+*Class Introspector::Foo represents an introspection API for a class Foo.
+
+Foo being one of the following :
+    GCC::CC1
+    GCC::cpp
+    Bison
+    Make
+    autoconf
+    automake
+    dpackage
+
+*Class Introspector::Context - inspired from perls cv struct.
+*Class Introspector::Statement - inspired by RDF -- see Raptor/Redland.
+*Class Introspector::Object  - inspired by UML ;
+
+*Methods
+
+A statement in context inside the introspection sytem .
+
+get current context - returns a Context object.
+get current statement - returns a Statement object.
+
+get current subject name  - name
+get current subject type  - type
+get current subject decl  - decl
+
+get current function name  - name
+get current function type  - type
+get current function decl  - decl
+
+get current object name  - name
+get current object type  - type
+get current object decl  - decl
+
+Statement : 
+	  Subject Function Object .
+
+Where Function is set to be equalvalent to the predicate of statement.
+
+
+
+*Trace FUNCTIONS
+
+Trace functions are logger like functions installed via intercepts onto objects and classes of objects.
+
+The classifier of UML allows you to sample and classify based on certain criteria,
+this criteria could be the value of some field, the classifier.
+
+
+
+*INTERCEPT FUNCTIONS
+
+The intercept functions are the most important API functions,
+they allow you to intercept function calls, via PRE can POST conditions.
+These can be used to create class hierarchies based on data that is being observered.
+
+
+####

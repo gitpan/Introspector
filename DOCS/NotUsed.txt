@@ -1,0 +1,102 @@
+
+sub Backwards
+{
+    my $id = shift;
+    my @stack;
+    # is the from pointed to?, the go back to who points to it.    
+    while ($id and exists($links{$id})) # there is an entry for this node
+    {
+	
+	my $from   = $links{$id}->{lowestn};  # FROM NODE
+	my $to     = $links{$id}->{node};     # TO   NODE
+	if ($from)
+	{
+	    my $fromid = ${$from->id};    
+            # there is a pointer to this
+            #ChainBack($fromid);# recurse
+            unshift @stack,$id;
+	    if ($seen{$id})
+	    {
+		$id = undef; # stop
+	    }
+	    else
+	    {	$seen{$id}++;
+		$id = $fromid; # chain back one
+	    }
+        }
+        else
+	{
+	    $id = undef;
+	}
+    }
+}
+
+# reads links with the id of node
+sub PrintNode
+{
+    my $node = shift;
+    
+    my $from   = $links{$node}->{lowestn};  # FROM NODE
+    my $to     = $links{$node}->{node};     # TO   NODE
+    return unless $from;
+
+    return unless $to;
+
+    my $toid = ${$to->id};
+
+    my $fromid = ${$from->id};
+#########################################################
+#   FROM -> TO
+
+#   If we have to backtrack to a node 
+#   then the next node we visit is not from the last node that 
+#   we visited,
+#   that means we have to jump.
+
+#   If we visit the fields of a record, then we don't want to visit a different record until the current record 
+#   has been visited.
+#   That means we will have to remember that we are in the state of visited a record, and change the prices accordingly 
+#   until the entire record has been visited, at least untill the nodes specified by the price table have been visited and
+#   the backtracking has started.
+
+#   what does it mean to have visited a node, 
+#  when we visit a node of a special type, we load a new set of prices.
+#  when we are visiting a type, we dont want to visit other types, or even this type.
+
+    print "<VISIT ";    
+    print "From=\"$fromid\" ";
+    print "from_type=\"" .NodeVisitors::GetNodeType($from) . "\" ";
+    print "weight=\"" . $links{$node}->{lowestw} . "\" ";    # weight    
+    print "rel=\"". $links{$node}->{lowestr} . "\" "; # rel    
+    print "to_type=\"".  NodeVisitors::GetNodeType($to) . "\" ";
+    print "to=\"". $toid . "\" ";
+    print ">\n";
+
+    print "<from>";    
+    NodeVisitors::ProcessNode($from);
+    print "</from>";   
+
+    print "<to>";     
+    NodeVisitors::ProcessNode($to);
+    print "</to>";   
+
+    print "</VISIT>";    
+}
+
+sub XMLDUMP
+{
+    my $ofilename= shift;
+# HERE WE DO SOMETHING PRETTY COOL
+    my $nicexml = OpenOutputFile ($ofilename . "_nice.xml");
+
+    print $nicexml "<NICEXMLROOT>\n";
+    my $prev =select $nicexml;
+    map # find all the nodes
+    {
+      NodeVisitors::ProcessIdentifier($_);
+    } 
+    keys %NodeVisitors::identifiers;
+    select $prev;
+    print $nicexml "</NICEXMLROOT>\n";
+    close $nicexml;
+}

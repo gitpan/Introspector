@@ -1,0 +1,2059 @@
+Global symbol "$All" requires explicit package name at ./test.pl line 840.
+Global symbol "$BaseClass" requires explicit package name at ./test.pl line 7262.
+Global symbol "$BaseClass" requires explicit package name at ./test.pl line 7266.
+Global symbol "$BaseClass" requires explicit package name at ./test.pl line 7345.
+Global symbol "$BaseClass" requires explicit package name at ./test.pl line 7349.
+Global symbol "$BaseClass" requires explicit package name at ./test.pl line 7516.
+Global symbol "$BaseClass" requires explicit package name at ./test.pl line 7520.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 110.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 118.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 134.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 142.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 158.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 166.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 182.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 190.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 206.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 214.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 230.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 238.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 254.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 262.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 278.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 286.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 302.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 310.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 326.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 334.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 350.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 358.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 374.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 382.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 398.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 406.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 422.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 430.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 446.
+Global symbol "$Debug" requires explicit package name at ./test.pl line 454.
+Global symbol "$ExportLevel" requires explicit package name at ./test.pl line 107.
+Global symbol "$ExportLevel" requires explicit package name at ./test.pl line 131.
+Global symbol "$ExportLevel" requires explicit package name at ./test.pl line 155.
+Global symbol "$ExportLevel" requires explicit package name at ./test.pl line 179.
+Global symbol "$ExportLevel" requires explicit package name at ./test.pl line 203.
+Global symbol "$ExportLevel" requires explicit package name at ./test.pl line 227.
+Global symbol "$ExportLevel" requires explicit package name at ./test.pl line 251.
+Global symbol "$ExportLevel" requires explicit package name at ./test.pl line 275.
+Global symbol "$ExportLevel" requires explicit package name at ./test.pl line 299.
+Global symbol "$ExportLevel" requires explicit package name at ./test.pl line 323.
+Global symbol "$ExportLevel" requires explicit package name at ./test.pl line 347.
+Global symbol "$ExportLevel" requires explicit package name at ./test.pl line 371.
+Global symbol "$ExportLevel" requires explicit package name at ./test.pl line 395.
+Global symbol "$ExportLevel" requires explicit package name at ./test.pl line 419.
+Global symbol "$ExportLevel" requires explicit package name at ./test.pl line 443.
+Global symbol "$PASS2XML" requires explicit package name at ./test.pl line 8021.
+Global symbol "$PASS2XML" requires explicit package name at ./test.pl line 8039.
+Global symbol "$PASS2XML" requires explicit package name at ./test.pl line 8057.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 110.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 118.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 134.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 142.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 158.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 166.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 182.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 190.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 206.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 214.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 230.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 238.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 254.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 262.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 278.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 286.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 302.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 310.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 326.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 334.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 350.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 358.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 374.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 382.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 398.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 406.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 422.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 430.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 446.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 454.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 524.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 565.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 584.
+Global symbol "$Verbose" requires explicit package name at ./test.pl line 634.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4035.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4035.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4038.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4038.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4041.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4041.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4044.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4044.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4047.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4047.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4050.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4050.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4053.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4053.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4056.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4056.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4059.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4059.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4062.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4062.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4065.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4065.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4068.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4068.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4071.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4071.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4074.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4074.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4077.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4077.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4080.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4080.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4083.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4083.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4086.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4086.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4089.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4089.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4092.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4092.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4095.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4095.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4098.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4098.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4101.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4101.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4104.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4105.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4110.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4110.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4110.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4115.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4116.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4121.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4121.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4121.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4126.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4127.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4132.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4132.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4132.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4137.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4138.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4143.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4143.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4143.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4148.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4149.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4154.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4154.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4154.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4159.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4160.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4165.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4165.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4165.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4170.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4171.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4176.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4176.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4176.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4181.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4182.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4187.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4187.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4187.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4192.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4193.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4198.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4198.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4198.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4203.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4204.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4209.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4209.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4209.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4214.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4215.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4220.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4220.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4220.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4225.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4226.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4231.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4231.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4231.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4236.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4237.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4242.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4242.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4242.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4247.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4248.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4253.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4253.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4253.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4258.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4259.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4264.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4264.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4264.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4269.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4270.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4275.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4275.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4275.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4280.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4281.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4286.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4286.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4286.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4291.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4292.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4297.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4297.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4297.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4302.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4303.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4308.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4308.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4308.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4313.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4314.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4319.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4319.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4319.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4324.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4325.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4330.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4330.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4330.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4335.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4336.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4341.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4341.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4341.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4346.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4347.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4352.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4352.
+Global symbol "$attr" requires explicit package name at ./test.pl line 4352.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4924.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4927.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4928.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4936.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4939.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4940.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4948.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4951.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4952.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4960.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4963.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4964.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4972.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4975.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4976.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4984.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4987.
+Global symbol "$clause" requires explicit package name at ./test.pl line 4988.
+Global symbol "$ctor" requires explicit package name at ./test.pl line 4706.
+Global symbol "$ctor" requires explicit package name at ./test.pl line 4719.
+Global symbol "$ctor" requires explicit package name at ./test.pl line 4732.
+Global symbol "$ctor" requires explicit package name at ./test.pl line 4745.
+Global symbol "$ctor" requires explicit package name at ./test.pl line 4758.
+Global symbol "$ctor" requires explicit package name at ./test.pl line 4771.
+Global symbol "$current" requires explicit package name at ./test.pl line 3059.
+Global symbol "$current" requires explicit package name at ./test.pl line 3060.
+Global symbol "$current" requires explicit package name at ./test.pl line 3060.
+Global symbol "$current" requires explicit package name at ./test.pl line 3061.
+Global symbol "$current" requires explicit package name at ./test.pl line 3434.
+Global symbol "$current" requires explicit package name at ./test.pl line 3435.
+Global symbol "$current" requires explicit package name at ./test.pl line 3438.
+Global symbol "$current" requires explicit package name at ./test.pl line 3438.
+Global symbol "$current" requires explicit package name at ./test.pl line 3438.
+Global symbol "$current" requires explicit package name at ./test.pl line 3439.
+Global symbol "$current" requires explicit package name at ./test.pl line 3441.
+Global symbol "$depth" requires explicit package name at ./test.pl line 5021.
+Global symbol "$depth" requires explicit package name at ./test.pl line 5025.
+Global symbol "$fields" requires explicit package name at ./test.pl line 1373.
+Global symbol "$fields" requires explicit package name at ./test.pl line 1374.
+Global symbol "$fields" requires explicit package name at ./test.pl line 1481.
+Global symbol "$fields" requires explicit package name at ./test.pl line 5235.
+Global symbol "$fields" requires explicit package name at ./test.pl line 5339.
+Global symbol "$fields" requires explicit package name at ./test.pl line 5421.
+Global symbol "$genpkg" requires explicit package name at ./test.pl line 1083.
+Global symbol "$genpkg" requires explicit package name at ./test.pl line 1084.
+Global symbol "$genseq" requires explicit package name at ./test.pl line 1082.
+Global symbol "$inputbase" requires explicit package name at ./test.pl line 1003.
+Global symbol "$inputbase" requires explicit package name at ./test.pl line 1010.
+Global symbol "$inputbase" requires explicit package name at ./test.pl line 1017.
+Global symbol "$inputbase" requires explicit package name at ./test.pl line 1024.
+Global symbol "$inputbase" requires explicit package name at ./test.pl line 1031.
+Global symbol "$inputbase" requires explicit package name at ./test.pl line 996.
+Global symbol "$location" requires explicit package name at ./test.pl line 3026.
+Global symbol "$location" requires explicit package name at ./test.pl line 3030.
+Global symbol "$location" requires explicit package name at ./test.pl line 3031.
+Global symbol "$location" requires explicit package name at ./test.pl line 3039.
+Global symbol "$location" requires explicit package name at ./test.pl line 3039.
+Global symbol "$method" requires explicit package name at ./test.pl line 4411.
+Global symbol "$method" requires explicit package name at ./test.pl line 4413.
+Global symbol "$method" requires explicit package name at ./test.pl line 4414.
+Global symbol "$method" requires explicit package name at ./test.pl line 4414.
+Global symbol "$method" requires explicit package name at ./test.pl line 4418.
+Global symbol "$method" requires explicit package name at ./test.pl line 4418.
+Global symbol "$method" requires explicit package name at ./test.pl line 4424.
+Global symbol "$method" requires explicit package name at ./test.pl line 4426.
+Global symbol "$method" requires explicit package name at ./test.pl line 4427.
+Global symbol "$method" requires explicit package name at ./test.pl line 4427.
+Global symbol "$method" requires explicit package name at ./test.pl line 4431.
+Global symbol "$method" requires explicit package name at ./test.pl line 4431.
+Global symbol "$method" requires explicit package name at ./test.pl line 4437.
+Global symbol "$method" requires explicit package name at ./test.pl line 4439.
+Global symbol "$method" requires explicit package name at ./test.pl line 4440.
+Global symbol "$method" requires explicit package name at ./test.pl line 4440.
+Global symbol "$method" requires explicit package name at ./test.pl line 4444.
+Global symbol "$method" requires explicit package name at ./test.pl line 4444.
+Global symbol "$method" requires explicit package name at ./test.pl line 4450.
+Global symbol "$method" requires explicit package name at ./test.pl line 4452.
+Global symbol "$method" requires explicit package name at ./test.pl line 4453.
+Global symbol "$method" requires explicit package name at ./test.pl line 4453.
+Global symbol "$method" requires explicit package name at ./test.pl line 4457.
+Global symbol "$method" requires explicit package name at ./test.pl line 4457.
+Global symbol "$method" requires explicit package name at ./test.pl line 4463.
+Global symbol "$method" requires explicit package name at ./test.pl line 4465.
+Global symbol "$method" requires explicit package name at ./test.pl line 4466.
+Global symbol "$method" requires explicit package name at ./test.pl line 4466.
+Global symbol "$method" requires explicit package name at ./test.pl line 4470.
+Global symbol "$method" requires explicit package name at ./test.pl line 4470.
+Global symbol "$method" requires explicit package name at ./test.pl line 4476.
+Global symbol "$method" requires explicit package name at ./test.pl line 4478.
+Global symbol "$method" requires explicit package name at ./test.pl line 4479.
+Global symbol "$method" requires explicit package name at ./test.pl line 4479.
+Global symbol "$method" requires explicit package name at ./test.pl line 4483.
+Global symbol "$method" requires explicit package name at ./test.pl line 4483.
+Global symbol "$method" requires explicit package name at ./test.pl line 4489.
+Global symbol "$method" requires explicit package name at ./test.pl line 4491.
+Global symbol "$method" requires explicit package name at ./test.pl line 4492.
+Global symbol "$method" requires explicit package name at ./test.pl line 4492.
+Global symbol "$method" requires explicit package name at ./test.pl line 4496.
+Global symbol "$method" requires explicit package name at ./test.pl line 4496.
+Global symbol "$method" requires explicit package name at ./test.pl line 4502.
+Global symbol "$method" requires explicit package name at ./test.pl line 4504.
+Global symbol "$method" requires explicit package name at ./test.pl line 4505.
+Global symbol "$method" requires explicit package name at ./test.pl line 4505.
+Global symbol "$method" requires explicit package name at ./test.pl line 4509.
+Global symbol "$method" requires explicit package name at ./test.pl line 4509.
+Global symbol "$method" requires explicit package name at ./test.pl line 4515.
+Global symbol "$method" requires explicit package name at ./test.pl line 4517.
+Global symbol "$method" requires explicit package name at ./test.pl line 4518.
+Global symbol "$method" requires explicit package name at ./test.pl line 4518.
+Global symbol "$method" requires explicit package name at ./test.pl line 4522.
+Global symbol "$method" requires explicit package name at ./test.pl line 4522.
+Global symbol "$method" requires explicit package name at ./test.pl line 4528.
+Global symbol "$method" requires explicit package name at ./test.pl line 4530.
+Global symbol "$method" requires explicit package name at ./test.pl line 4531.
+Global symbol "$method" requires explicit package name at ./test.pl line 4531.
+Global symbol "$method" requires explicit package name at ./test.pl line 4535.
+Global symbol "$method" requires explicit package name at ./test.pl line 4535.
+Global symbol "$method" requires explicit package name at ./test.pl line 4541.
+Global symbol "$method" requires explicit package name at ./test.pl line 4543.
+Global symbol "$method" requires explicit package name at ./test.pl line 4544.
+Global symbol "$method" requires explicit package name at ./test.pl line 4544.
+Global symbol "$method" requires explicit package name at ./test.pl line 4548.
+Global symbol "$method" requires explicit package name at ./test.pl line 4548.
+Global symbol "$method" requires explicit package name at ./test.pl line 4554.
+Global symbol "$method" requires explicit package name at ./test.pl line 4556.
+Global symbol "$method" requires explicit package name at ./test.pl line 4557.
+Global symbol "$method" requires explicit package name at ./test.pl line 4557.
+Global symbol "$method" requires explicit package name at ./test.pl line 4561.
+Global symbol "$method" requires explicit package name at ./test.pl line 4561.
+Global symbol "$method" requires explicit package name at ./test.pl line 4567.
+Global symbol "$method" requires explicit package name at ./test.pl line 4569.
+Global symbol "$method" requires explicit package name at ./test.pl line 4570.
+Global symbol "$method" requires explicit package name at ./test.pl line 4570.
+Global symbol "$method" requires explicit package name at ./test.pl line 4574.
+Global symbol "$method" requires explicit package name at ./test.pl line 4574.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3443.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3447.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3448.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3452.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3453.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3457.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3458.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3462.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3463.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3467.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3468.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3472.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3473.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3477.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3478.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3482.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3483.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3665.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3670.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3675.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3680.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3685.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3690.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3695.
+Global symbol "$msg_target" requires explicit package name at ./test.pl line 3700.
+Global symbol "$name" requires explicit package name at ./test.pl line 4105.
+Global symbol "$name" requires explicit package name at ./test.pl line 4105.
+Global symbol "$name" requires explicit package name at ./test.pl line 4107.
+Global symbol "$name" requires explicit package name at ./test.pl line 4110.
+Global symbol "$name" requires explicit package name at ./test.pl line 4116.
+Global symbol "$name" requires explicit package name at ./test.pl line 4116.
+Global symbol "$name" requires explicit package name at ./test.pl line 4118.
+Global symbol "$name" requires explicit package name at ./test.pl line 4121.
+Global symbol "$name" requires explicit package name at ./test.pl line 4127.
+Global symbol "$name" requires explicit package name at ./test.pl line 4127.
+Global symbol "$name" requires explicit package name at ./test.pl line 4129.
+Global symbol "$name" requires explicit package name at ./test.pl line 4132.
+Global symbol "$name" requires explicit package name at ./test.pl line 4138.
+Global symbol "$name" requires explicit package name at ./test.pl line 4138.
+Global symbol "$name" requires explicit package name at ./test.pl line 4140.
+Global symbol "$name" requires explicit package name at ./test.pl line 4143.
+Global symbol "$name" requires explicit package name at ./test.pl line 4149.
+Global symbol "$name" requires explicit package name at ./test.pl line 4149.
+Global symbol "$name" requires explicit package name at ./test.pl line 4151.
+Global symbol "$name" requires explicit package name at ./test.pl line 4154.
+Global symbol "$name" requires explicit package name at ./test.pl line 4160.
+Global symbol "$name" requires explicit package name at ./test.pl line 4160.
+Global symbol "$name" requires explicit package name at ./test.pl line 4162.
+Global symbol "$name" requires explicit package name at ./test.pl line 4165.
+Global symbol "$name" requires explicit package name at ./test.pl line 4171.
+Global symbol "$name" requires explicit package name at ./test.pl line 4171.
+Global symbol "$name" requires explicit package name at ./test.pl line 4173.
+Global symbol "$name" requires explicit package name at ./test.pl line 4176.
+Global symbol "$name" requires explicit package name at ./test.pl line 4182.
+Global symbol "$name" requires explicit package name at ./test.pl line 4182.
+Global symbol "$name" requires explicit package name at ./test.pl line 4184.
+Global symbol "$name" requires explicit package name at ./test.pl line 4187.
+Global symbol "$name" requires explicit package name at ./test.pl line 4193.
+Global symbol "$name" requires explicit package name at ./test.pl line 4193.
+Global symbol "$name" requires explicit package name at ./test.pl line 4195.
+Global symbol "$name" requires explicit package name at ./test.pl line 4198.
+Global symbol "$name" requires explicit package name at ./test.pl line 4204.
+Global symbol "$name" requires explicit package name at ./test.pl line 4204.
+Global symbol "$name" requires explicit package name at ./test.pl line 4206.
+Global symbol "$name" requires explicit package name at ./test.pl line 4209.
+Global symbol "$name" requires explicit package name at ./test.pl line 4215.
+Global symbol "$name" requires explicit package name at ./test.pl line 4215.
+Global symbol "$name" requires explicit package name at ./test.pl line 4217.
+Global symbol "$name" requires explicit package name at ./test.pl line 4220.
+Global symbol "$name" requires explicit package name at ./test.pl line 4226.
+Global symbol "$name" requires explicit package name at ./test.pl line 4226.
+Global symbol "$name" requires explicit package name at ./test.pl line 4228.
+Global symbol "$name" requires explicit package name at ./test.pl line 4231.
+Global symbol "$name" requires explicit package name at ./test.pl line 4237.
+Global symbol "$name" requires explicit package name at ./test.pl line 4237.
+Global symbol "$name" requires explicit package name at ./test.pl line 4239.
+Global symbol "$name" requires explicit package name at ./test.pl line 4242.
+Global symbol "$name" requires explicit package name at ./test.pl line 4248.
+Global symbol "$name" requires explicit package name at ./test.pl line 4248.
+Global symbol "$name" requires explicit package name at ./test.pl line 4250.
+Global symbol "$name" requires explicit package name at ./test.pl line 4253.
+Global symbol "$name" requires explicit package name at ./test.pl line 4259.
+Global symbol "$name" requires explicit package name at ./test.pl line 4259.
+Global symbol "$name" requires explicit package name at ./test.pl line 4261.
+Global symbol "$name" requires explicit package name at ./test.pl line 4264.
+Global symbol "$name" requires explicit package name at ./test.pl line 4270.
+Global symbol "$name" requires explicit package name at ./test.pl line 4270.
+Global symbol "$name" requires explicit package name at ./test.pl line 4272.
+Global symbol "$name" requires explicit package name at ./test.pl line 4275.
+Global symbol "$name" requires explicit package name at ./test.pl line 4281.
+Global symbol "$name" requires explicit package name at ./test.pl line 4281.
+Global symbol "$name" requires explicit package name at ./test.pl line 4283.
+Global symbol "$name" requires explicit package name at ./test.pl line 4286.
+Global symbol "$name" requires explicit package name at ./test.pl line 4292.
+Global symbol "$name" requires explicit package name at ./test.pl line 4292.
+Global symbol "$name" requires explicit package name at ./test.pl line 4294.
+Global symbol "$name" requires explicit package name at ./test.pl line 4297.
+Global symbol "$name" requires explicit package name at ./test.pl line 4303.
+Global symbol "$name" requires explicit package name at ./test.pl line 4303.
+Global symbol "$name" requires explicit package name at ./test.pl line 4305.
+Global symbol "$name" requires explicit package name at ./test.pl line 4308.
+Global symbol "$name" requires explicit package name at ./test.pl line 4314.
+Global symbol "$name" requires explicit package name at ./test.pl line 4314.
+Global symbol "$name" requires explicit package name at ./test.pl line 4316.
+Global symbol "$name" requires explicit package name at ./test.pl line 4319.
+Global symbol "$name" requires explicit package name at ./test.pl line 4325.
+Global symbol "$name" requires explicit package name at ./test.pl line 4325.
+Global symbol "$name" requires explicit package name at ./test.pl line 4327.
+Global symbol "$name" requires explicit package name at ./test.pl line 4330.
+Global symbol "$name" requires explicit package name at ./test.pl line 4336.
+Global symbol "$name" requires explicit package name at ./test.pl line 4336.
+Global symbol "$name" requires explicit package name at ./test.pl line 4338.
+Global symbol "$name" requires explicit package name at ./test.pl line 4341.
+Global symbol "$name" requires explicit package name at ./test.pl line 4347.
+Global symbol "$name" requires explicit package name at ./test.pl line 4347.
+Global symbol "$name" requires explicit package name at ./test.pl line 4349.
+Global symbol "$name" requires explicit package name at ./test.pl line 4352.
+Global symbol "$name" requires explicit package name at ./test.pl line 4411.
+Global symbol "$name" requires explicit package name at ./test.pl line 4416.
+Global symbol "$name" requires explicit package name at ./test.pl line 4419.
+Global symbol "$name" requires explicit package name at ./test.pl line 4420.
+Global symbol "$name" requires explicit package name at ./test.pl line 4424.
+Global symbol "$name" requires explicit package name at ./test.pl line 4429.
+Global symbol "$name" requires explicit package name at ./test.pl line 4432.
+Global symbol "$name" requires explicit package name at ./test.pl line 4433.
+Global symbol "$name" requires explicit package name at ./test.pl line 4437.
+Global symbol "$name" requires explicit package name at ./test.pl line 4442.
+Global symbol "$name" requires explicit package name at ./test.pl line 4445.
+Global symbol "$name" requires explicit package name at ./test.pl line 4446.
+Global symbol "$name" requires explicit package name at ./test.pl line 4450.
+Global symbol "$name" requires explicit package name at ./test.pl line 4455.
+Global symbol "$name" requires explicit package name at ./test.pl line 4458.
+Global symbol "$name" requires explicit package name at ./test.pl line 4459.
+Global symbol "$name" requires explicit package name at ./test.pl line 4463.
+Global symbol "$name" requires explicit package name at ./test.pl line 4468.
+Global symbol "$name" requires explicit package name at ./test.pl line 4471.
+Global symbol "$name" requires explicit package name at ./test.pl line 4472.
+Global symbol "$name" requires explicit package name at ./test.pl line 4476.
+Global symbol "$name" requires explicit package name at ./test.pl line 4481.
+Global symbol "$name" requires explicit package name at ./test.pl line 4484.
+Global symbol "$name" requires explicit package name at ./test.pl line 4485.
+Global symbol "$name" requires explicit package name at ./test.pl line 4489.
+Global symbol "$name" requires explicit package name at ./test.pl line 4494.
+Global symbol "$name" requires explicit package name at ./test.pl line 4497.
+Global symbol "$name" requires explicit package name at ./test.pl line 4498.
+Global symbol "$name" requires explicit package name at ./test.pl line 4502.
+Global symbol "$name" requires explicit package name at ./test.pl line 4507.
+Global symbol "$name" requires explicit package name at ./test.pl line 4510.
+Global symbol "$name" requires explicit package name at ./test.pl line 4511.
+Global symbol "$name" requires explicit package name at ./test.pl line 4515.
+Global symbol "$name" requires explicit package name at ./test.pl line 4520.
+Global symbol "$name" requires explicit package name at ./test.pl line 4523.
+Global symbol "$name" requires explicit package name at ./test.pl line 4524.
+Global symbol "$name" requires explicit package name at ./test.pl line 4528.
+Global symbol "$name" requires explicit package name at ./test.pl line 4533.
+Global symbol "$name" requires explicit package name at ./test.pl line 4536.
+Global symbol "$name" requires explicit package name at ./test.pl line 4537.
+Global symbol "$name" requires explicit package name at ./test.pl line 4541.
+Global symbol "$name" requires explicit package name at ./test.pl line 4546.
+Global symbol "$name" requires explicit package name at ./test.pl line 4549.
+Global symbol "$name" requires explicit package name at ./test.pl line 4550.
+Global symbol "$name" requires explicit package name at ./test.pl line 4554.
+Global symbol "$name" requires explicit package name at ./test.pl line 4559.
+Global symbol "$name" requires explicit package name at ./test.pl line 4562.
+Global symbol "$name" requires explicit package name at ./test.pl line 4563.
+Global symbol "$name" requires explicit package name at ./test.pl line 4567.
+Global symbol "$name" requires explicit package name at ./test.pl line 4572.
+Global symbol "$name" requires explicit package name at ./test.pl line 4575.
+Global symbol "$name" requires explicit package name at ./test.pl line 4576.
+Global symbol "$name" requires explicit package name at ./test.pl line 4704.
+Global symbol "$name" requires explicit package name at ./test.pl line 4709.
+Global symbol "$name" requires explicit package name at ./test.pl line 4710.
+Global symbol "$name" requires explicit package name at ./test.pl line 4717.
+Global symbol "$name" requires explicit package name at ./test.pl line 4722.
+Global symbol "$name" requires explicit package name at ./test.pl line 4723.
+Global symbol "$name" requires explicit package name at ./test.pl line 4730.
+Global symbol "$name" requires explicit package name at ./test.pl line 4735.
+Global symbol "$name" requires explicit package name at ./test.pl line 4736.
+Global symbol "$name" requires explicit package name at ./test.pl line 4743.
+Global symbol "$name" requires explicit package name at ./test.pl line 4748.
+Global symbol "$name" requires explicit package name at ./test.pl line 4749.
+Global symbol "$name" requires explicit package name at ./test.pl line 4756.
+Global symbol "$name" requires explicit package name at ./test.pl line 4761.
+Global symbol "$name" requires explicit package name at ./test.pl line 4762.
+Global symbol "$name" requires explicit package name at ./test.pl line 4769.
+Global symbol "$name" requires explicit package name at ./test.pl line 4774.
+Global symbol "$name" requires explicit package name at ./test.pl line 4775.
+Global symbol "$name" requires explicit package name at ./test.pl line 4922.
+Global symbol "$name" requires explicit package name at ./test.pl line 4927.
+Global symbol "$name" requires explicit package name at ./test.pl line 4928.
+Global symbol "$name" requires explicit package name at ./test.pl line 4934.
+Global symbol "$name" requires explicit package name at ./test.pl line 4939.
+Global symbol "$name" requires explicit package name at ./test.pl line 4940.
+Global symbol "$name" requires explicit package name at ./test.pl line 4946.
+Global symbol "$name" requires explicit package name at ./test.pl line 4951.
+Global symbol "$name" requires explicit package name at ./test.pl line 4952.
+Global symbol "$name" requires explicit package name at ./test.pl line 4958.
+Global symbol "$name" requires explicit package name at ./test.pl line 4963.
+Global symbol "$name" requires explicit package name at ./test.pl line 4964.
+Global symbol "$name" requires explicit package name at ./test.pl line 4970.
+Global symbol "$name" requires explicit package name at ./test.pl line 4975.
+Global symbol "$name" requires explicit package name at ./test.pl line 4976.
+Global symbol "$name" requires explicit package name at ./test.pl line 4982.
+Global symbol "$name" requires explicit package name at ./test.pl line 4987.
+Global symbol "$name" requires explicit package name at ./test.pl line 4988.
+Global symbol "$namelookup" requires explicit package name at ./test.pl line 5608.
+Global symbol "$namelookup" requires explicit package name at ./test.pl line 5626.
+Global symbol "$namelookup" requires explicit package name at ./test.pl line 5644.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5184.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5185.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5199.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5200.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5214.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5215.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5246.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5248.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5249.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5250.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5251.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5262.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5264.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5265.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5266.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5267.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5278.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5280.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5281.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5282.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5283.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5354.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5386.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 5400.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 7900.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 7911.
+Global symbol "$nodes" requires explicit package name at ./test.pl line 7943.
+Global symbol "$outputbase" requires explicit package name at ./test.pl line 941.
+Global symbol "$outputbase" requires explicit package name at ./test.pl line 948.
+Global symbol "$outputbase" requires explicit package name at ./test.pl line 955.
+Global symbol "$outputbase" requires explicit package name at ./test.pl line 962.
+Global symbol "$outputbase" requires explicit package name at ./test.pl line 969.
+Global symbol "$outputbase" requires explicit package name at ./test.pl line 976.
+Global symbol "$program" requires explicit package name at ./test.pl line 2036.
+Global symbol "$relout" requires explicit package name at ./test.pl line 7924.
+Global symbol "$seen" requires explicit package name at ./test.pl line 5556.
+Global symbol "$seen" requires explicit package name at ./test.pl line 5559.
+Global symbol "$seen" requires explicit package name at ./test.pl line 5662.
+Global symbol "$self" requires explicit package name at ./test.pl line 5183.
+Global symbol "$self" requires explicit package name at ./test.pl line 5186.
+Global symbol "$self" requires explicit package name at ./test.pl line 5187.
+Global symbol "$self" requires explicit package name at ./test.pl line 5195.
+Global symbol "$self" requires explicit package name at ./test.pl line 5198.
+Global symbol "$self" requires explicit package name at ./test.pl line 5201.
+Global symbol "$self" requires explicit package name at ./test.pl line 5202.
+Global symbol "$self" requires explicit package name at ./test.pl line 5210.
+Global symbol "$self" requires explicit package name at ./test.pl line 5213.
+Global symbol "$self" requires explicit package name at ./test.pl line 5216.
+Global symbol "$self" requires explicit package name at ./test.pl line 5217.
+Global symbol "$self" requires explicit package name at ./test.pl line 5225.
+Global symbol "$self" requires explicit package name at ./test.pl line 5258.
+Global symbol "$self" requires explicit package name at ./test.pl line 5259.
+Global symbol "$self" requires explicit package name at ./test.pl line 5274.
+Global symbol "$self" requires explicit package name at ./test.pl line 5275.
+Global symbol "$self" requires explicit package name at ./test.pl line 5290.
+Global symbol "$self" requires explicit package name at ./test.pl line 5291.
+Global symbol "$self" requires explicit package name at ./test.pl line 5302.
+Global symbol "$self" requires explicit package name at ./test.pl line 5307.
+Global symbol "$self" requires explicit package name at ./test.pl line 5312.
+Global symbol "$sym" requires explicit package name at ./test.pl line 127.
+Global symbol "$sym" requires explicit package name at ./test.pl line 128.
+Global symbol "$sym" requires explicit package name at ./test.pl line 128.
+Global symbol "$sym" requires explicit package name at ./test.pl line 151.
+Global symbol "$sym" requires explicit package name at ./test.pl line 152.
+Global symbol "$sym" requires explicit package name at ./test.pl line 152.
+Global symbol "$sym" requires explicit package name at ./test.pl line 175.
+Global symbol "$sym" requires explicit package name at ./test.pl line 176.
+Global symbol "$sym" requires explicit package name at ./test.pl line 176.
+Global symbol "$sym" requires explicit package name at ./test.pl line 199.
+Global symbol "$sym" requires explicit package name at ./test.pl line 200.
+Global symbol "$sym" requires explicit package name at ./test.pl line 200.
+Global symbol "$sym" requires explicit package name at ./test.pl line 223.
+Global symbol "$sym" requires explicit package name at ./test.pl line 224.
+Global symbol "$sym" requires explicit package name at ./test.pl line 224.
+Global symbol "$sym" requires explicit package name at ./test.pl line 247.
+Global symbol "$sym" requires explicit package name at ./test.pl line 248.
+Global symbol "$sym" requires explicit package name at ./test.pl line 248.
+Global symbol "$sym" requires explicit package name at ./test.pl line 271.
+Global symbol "$sym" requires explicit package name at ./test.pl line 272.
+Global symbol "$sym" requires explicit package name at ./test.pl line 272.
+Global symbol "$sym" requires explicit package name at ./test.pl line 295.
+Global symbol "$sym" requires explicit package name at ./test.pl line 296.
+Global symbol "$sym" requires explicit package name at ./test.pl line 296.
+Global symbol "$sym" requires explicit package name at ./test.pl line 319.
+Global symbol "$sym" requires explicit package name at ./test.pl line 320.
+Global symbol "$sym" requires explicit package name at ./test.pl line 320.
+Global symbol "$sym" requires explicit package name at ./test.pl line 343.
+Global symbol "$sym" requires explicit package name at ./test.pl line 344.
+Global symbol "$sym" requires explicit package name at ./test.pl line 344.
+Global symbol "$sym" requires explicit package name at ./test.pl line 367.
+Global symbol "$sym" requires explicit package name at ./test.pl line 368.
+Global symbol "$sym" requires explicit package name at ./test.pl line 368.
+Global symbol "$sym" requires explicit package name at ./test.pl line 391.
+Global symbol "$sym" requires explicit package name at ./test.pl line 392.
+Global symbol "$sym" requires explicit package name at ./test.pl line 392.
+Global symbol "$sym" requires explicit package name at ./test.pl line 415.
+Global symbol "$sym" requires explicit package name at ./test.pl line 416.
+Global symbol "$sym" requires explicit package name at ./test.pl line 416.
+Global symbol "$sym" requires explicit package name at ./test.pl line 439.
+Global symbol "$sym" requires explicit package name at ./test.pl line 440.
+Global symbol "$sym" requires explicit package name at ./test.pl line 440.
+Global symbol "$sym" requires explicit package name at ./test.pl line 463.
+Global symbol "$sym" requires explicit package name at ./test.pl line 464.
+Global symbol "$sym" requires explicit package name at ./test.pl line 464.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5056.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5060.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5064.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5068.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5072.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5076.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5080.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5084.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5088.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5092.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5096.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5100.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5104.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5108.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5112.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5116.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5120.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5124.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5128.
+Global symbol "$tablevel" requires explicit package name at ./test.pl line 5132.
+Global symbol "$typeprefix" requires explicit package name at ./test.pl line 6430.
+Global symbol "$typeprefix" requires explicit package name at ./test.pl line 6434.
+Global symbol "$typeprefix" requires explicit package name at ./test.pl line 6438.
+Global symbol "$typeprefix" requires explicit package name at ./test.pl line 6442.
+Global symbol "$typeprefix" requires explicit package name at ./test.pl line 6446.
+Global symbol "$typeprefix" requires explicit package name at ./test.pl line 6450.
+Global symbol "$typeprefix" requires explicit package name at ./test.pl line 6454.
+Global symbol "$types" requires explicit package name at ./test.pl line 1362.
+Global symbol "$types" requires explicit package name at ./test.pl line 1363.
+Global symbol "$types" requires explicit package name at ./test.pl line 1366.
+Global symbol "$types" requires explicit package name at ./test.pl line 1380.
+Global symbol "$types" requires explicit package name at ./test.pl line 1381.
+Global symbol "$types" requires explicit package name at ./test.pl line 1387.
+Global symbol "$types" requires explicit package name at ./test.pl line 1399.
+Global symbol "$types" requires explicit package name at ./test.pl line 1399.
+Global symbol "$types" requires explicit package name at ./test.pl line 1409.
+Global symbol "$types" requires explicit package name at ./test.pl line 1411.
+Global symbol "$types" requires explicit package name at ./test.pl line 1417.
+Global symbol "$types" requires explicit package name at ./test.pl line 1425.
+Global symbol "$types" requires explicit package name at ./test.pl line 1435.
+Global symbol "$types" requires explicit package name at ./test.pl line 1437.
+Global symbol "$types" requires explicit package name at ./test.pl line 1441.
+Global symbol "$types" requires explicit package name at ./test.pl line 1447.
+Global symbol "$types" requires explicit package name at ./test.pl line 1457.
+Global symbol "$types" requires explicit package name at ./test.pl line 1461.
+Global symbol "$types" requires explicit package name at ./test.pl line 1468.
+Global symbol "$types" requires explicit package name at ./test.pl line 1477.
+Global symbol "$types" requires explicit package name at ./test.pl line 5191.
+Global symbol "$types" requires explicit package name at ./test.pl line 5206.
+Global symbol "$types" requires explicit package name at ./test.pl line 5221.
+Global symbol "$types" requires explicit package name at ./test.pl line 5234.
+Global symbol "$types" requires explicit package name at ./test.pl line 5329.
+Global symbol "$types" requires explicit package name at ./test.pl line 5335.
+Global symbol "$types" requires explicit package name at ./test.pl line 5336.
+Global symbol "$types" requires explicit package name at ./test.pl line 5337.
+Global symbol "$types" requires explicit package name at ./test.pl line 5338.
+Global symbol "$types" requires explicit package name at ./test.pl line 5418.
+Global symbol "$used" requires explicit package name at ./test.pl line 5344.
+Global symbol "$used" requires explicit package name at ./test.pl line 5355.
+Global symbol "$used" requires explicit package name at ./test.pl line 5387.
+Global symbol "$users" requires explicit package name at ./test.pl line 5343.
+Global symbol "$users" requires explicit package name at ./test.pl line 5381.
+Global symbol "$users" requires explicit package name at ./test.pl line 5381.
+Global symbol "$users" requires explicit package name at ./test.pl line 5385.
+Global symbol "$users" requires explicit package name at ./test.pl line 5388.
+Global symbol "$vals" requires explicit package name at ./test.pl line 8017.
+Global symbol "$vals" requires explicit package name at ./test.pl line 8035.
+Global symbol "$vals" requires explicit package name at ./test.pl line 8053.
+Global symbol "$weights" requires explicit package name at ./test.pl line 8092.
+Global symbol "$weights" requires explicit package name at ./test.pl line 8102.
+Global symbol "$weights" requires explicit package name at ./test.pl line 8115.
+Global symbol "$z" requires explicit package name at ./test.pl line 5022.
+Global symbol "$z" requires explicit package name at ./test.pl line 5022.
+Global symbol "$z" requires explicit package name at ./test.pl line 5022.
+Global symbol "$z" requires explicit package name at ./test.pl line 5023.
+Global symbol "$z" requires explicit package name at ./test.pl line 5023.
+Global symbol "$z" requires explicit package name at ./test.pl line 5023.
+Global symbol "$z" requires explicit package name at ./test.pl line 5023.
+Global symbol "$z" requires explicit package name at ./test.pl line 5023.
+Global symbol "%Bits" requires explicit package name at ./test.pl line 813.
+Global symbol "%Bits" requires explicit package name at ./test.pl line 827.
+Global symbol "%Bits" requires explicit package name at ./test.pl line 837.
+Global symbol "%DeadBits" requires explicit package name at ./test.pl line 815.
+Global symbol "%DeadBits" requires explicit package name at ./test.pl line 828.
+Global symbol "%DeadBits" requires explicit package name at ./test.pl line 838.
+Global symbol "%Modules" requires explicit package name at ./test.pl line 5468.
+Global symbol "%NeededBy" requires explicit package name at ./test.pl line 1707.
+Global symbol "%NeededBy" requires explicit package name at ./test.pl line 1720.
+Global symbol "%NeededBy" requires explicit package name at ./test.pl line 1733.
+Global symbol "%NeededBy" requires explicit package name at ./test.pl line 1746.
+Global symbol "%Needs" requires explicit package name at ./test.pl line 1706.
+Global symbol "%Needs" requires explicit package name at ./test.pl line 1719.
+Global symbol "%Needs" requires explicit package name at ./test.pl line 1732.
+Global symbol "%Needs" requires explicit package name at ./test.pl line 1745.
+Global symbol "%Offsets" requires explicit package name at ./test.pl line 826.
+Global symbol "%Offsets" requires explicit package name at ./test.pl line 828.
+Global symbol "%Offsets" requires explicit package name at ./test.pl line 836.
+Global symbol "%Offsets" requires explicit package name at ./test.pl line 838.
+Global symbol "%Offsets" requires explicit package name at ./test.pl line 854.
+Global symbol "%Offsets" requires explicit package name at ./test.pl line 858.
+Global symbol "%Offsets" requires explicit package name at ./test.pl line 886.
+Global symbol "%Offsets" requires explicit package name at ./test.pl line 894.
+Global symbol "%Offsets" requires explicit package name at ./test.pl line 903.
+Global symbol "%Offsets" requires explicit package name at ./test.pl line 904.
+Global symbol "%bitmask" requires explicit package name at ./test.pl line 42.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4105.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4116.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4127.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4138.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4149.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4160.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4171.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4182.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4193.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4204.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4215.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4226.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4237.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4248.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4259.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4270.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4281.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4292.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4303.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4314.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4325.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4336.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4347.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4358.
+Global symbol "%class_attr" requires explicit package name at ./test.pl line 4369.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2431.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2435.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2439.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2443.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2447.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2451.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2455.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2459.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2479.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2482.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2485.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2488.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2491.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2494.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2497.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2500.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2909.
+Global symbol "%contract" requires explicit package name at ./test.pl line 2917.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3055.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3059.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3664.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3669.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3674.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3679.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3684.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3689.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3694.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3699.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3722.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3727.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3732.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3737.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3742.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3747.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3752.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3757.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3762.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3778.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3799.
+Global symbol "%contract" requires explicit package name at ./test.pl line 3968.
+Global symbol "%contract" requires explicit package name at ./test.pl line 4626.
+Global symbol "%contract" requires explicit package name at ./test.pl line 4645.
+Global symbol "%contract" requires explicit package name at ./test.pl line 4646.
+Global symbol "%contract" requires explicit package name at ./test.pl line 4648.
+Global symbol "%contract" requires explicit package name at ./test.pl line 4657.
+Global symbol "%contract" requires explicit package name at ./test.pl line 4661.
+Global symbol "%data" requires explicit package name at ./test.pl line 3785.
+Global symbol "%data" requires explicit package name at ./test.pl line 3785.
+Global symbol "%data" requires explicit package name at ./test.pl line 3785.
+Global symbol "%data" requires explicit package name at ./test.pl line 4105.
+Global symbol "%data" requires explicit package name at ./test.pl line 4116.
+Global symbol "%data" requires explicit package name at ./test.pl line 4127.
+Global symbol "%data" requires explicit package name at ./test.pl line 4138.
+Global symbol "%data" requires explicit package name at ./test.pl line 4149.
+Global symbol "%data" requires explicit package name at ./test.pl line 4160.
+Global symbol "%data" requires explicit package name at ./test.pl line 4171.
+Global symbol "%data" requires explicit package name at ./test.pl line 4182.
+Global symbol "%data" requires explicit package name at ./test.pl line 4193.
+Global symbol "%data" requires explicit package name at ./test.pl line 4204.
+Global symbol "%data" requires explicit package name at ./test.pl line 4215.
+Global symbol "%data" requires explicit package name at ./test.pl line 4226.
+Global symbol "%data" requires explicit package name at ./test.pl line 4237.
+Global symbol "%data" requires explicit package name at ./test.pl line 4248.
+Global symbol "%data" requires explicit package name at ./test.pl line 4259.
+Global symbol "%data" requires explicit package name at ./test.pl line 4270.
+Global symbol "%data" requires explicit package name at ./test.pl line 4281.
+Global symbol "%data" requires explicit package name at ./test.pl line 4292.
+Global symbol "%data" requires explicit package name at ./test.pl line 4303.
+Global symbol "%data" requires explicit package name at ./test.pl line 4314.
+Global symbol "%data" requires explicit package name at ./test.pl line 4325.
+Global symbol "%data" requires explicit package name at ./test.pl line 4336.
+Global symbol "%data" requires explicit package name at ./test.pl line 4347.
+Global symbol "%data" requires explicit package name at ./test.pl line 4369.
+Global symbol "%data" requires explicit package name at ./test.pl line 4664.
+Global symbol "%data" requires explicit package name at ./test.pl line 4678.
+Global symbol "%data" requires explicit package name at ./test.pl line 4678.
+Global symbol "%data" requires explicit package name at ./test.pl line 4678.
+Global symbol "%data" requires explicit package name at ./test.pl line 4871.
+Global symbol "%data" requires explicit package name at ./test.pl line 4871.
+Global symbol "%data" requires explicit package name at ./test.pl line 4878.
+Global symbol "%data" requires explicit package name at ./test.pl line 4878.
+Global symbol "%data" requires explicit package name at ./test.pl line 4881.
+Global symbol "%data" requires explicit package name at ./test.pl line 4881.
+Global symbol "%data" requires explicit package name at ./test.pl line 4884.
+Global symbol "%data" requires explicit package name at ./test.pl line 4884.
+Global symbol "%data" requires explicit package name at ./test.pl line 4887.
+Global symbol "%data" requires explicit package name at ./test.pl line 4887.
+Global symbol "%data" requires explicit package name at ./test.pl line 4890.
+Global symbol "%data" requires explicit package name at ./test.pl line 4890.
+Global symbol "%data" requires explicit package name at ./test.pl line 4893.
+Global symbol "%data" requires explicit package name at ./test.pl line 4893.
+Global symbol "%data" requires explicit package name at ./test.pl line 4898.
+Global symbol "%data" requires explicit package name at ./test.pl line 4898.
+Global symbol "%def_msg" requires explicit package name at ./test.pl line 3436.
+Global symbol "%def_msg" requires explicit package name at ./test.pl line 3662.
+Global symbol "%def_msg" requires explicit package name at ./test.pl line 3667.
+Global symbol "%def_msg" requires explicit package name at ./test.pl line 3672.
+Global symbol "%def_msg" requires explicit package name at ./test.pl line 3677.
+Global symbol "%def_msg" requires explicit package name at ./test.pl line 3682.
+Global symbol "%def_msg" requires explicit package name at ./test.pl line 3687.
+Global symbol "%def_msg" requires explicit package name at ./test.pl line 3692.
+Global symbol "%def_msg" requires explicit package name at ./test.pl line 3697.
+Global symbol "%def_type" requires explicit package name at ./test.pl line 3059.
+Global symbol "%def_type" requires explicit package name at ./test.pl line 3059.
+Global symbol "%done" requires explicit package name at ./test.pl line 7953.
+Global symbol "%done" requires explicit package name at ./test.pl line 7955.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6842.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6843.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6844.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6849.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6850.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6851.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6856.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6857.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6858.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6863.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6864.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6865.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6870.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6871.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6872.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6877.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6878.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6879.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6884.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6885.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6886.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6905.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6912.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6919.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6926.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6933.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6940.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6947.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6957.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 6975.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 7208.
+Global symbol "%event_types" requires explicit package name at ./test.pl line 7462.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6907.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6908.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6914.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6915.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6921.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6922.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6928.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6929.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6935.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6936.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6942.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6943.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6949.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6950.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6959.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6960.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6967.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6969.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 6977.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 7200.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 7202.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 7210.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 7454.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 7456.
+Global symbol "%eventhandler" requires explicit package name at ./test.pl line 7464.
+Global symbol "%export_tags" requires explicit package name at ./test.pl line 605.
+Global symbol "%export_tags" requires explicit package name at ./test.pl line 605.
+Global symbol "%export_tags" requires explicit package name at ./test.pl line 605.
+Global symbol "%exports" requires explicit package name at ./test.pl line 112.
+Global symbol "%exports" requires explicit package name at ./test.pl line 115.
+Global symbol "%exports" requires explicit package name at ./test.pl line 118.
+Global symbol "%exports" requires explicit package name at ./test.pl line 136.
+Global symbol "%exports" requires explicit package name at ./test.pl line 139.
+Global symbol "%exports" requires explicit package name at ./test.pl line 142.
+Global symbol "%exports" requires explicit package name at ./test.pl line 160.
+Global symbol "%exports" requires explicit package name at ./test.pl line 163.
+Global symbol "%exports" requires explicit package name at ./test.pl line 166.
+Global symbol "%exports" requires explicit package name at ./test.pl line 184.
+Global symbol "%exports" requires explicit package name at ./test.pl line 187.
+Global symbol "%exports" requires explicit package name at ./test.pl line 190.
+Global symbol "%exports" requires explicit package name at ./test.pl line 208.
+Global symbol "%exports" requires explicit package name at ./test.pl line 211.
+Global symbol "%exports" requires explicit package name at ./test.pl line 214.
+Global symbol "%exports" requires explicit package name at ./test.pl line 232.
+Global symbol "%exports" requires explicit package name at ./test.pl line 235.
+Global symbol "%exports" requires explicit package name at ./test.pl line 238.
+Global symbol "%exports" requires explicit package name at ./test.pl line 256.
+Global symbol "%exports" requires explicit package name at ./test.pl line 259.
+Global symbol "%exports" requires explicit package name at ./test.pl line 262.
+Global symbol "%exports" requires explicit package name at ./test.pl line 280.
+Global symbol "%exports" requires explicit package name at ./test.pl line 283.
+Global symbol "%exports" requires explicit package name at ./test.pl line 286.
+Global symbol "%exports" requires explicit package name at ./test.pl line 304.
+Global symbol "%exports" requires explicit package name at ./test.pl line 307.
+Global symbol "%exports" requires explicit package name at ./test.pl line 310.
+Global symbol "%exports" requires explicit package name at ./test.pl line 328.
+Global symbol "%exports" requires explicit package name at ./test.pl line 331.
+Global symbol "%exports" requires explicit package name at ./test.pl line 334.
+Global symbol "%exports" requires explicit package name at ./test.pl line 352.
+Global symbol "%exports" requires explicit package name at ./test.pl line 355.
+Global symbol "%exports" requires explicit package name at ./test.pl line 358.
+Global symbol "%exports" requires explicit package name at ./test.pl line 376.
+Global symbol "%exports" requires explicit package name at ./test.pl line 379.
+Global symbol "%exports" requires explicit package name at ./test.pl line 382.
+Global symbol "%exports" requires explicit package name at ./test.pl line 400.
+Global symbol "%exports" requires explicit package name at ./test.pl line 403.
+Global symbol "%exports" requires explicit package name at ./test.pl line 406.
+Global symbol "%exports" requires explicit package name at ./test.pl line 424.
+Global symbol "%exports" requires explicit package name at ./test.pl line 427.
+Global symbol "%exports" requires explicit package name at ./test.pl line 430.
+Global symbol "%exports" requires explicit package name at ./test.pl line 448.
+Global symbol "%exports" requires explicit package name at ./test.pl line 451.
+Global symbol "%exports" requires explicit package name at ./test.pl line 454.
+Global symbol "%exports" requires explicit package name at ./test.pl line 490.
+Global symbol "%exports" requires explicit package name at ./test.pl line 492.
+Global symbol "%exports" requires explicit package name at ./test.pl line 496.
+Global symbol "%exports" requires explicit package name at ./test.pl line 519.
+Global symbol "%exports" requires explicit package name at ./test.pl line 536.
+Global symbol "%exports" requires explicit package name at ./test.pl line 547.
+Global symbol "%fail" requires explicit package name at ./test.pl line 563.
+Global symbol "%fail" requires explicit package name at ./test.pl line 566.
+Global symbol "%fail" requires explicit package name at ./test.pl line 570.
+Global symbol "%global" requires explicit package name at ./test.pl line 1092.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1504.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1505.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1509.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1510.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1516.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1526.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1527.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1531.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1532.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1538.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1548.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1549.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1553.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1554.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1560.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1570.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1571.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1575.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1576.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1582.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1601.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1602.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1606.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1607.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1614.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1624.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1625.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1629.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1630.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1637.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1647.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1648.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1652.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1653.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1660.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1670.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1671.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1675.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1676.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1683.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1708.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1721.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1734.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1747.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1869.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1876.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1883.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1890.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1907.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1908.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1911.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1912.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1915.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1916.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1919.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1920.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1933.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1934.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1935.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1939.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1940.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1941.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1945.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1946.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1947.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1951.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1952.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1953.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1968.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1969.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1975.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1976.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1982.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1983.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1989.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 1990.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 2007.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 2015.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 2023.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 2031.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 5609.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 5610.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 5627.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 5628.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 5645.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 5646.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 5656.
+Global symbol "%identifiers" requires explicit package name at ./test.pl line 5661.
+Global symbol "%newnodes" requires explicit package name at ./test.pl line 7882.
+Global symbol "%newnodes" requires explicit package name at ./test.pl line 7913.
+Global symbol "%newnodes" requires explicit package name at ./test.pl line 7944.
+Global symbol "%newnodes" requires explicit package name at ./test.pl line 7974.
+Global symbol "%newnodes" requires explicit package name at ./test.pl line 7989.
+Global symbol "%newnodes" requires explicit package name at ./test.pl line 8004.
+Global symbol "%newnodes" requires explicit package name at ./test.pl line 8013.
+Global symbol "%newnodes" requires explicit package name at ./test.pl line 8031.
+Global symbol "%newnodes" requires explicit package name at ./test.pl line 8049.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 2978.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 2979.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 2983.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 2984.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 2988.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 2989.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 2993.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 2994.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 2998.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 2999.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 3003.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 3004.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 3008.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 3009.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 3013.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 3014.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 3018.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 3022.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 3022.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 3022.
+Global symbol "%no_opt" requires explicit package name at ./test.pl line 3022.
+Global symbol "%seen" requires explicit package name at ./test.pl line 5020.
+Global symbol "%seen" requires explicit package name at ./test.pl line 5020.
+Global symbol "%seen" requires explicit package name at ./test.pl line 5025.
+Global symbol "%seen" requires explicit package name at ./test.pl line 5025.
+Global symbol "%tovisit" requires explicit package name at ./test.pl line 5192.
+Global symbol "%tovisit" requires explicit package name at ./test.pl line 5207.
+Global symbol "%tovisit" requires explicit package name at ./test.pl line 5222.
+Global symbol "%tovisit" requires explicit package name at ./test.pl line 5363.
+Global symbol "%tovisit" requires explicit package name at ./test.pl line 5399.
+Global symbol "%tovisit" requires explicit package name at ./test.pl line 5402.
+Global symbol "%tovisit" requires explicit package name at ./test.pl line 5403.
+Global symbol "%type" requires explicit package name at ./test.pl line 1509.
+Global symbol "%type" requires explicit package name at ./test.pl line 1531.
+Global symbol "%type" requires explicit package name at ./test.pl line 1553.
+Global symbol "%type" requires explicit package name at ./test.pl line 1575.
+Global symbol "%type" requires explicit package name at ./test.pl line 1606.
+Global symbol "%type" requires explicit package name at ./test.pl line 1629.
+Global symbol "%type" requires explicit package name at ./test.pl line 1652.
+Global symbol "%type" requires explicit package name at ./test.pl line 1675.
+Global symbol "%types" requires explicit package name at ./test.pl line 6222.
+Global symbol "%types" requires explicit package name at ./test.pl line 6226.
+Global symbol "%types" requires explicit package name at ./test.pl line 6230.
+Global symbol "%types" requires explicit package name at ./test.pl line 6234.
+Global symbol "%types" requires explicit package name at ./test.pl line 6238.
+Global symbol "%types" requires explicit package name at ./test.pl line 6242.
+Global symbol "%types" requires explicit package name at ./test.pl line 6246.
+Global symbol "%types" requires explicit package name at ./test.pl line 6252.
+Global symbol "%types" requires explicit package name at ./test.pl line 6252.
+Global symbol "%types" requires explicit package name at ./test.pl line 6273.
+Global symbol "%types" requires explicit package name at ./test.pl line 6284.
+Global symbol "%types" requires explicit package name at ./test.pl line 6287.
+Global symbol "%types" requires explicit package name at ./test.pl line 6293.
+Global symbol "%types" requires explicit package name at ./test.pl line 6304.
+Global symbol "%types" requires explicit package name at ./test.pl line 6307.
+Global symbol "%types" requires explicit package name at ./test.pl line 6313.
+Global symbol "%types" requires explicit package name at ./test.pl line 6324.
+Global symbol "%types" requires explicit package name at ./test.pl line 6327.
+Global symbol "%types" requires explicit package name at ./test.pl line 6333.
+Global symbol "%types" requires explicit package name at ./test.pl line 6344.
+Global symbol "%types" requires explicit package name at ./test.pl line 6347.
+Global symbol "%types" requires explicit package name at ./test.pl line 6353.
+Global symbol "%types" requires explicit package name at ./test.pl line 6364.
+Global symbol "%types" requires explicit package name at ./test.pl line 6367.
+Global symbol "%types" requires explicit package name at ./test.pl line 6373.
+Global symbol "%types" requires explicit package name at ./test.pl line 6384.
+Global symbol "%types" requires explicit package name at ./test.pl line 6387.
+Global symbol "%types" requires explicit package name at ./test.pl line 6393.
+Global symbol "%types" requires explicit package name at ./test.pl line 6404.
+Global symbol "%types" requires explicit package name at ./test.pl line 6407.
+Global symbol "%types" requires explicit package name at ./test.pl line 6411.
+Global symbol "%types" requires explicit package name at ./test.pl line 6412.
+Global symbol "%types" requires explicit package name at ./test.pl line 6412.
+Global symbol "%types" requires explicit package name at ./test.pl line 6462.
+Global symbol "%types" requires explicit package name at ./test.pl line 6463.
+Global symbol "%types" requires explicit package name at ./test.pl line 6481.
+Global symbol "%types" requires explicit package name at ./test.pl line 6482.
+Global symbol "%types" requires explicit package name at ./test.pl line 6485.
+Global symbol "%types" requires explicit package name at ./test.pl line 6486.
+Global symbol "%types" requires explicit package name at ./test.pl line 6489.
+Global symbol "%types" requires explicit package name at ./test.pl line 6490.
+Global symbol "%types" requires explicit package name at ./test.pl line 6493.
+Global symbol "%types" requires explicit package name at ./test.pl line 6494.
+Global symbol "%types" requires explicit package name at ./test.pl line 6497.
+Global symbol "%types" requires explicit package name at ./test.pl line 6498.
+Global symbol "%types" requires explicit package name at ./test.pl line 6501.
+Global symbol "%types" requires explicit package name at ./test.pl line 6502.
+Global symbol "%types" requires explicit package name at ./test.pl line 6505.
+Global symbol "%types" requires explicit package name at ./test.pl line 6506.
+Global symbol "%usage" requires explicit package name at ./test.pl line 7284.
+Global symbol "%usage" requires explicit package name at ./test.pl line 7286.
+Global symbol "%usage" requires explicit package name at ./test.pl line 7288.
+Global symbol "%usage" requires explicit package name at ./test.pl line 7297.
+Global symbol "%usage" requires explicit package name at ./test.pl line 7299.
+Global symbol "%usage" requires explicit package name at ./test.pl line 7301.
+Global symbol "%usage" requires explicit package name at ./test.pl line 7355.
+Global symbol "%usage" requires explicit package name at ./test.pl line 7361.
+Global symbol "%usage" requires explicit package name at ./test.pl line 7370.
+Global symbol "%waiting" requires explicit package name at ./test.pl line 7884.
+Global symbol "%waiting" requires explicit package name at ./test.pl line 7958.
+Global symbol "%waiting" requires explicit package name at ./test.pl line 7959.
+Global symbol "%waiting" requires explicit package name at ./test.pl line 7961.
+Global symbol "@EXPORT" requires explicit package name at ./test.pl line 2910.
+Global symbol "@class_dtors" requires explicit package name at ./test.pl line 4845.
+Global symbol "@context" requires explicit package name at ./test.pl line 3774.
+Global symbol "@context" requires explicit package name at ./test.pl line 3775.
+Global symbol "@context" requires explicit package name at ./test.pl line 3779.
+Global symbol "@context" requires explicit package name at ./test.pl line 3787.
+Global symbol "@context" requires explicit package name at ./test.pl line 3792.
+Global symbol "@context" requires explicit package name at ./test.pl line 3796.
+Global symbol "@context" requires explicit package name at ./test.pl line 3797.
+Global symbol "@context" requires explicit package name at ./test.pl line 3800.
+Global symbol "@context" requires explicit package name at ./test.pl line 3855.
+Global symbol "@context" requires explicit package name at ./test.pl line 3857.
+Global symbol "@context" requires explicit package name at ./test.pl line 3858.
+Global symbol "@context" requires explicit package name at ./test.pl line 3864.
+Global symbol "@context" requires explicit package name at ./test.pl line 3866.
+Global symbol "@context" requires explicit package name at ./test.pl line 3867.
+Global symbol "@context" requires explicit package name at ./test.pl line 3873.
+Global symbol "@context" requires explicit package name at ./test.pl line 3875.
+Global symbol "@context" requires explicit package name at ./test.pl line 3876.
+Global symbol "@context" requires explicit package name at ./test.pl line 3882.
+Global symbol "@context" requires explicit package name at ./test.pl line 3884.
+Global symbol "@context" requires explicit package name at ./test.pl line 3885.
+Global symbol "@context" requires explicit package name at ./test.pl line 3891.
+Global symbol "@context" requires explicit package name at ./test.pl line 3893.
+Global symbol "@context" requires explicit package name at ./test.pl line 3894.
+Global symbol "@context" requires explicit package name at ./test.pl line 3900.
+Global symbol "@context" requires explicit package name at ./test.pl line 3902.
+Global symbol "@context" requires explicit package name at ./test.pl line 3903.
+Global symbol "@context" requires explicit package name at ./test.pl line 3909.
+Global symbol "@context" requires explicit package name at ./test.pl line 3911.
+Global symbol "@context" requires explicit package name at ./test.pl line 3912.
+Global symbol "@context" requires explicit package name at ./test.pl line 3918.
+Global symbol "@context" requires explicit package name at ./test.pl line 3920.
+Global symbol "@context" requires explicit package name at ./test.pl line 3921.
+Global symbol "@context" requires explicit package name at ./test.pl line 3925.
+Global symbol "@context" requires explicit package name at ./test.pl line 3926.
+Global symbol "@context" requires explicit package name at ./test.pl line 3930.
+Global symbol "@context" requires explicit package name at ./test.pl line 3931.
+Global symbol "@context" requires explicit package name at ./test.pl line 3935.
+Global symbol "@context" requires explicit package name at ./test.pl line 3936.
+Global symbol "@context" requires explicit package name at ./test.pl line 3940.
+Global symbol "@context" requires explicit package name at ./test.pl line 3941.
+Global symbol "@context" requires explicit package name at ./test.pl line 3945.
+Global symbol "@context" requires explicit package name at ./test.pl line 3946.
+Global symbol "@context" requires explicit package name at ./test.pl line 3950.
+Global symbol "@context" requires explicit package name at ./test.pl line 3951.
+Global symbol "@context" requires explicit package name at ./test.pl line 3955.
+Global symbol "@context" requires explicit package name at ./test.pl line 3956.
+Global symbol "@context" requires explicit package name at ./test.pl line 3960.
+Global symbol "@context" requires explicit package name at ./test.pl line 3961.
+Global symbol "@exports" requires explicit package name at ./test.pl line 111.
+Global symbol "@exports" requires explicit package name at ./test.pl line 113.
+Global symbol "@exports" requires explicit package name at ./test.pl line 135.
+Global symbol "@exports" requires explicit package name at ./test.pl line 137.
+Global symbol "@exports" requires explicit package name at ./test.pl line 159.
+Global symbol "@exports" requires explicit package name at ./test.pl line 161.
+Global symbol "@exports" requires explicit package name at ./test.pl line 183.
+Global symbol "@exports" requires explicit package name at ./test.pl line 185.
+Global symbol "@exports" requires explicit package name at ./test.pl line 207.
+Global symbol "@exports" requires explicit package name at ./test.pl line 209.
+Global symbol "@exports" requires explicit package name at ./test.pl line 231.
+Global symbol "@exports" requires explicit package name at ./test.pl line 233.
+Global symbol "@exports" requires explicit package name at ./test.pl line 255.
+Global symbol "@exports" requires explicit package name at ./test.pl line 257.
+Global symbol "@exports" requires explicit package name at ./test.pl line 279.
+Global symbol "@exports" requires explicit package name at ./test.pl line 281.
+Global symbol "@exports" requires explicit package name at ./test.pl line 303.
+Global symbol "@exports" requires explicit package name at ./test.pl line 305.
+Global symbol "@exports" requires explicit package name at ./test.pl line 327.
+Global symbol "@exports" requires explicit package name at ./test.pl line 329.
+Global symbol "@exports" requires explicit package name at ./test.pl line 351.
+Global symbol "@exports" requires explicit package name at ./test.pl line 353.
+Global symbol "@exports" requires explicit package name at ./test.pl line 375.
+Global symbol "@exports" requires explicit package name at ./test.pl line 377.
+Global symbol "@exports" requires explicit package name at ./test.pl line 399.
+Global symbol "@exports" requires explicit package name at ./test.pl line 401.
+Global symbol "@exports" requires explicit package name at ./test.pl line 423.
+Global symbol "@exports" requires explicit package name at ./test.pl line 425.
+Global symbol "@exports" requires explicit package name at ./test.pl line 447.
+Global symbol "@exports" requires explicit package name at ./test.pl line 449.
+Global symbol "@exports" requires explicit package name at ./test.pl line 491.
+Global symbol "@exports" requires explicit package name at ./test.pl line 492.
+Global symbol "@exports" requires explicit package name at ./test.pl line 492.
+Global symbol "@exports" requires explicit package name at ./test.pl line 509.
+Global symbol "@exports" requires explicit package name at ./test.pl line 540.
+Global symbol "@exports" requires explicit package name at ./test.pl line 559.
+Global symbol "@fail" requires explicit package name at ./test.pl line 110.
+Global symbol "@fail" requires explicit package name at ./test.pl line 118.
+Global symbol "@fail" requires explicit package name at ./test.pl line 118.
+Global symbol "@fail" requires explicit package name at ./test.pl line 134.
+Global symbol "@fail" requires explicit package name at ./test.pl line 142.
+Global symbol "@fail" requires explicit package name at ./test.pl line 142.
+Global symbol "@fail" requires explicit package name at ./test.pl line 158.
+Global symbol "@fail" requires explicit package name at ./test.pl line 166.
+Global symbol "@fail" requires explicit package name at ./test.pl line 166.
+Global symbol "@fail" requires explicit package name at ./test.pl line 182.
+Global symbol "@fail" requires explicit package name at ./test.pl line 190.
+Global symbol "@fail" requires explicit package name at ./test.pl line 190.
+Global symbol "@fail" requires explicit package name at ./test.pl line 206.
+Global symbol "@fail" requires explicit package name at ./test.pl line 214.
+Global symbol "@fail" requires explicit package name at ./test.pl line 214.
+Global symbol "@fail" requires explicit package name at ./test.pl line 230.
+Global symbol "@fail" requires explicit package name at ./test.pl line 238.
+Global symbol "@fail" requires explicit package name at ./test.pl line 238.
+Global symbol "@fail" requires explicit package name at ./test.pl line 254.
+Global symbol "@fail" requires explicit package name at ./test.pl line 262.
+Global symbol "@fail" requires explicit package name at ./test.pl line 262.
+Global symbol "@fail" requires explicit package name at ./test.pl line 278.
+Global symbol "@fail" requires explicit package name at ./test.pl line 286.
+Global symbol "@fail" requires explicit package name at ./test.pl line 286.
+Global symbol "@fail" requires explicit package name at ./test.pl line 302.
+Global symbol "@fail" requires explicit package name at ./test.pl line 310.
+Global symbol "@fail" requires explicit package name at ./test.pl line 310.
+Global symbol "@fail" requires explicit package name at ./test.pl line 326.
+Global symbol "@fail" requires explicit package name at ./test.pl line 334.
+Global symbol "@fail" requires explicit package name at ./test.pl line 334.
+Global symbol "@fail" requires explicit package name at ./test.pl line 350.
+Global symbol "@fail" requires explicit package name at ./test.pl line 358.
+Global symbol "@fail" requires explicit package name at ./test.pl line 358.
+Global symbol "@fail" requires explicit package name at ./test.pl line 374.
+Global symbol "@fail" requires explicit package name at ./test.pl line 382.
+Global symbol "@fail" requires explicit package name at ./test.pl line 382.
+Global symbol "@fail" requires explicit package name at ./test.pl line 398.
+Global symbol "@fail" requires explicit package name at ./test.pl line 406.
+Global symbol "@fail" requires explicit package name at ./test.pl line 406.
+Global symbol "@fail" requires explicit package name at ./test.pl line 422.
+Global symbol "@fail" requires explicit package name at ./test.pl line 430.
+Global symbol "@fail" requires explicit package name at ./test.pl line 430.
+Global symbol "@fail" requires explicit package name at ./test.pl line 446.
+Global symbol "@fail" requires explicit package name at ./test.pl line 454.
+Global symbol "@fail" requires explicit package name at ./test.pl line 454.
+Global symbol "@fail" requires explicit package name at ./test.pl line 562.
+Global symbol "@fail" requires explicit package name at ./test.pl line 564.
+Global symbol "@value" requires explicit package name at ./test.pl line 3804.
+Global symbol "@value" requires explicit package name at ./test.pl line 3808.
+Global symbol "@value" requires explicit package name at ./test.pl line 3813.
+Global symbol "@value" requires explicit package name at ./test.pl line 3814.
+Global symbol "@value" requires explicit package name at ./test.pl line 3818.
+Global symbol "@value" requires explicit package name at ./test.pl line 3819.
+Global symbol "@value" requires explicit package name at ./test.pl line 3823.
+Global symbol "@value" requires explicit package name at ./test.pl line 3824.
+Global symbol "@value" requires explicit package name at ./test.pl line 3828.
+Global symbol "@value" requires explicit package name at ./test.pl line 3829.
+Global symbol "@value" requires explicit package name at ./test.pl line 3833.
+Global symbol "@value" requires explicit package name at ./test.pl line 3834.
+Global symbol "@value" requires explicit package name at ./test.pl line 3838.
+Global symbol "@value" requires explicit package name at ./test.pl line 3839.
+Global symbol "@value" requires explicit package name at ./test.pl line 3843.
+Global symbol "@value" requires explicit package name at ./test.pl line 3844.
+Global symbol "@value" requires explicit package name at ./test.pl line 3848.
+Global symbol "@value" requires explicit package name at ./test.pl line 3849.
+
+Variable "$All" is not imported at ./test.pl line 840.
+Variable "$Debug" is not imported at ./test.pl line 110.
+Variable "$Debug" is not imported at ./test.pl line 118.
+Variable "$Debug" is not imported at ./test.pl line 134.
+Variable "$Debug" is not imported at ./test.pl line 142.
+Variable "$Debug" is not imported at ./test.pl line 158.
+Variable "$Debug" is not imported at ./test.pl line 166.
+Variable "$Debug" is not imported at ./test.pl line 182.
+Variable "$Debug" is not imported at ./test.pl line 190.
+Variable "$Debug" is not imported at ./test.pl line 206.
+Variable "$Debug" is not imported at ./test.pl line 214.
+Variable "$Debug" is not imported at ./test.pl line 230.
+Variable "$Debug" is not imported at ./test.pl line 238.
+Variable "$Debug" is not imported at ./test.pl line 254.
+Variable "$Debug" is not imported at ./test.pl line 262.
+Variable "$Debug" is not imported at ./test.pl line 278.
+Variable "$Debug" is not imported at ./test.pl line 286.
+Variable "$Debug" is not imported at ./test.pl line 302.
+Variable "$Debug" is not imported at ./test.pl line 310.
+Variable "$Debug" is not imported at ./test.pl line 326.
+Variable "$Debug" is not imported at ./test.pl line 334.
+Variable "$Debug" is not imported at ./test.pl line 350.
+Variable "$Debug" is not imported at ./test.pl line 358.
+Variable "$Debug" is not imported at ./test.pl line 374.
+Variable "$Debug" is not imported at ./test.pl line 382.
+Variable "$Debug" is not imported at ./test.pl line 398.
+Variable "$Debug" is not imported at ./test.pl line 406.
+Variable "$Debug" is not imported at ./test.pl line 422.
+Variable "$Debug" is not imported at ./test.pl line 430.
+Variable "$Debug" is not imported at ./test.pl line 446.
+Variable "$Debug" is not imported at ./test.pl line 454.
+Variable "$ExportLevel" is not imported at ./test.pl line 107.
+Variable "$ExportLevel" is not imported at ./test.pl line 131.
+Variable "$ExportLevel" is not imported at ./test.pl line 155.
+Variable "$ExportLevel" is not imported at ./test.pl line 179.
+Variable "$ExportLevel" is not imported at ./test.pl line 203.
+Variable "$ExportLevel" is not imported at ./test.pl line 227.
+Variable "$ExportLevel" is not imported at ./test.pl line 251.
+Variable "$ExportLevel" is not imported at ./test.pl line 275.
+Variable "$ExportLevel" is not imported at ./test.pl line 299.
+Variable "$ExportLevel" is not imported at ./test.pl line 323.
+Variable "$ExportLevel" is not imported at ./test.pl line 347.
+Variable "$ExportLevel" is not imported at ./test.pl line 371.
+Variable "$ExportLevel" is not imported at ./test.pl line 395.
+Variable "$ExportLevel" is not imported at ./test.pl line 419.
+Variable "$ExportLevel" is not imported at ./test.pl line 443.
+Variable "$Verbose" is not imported at ./test.pl line 110.
+Variable "$Verbose" is not imported at ./test.pl line 118.
+Variable "$Verbose" is not imported at ./test.pl line 134.
+Variable "$Verbose" is not imported at ./test.pl line 142.
+Variable "$Verbose" is not imported at ./test.pl line 158.
+Variable "$Verbose" is not imported at ./test.pl line 166.
+Variable "$Verbose" is not imported at ./test.pl line 182.
+Variable "$Verbose" is not imported at ./test.pl line 190.
+Variable "$Verbose" is not imported at ./test.pl line 206.
+Variable "$Verbose" is not imported at ./test.pl line 214.
+Variable "$Verbose" is not imported at ./test.pl line 230.
+Variable "$Verbose" is not imported at ./test.pl line 238.
+Variable "$Verbose" is not imported at ./test.pl line 254.
+Variable "$Verbose" is not imported at ./test.pl line 262.
+Variable "$Verbose" is not imported at ./test.pl line 278.
+Variable "$Verbose" is not imported at ./test.pl line 286.
+Variable "$Verbose" is not imported at ./test.pl line 302.
+Variable "$Verbose" is not imported at ./test.pl line 310.
+Variable "$Verbose" is not imported at ./test.pl line 326.
+Variable "$Verbose" is not imported at ./test.pl line 334.
+Variable "$Verbose" is not imported at ./test.pl line 350.
+Variable "$Verbose" is not imported at ./test.pl line 358.
+Variable "$Verbose" is not imported at ./test.pl line 374.
+Variable "$Verbose" is not imported at ./test.pl line 382.
+Variable "$Verbose" is not imported at ./test.pl line 398.
+Variable "$Verbose" is not imported at ./test.pl line 406.
+Variable "$Verbose" is not imported at ./test.pl line 422.
+Variable "$Verbose" is not imported at ./test.pl line 430.
+Variable "$Verbose" is not imported at ./test.pl line 446.
+Variable "$Verbose" is not imported at ./test.pl line 454.
+Variable "$Verbose" is not imported at ./test.pl line 524.
+Variable "$Verbose" is not imported at ./test.pl line 565.
+Variable "$Verbose" is not imported at ./test.pl line 584.
+Variable "$Verbose" is not imported at ./test.pl line 634.
+Variable "$attr" is not imported at ./test.pl line 4035.
+Variable "$attr" is not imported at ./test.pl line 4035.
+Variable "$attr" is not imported at ./test.pl line 4038.
+Variable "$attr" is not imported at ./test.pl line 4038.
+Variable "$attr" is not imported at ./test.pl line 4041.
+Variable "$attr" is not imported at ./test.pl line 4041.
+Variable "$attr" is not imported at ./test.pl line 4044.
+Variable "$attr" is not imported at ./test.pl line 4044.
+Variable "$attr" is not imported at ./test.pl line 4047.
+Variable "$attr" is not imported at ./test.pl line 4047.
+Variable "$attr" is not imported at ./test.pl line 4050.
+Variable "$attr" is not imported at ./test.pl line 4050.
+Variable "$attr" is not imported at ./test.pl line 4053.
+Variable "$attr" is not imported at ./test.pl line 4053.
+Variable "$attr" is not imported at ./test.pl line 4056.
+Variable "$attr" is not imported at ./test.pl line 4056.
+Variable "$attr" is not imported at ./test.pl line 4059.
+Variable "$attr" is not imported at ./test.pl line 4059.
+Variable "$attr" is not imported at ./test.pl line 4062.
+Variable "$attr" is not imported at ./test.pl line 4062.
+Variable "$attr" is not imported at ./test.pl line 4065.
+Variable "$attr" is not imported at ./test.pl line 4065.
+Variable "$attr" is not imported at ./test.pl line 4068.
+Variable "$attr" is not imported at ./test.pl line 4068.
+Variable "$attr" is not imported at ./test.pl line 4071.
+Variable "$attr" is not imported at ./test.pl line 4071.
+Variable "$attr" is not imported at ./test.pl line 4074.
+Variable "$attr" is not imported at ./test.pl line 4074.
+Variable "$attr" is not imported at ./test.pl line 4077.
+Variable "$attr" is not imported at ./test.pl line 4077.
+Variable "$attr" is not imported at ./test.pl line 4080.
+Variable "$attr" is not imported at ./test.pl line 4080.
+Variable "$attr" is not imported at ./test.pl line 4083.
+Variable "$attr" is not imported at ./test.pl line 4083.
+Variable "$attr" is not imported at ./test.pl line 4086.
+Variable "$attr" is not imported at ./test.pl line 4086.
+Variable "$attr" is not imported at ./test.pl line 4089.
+Variable "$attr" is not imported at ./test.pl line 4089.
+Variable "$attr" is not imported at ./test.pl line 4092.
+Variable "$attr" is not imported at ./test.pl line 4092.
+Variable "$attr" is not imported at ./test.pl line 4095.
+Variable "$attr" is not imported at ./test.pl line 4095.
+Variable "$attr" is not imported at ./test.pl line 4098.
+Variable "$attr" is not imported at ./test.pl line 4098.
+Variable "$attr" is not imported at ./test.pl line 4101.
+Variable "$attr" is not imported at ./test.pl line 4101.
+Variable "$attr" is not imported at ./test.pl line 4104.
+Variable "$attr" is not imported at ./test.pl line 4105.
+Variable "$attr" is not imported at ./test.pl line 4110.
+Variable "$attr" is not imported at ./test.pl line 4110.
+Variable "$attr" is not imported at ./test.pl line 4110.
+Variable "$attr" is not imported at ./test.pl line 4115.
+Variable "$attr" is not imported at ./test.pl line 4116.
+Variable "$attr" is not imported at ./test.pl line 4121.
+Variable "$attr" is not imported at ./test.pl line 4121.
+Variable "$attr" is not imported at ./test.pl line 4121.
+Variable "$attr" is not imported at ./test.pl line 4126.
+Variable "$attr" is not imported at ./test.pl line 4127.
+Variable "$attr" is not imported at ./test.pl line 4132.
+Variable "$attr" is not imported at ./test.pl line 4132.
+Variable "$attr" is not imported at ./test.pl line 4132.
+Variable "$attr" is not imported at ./test.pl line 4137.
+Variable "$attr" is not imported at ./test.pl line 4138.
+Variable "$attr" is not imported at ./test.pl line 4143.
+Variable "$attr" is not imported at ./test.pl line 4143.
+Variable "$attr" is not imported at ./test.pl line 4143.
+Variable "$attr" is not imported at ./test.pl line 4148.
+Variable "$attr" is not imported at ./test.pl line 4149.
+Variable "$attr" is not imported at ./test.pl line 4154.
+Variable "$attr" is not imported at ./test.pl line 4154.
+Variable "$attr" is not imported at ./test.pl line 4154.
+Variable "$attr" is not imported at ./test.pl line 4159.
+Variable "$attr" is not imported at ./test.pl line 4160.
+Variable "$attr" is not imported at ./test.pl line 4165.
+Variable "$attr" is not imported at ./test.pl line 4165.
+Variable "$attr" is not imported at ./test.pl line 4165.
+Variable "$attr" is not imported at ./test.pl line 4170.
+Variable "$attr" is not imported at ./test.pl line 4171.
+Variable "$attr" is not imported at ./test.pl line 4176.
+Variable "$attr" is not imported at ./test.pl line 4176.
+Variable "$attr" is not imported at ./test.pl line 4176.
+Variable "$attr" is not imported at ./test.pl line 4181.
+Variable "$attr" is not imported at ./test.pl line 4182.
+Variable "$attr" is not imported at ./test.pl line 4187.
+Variable "$attr" is not imported at ./test.pl line 4187.
+Variable "$attr" is not imported at ./test.pl line 4187.
+Variable "$attr" is not imported at ./test.pl line 4192.
+Variable "$attr" is not imported at ./test.pl line 4193.
+Variable "$attr" is not imported at ./test.pl line 4198.
+Variable "$attr" is not imported at ./test.pl line 4198.
+Variable "$attr" is not imported at ./test.pl line 4198.
+Variable "$attr" is not imported at ./test.pl line 4203.
+Variable "$attr" is not imported at ./test.pl line 4204.
+Variable "$attr" is not imported at ./test.pl line 4209.
+Variable "$attr" is not imported at ./test.pl line 4209.
+Variable "$attr" is not imported at ./test.pl line 4209.
+Variable "$attr" is not imported at ./test.pl line 4214.
+Variable "$attr" is not imported at ./test.pl line 4215.
+Variable "$attr" is not imported at ./test.pl line 4220.
+Variable "$attr" is not imported at ./test.pl line 4220.
+Variable "$attr" is not imported at ./test.pl line 4220.
+Variable "$attr" is not imported at ./test.pl line 4225.
+Variable "$attr" is not imported at ./test.pl line 4226.
+Variable "$attr" is not imported at ./test.pl line 4231.
+Variable "$attr" is not imported at ./test.pl line 4231.
+Variable "$attr" is not imported at ./test.pl line 4231.
+Variable "$attr" is not imported at ./test.pl line 4236.
+Variable "$attr" is not imported at ./test.pl line 4237.
+Variable "$attr" is not imported at ./test.pl line 4242.
+Variable "$attr" is not imported at ./test.pl line 4242.
+Variable "$attr" is not imported at ./test.pl line 4242.
+Variable "$attr" is not imported at ./test.pl line 4247.
+Variable "$attr" is not imported at ./test.pl line 4248.
+Variable "$attr" is not imported at ./test.pl line 4253.
+Variable "$attr" is not imported at ./test.pl line 4253.
+Variable "$attr" is not imported at ./test.pl line 4253.
+Variable "$attr" is not imported at ./test.pl line 4258.
+Variable "$attr" is not imported at ./test.pl line 4259.
+Variable "$attr" is not imported at ./test.pl line 4264.
+Variable "$attr" is not imported at ./test.pl line 4264.
+Variable "$attr" is not imported at ./test.pl line 4264.
+Variable "$attr" is not imported at ./test.pl line 4269.
+Variable "$attr" is not imported at ./test.pl line 4270.
+Variable "$attr" is not imported at ./test.pl line 4275.
+Variable "$attr" is not imported at ./test.pl line 4275.
+Variable "$attr" is not imported at ./test.pl line 4275.
+Variable "$attr" is not imported at ./test.pl line 4280.
+Variable "$attr" is not imported at ./test.pl line 4281.
+Variable "$attr" is not imported at ./test.pl line 4286.
+Variable "$attr" is not imported at ./test.pl line 4286.
+Variable "$attr" is not imported at ./test.pl line 4286.
+Variable "$attr" is not imported at ./test.pl line 4291.
+Variable "$attr" is not imported at ./test.pl line 4292.
+Variable "$attr" is not imported at ./test.pl line 4297.
+Variable "$attr" is not imported at ./test.pl line 4297.
+Variable "$attr" is not imported at ./test.pl line 4297.
+Variable "$attr" is not imported at ./test.pl line 4302.
+Variable "$attr" is not imported at ./test.pl line 4303.
+Variable "$attr" is not imported at ./test.pl line 4308.
+Variable "$attr" is not imported at ./test.pl line 4308.
+Variable "$attr" is not imported at ./test.pl line 4308.
+Variable "$attr" is not imported at ./test.pl line 4313.
+Variable "$attr" is not imported at ./test.pl line 4314.
+Variable "$attr" is not imported at ./test.pl line 4319.
+Variable "$attr" is not imported at ./test.pl line 4319.
+Variable "$attr" is not imported at ./test.pl line 4319.
+Variable "$attr" is not imported at ./test.pl line 4324.
+Variable "$attr" is not imported at ./test.pl line 4325.
+Variable "$attr" is not imported at ./test.pl line 4330.
+Variable "$attr" is not imported at ./test.pl line 4330.
+Variable "$attr" is not imported at ./test.pl line 4330.
+Variable "$attr" is not imported at ./test.pl line 4335.
+Variable "$attr" is not imported at ./test.pl line 4336.
+Variable "$attr" is not imported at ./test.pl line 4341.
+Variable "$attr" is not imported at ./test.pl line 4341.
+Variable "$attr" is not imported at ./test.pl line 4341.
+Variable "$attr" is not imported at ./test.pl line 4346.
+Variable "$attr" is not imported at ./test.pl line 4347.
+Variable "$attr" is not imported at ./test.pl line 4352.
+Variable "$attr" is not imported at ./test.pl line 4352.
+Variable "$attr" is not imported at ./test.pl line 4352.
+Variable "$classname" will not stay shared at ./test.pl line 4105.
+Variable "$classname" will not stay shared at ./test.pl line 4116.
+Variable "$classname" will not stay shared at ./test.pl line 4127.
+Variable "$classname" will not stay shared at ./test.pl line 4138.
+Variable "$classname" will not stay shared at ./test.pl line 4149.
+Variable "$classname" will not stay shared at ./test.pl line 4160.
+Variable "$classname" will not stay shared at ./test.pl line 4171.
+Variable "$classname" will not stay shared at ./test.pl line 4182.
+Variable "$classname" will not stay shared at ./test.pl line 4193.
+Variable "$classname" will not stay shared at ./test.pl line 4204.
+Variable "$classname" will not stay shared at ./test.pl line 4215.
+Variable "$classname" will not stay shared at ./test.pl line 4226.
+Variable "$classname" will not stay shared at ./test.pl line 4237.
+Variable "$classname" will not stay shared at ./test.pl line 4248.
+Variable "$classname" will not stay shared at ./test.pl line 4259.
+Variable "$classname" will not stay shared at ./test.pl line 4270.
+Variable "$classname" will not stay shared at ./test.pl line 4281.
+Variable "$classname" will not stay shared at ./test.pl line 4292.
+Variable "$classname" will not stay shared at ./test.pl line 4303.
+Variable "$classname" will not stay shared at ./test.pl line 4314.
+Variable "$classname" will not stay shared at ./test.pl line 4325.
+Variable "$classname" will not stay shared at ./test.pl line 4336.
+Variable "$classname" will not stay shared at ./test.pl line 4347.
+Variable "$classname" will not stay shared at ./test.pl line 4411.
+Variable "$classname" will not stay shared at ./test.pl line 4424.
+Variable "$classname" will not stay shared at ./test.pl line 4437.
+Variable "$classname" will not stay shared at ./test.pl line 4450.
+Variable "$classname" will not stay shared at ./test.pl line 4463.
+Variable "$classname" will not stay shared at ./test.pl line 4476.
+Variable "$classname" will not stay shared at ./test.pl line 4489.
+Variable "$classname" will not stay shared at ./test.pl line 4502.
+Variable "$classname" will not stay shared at ./test.pl line 4515.
+Variable "$classname" will not stay shared at ./test.pl line 4528.
+Variable "$classname" will not stay shared at ./test.pl line 4541.
+Variable "$classname" will not stay shared at ./test.pl line 4554.
+Variable "$classname" will not stay shared at ./test.pl line 4567.
+Variable "$classname" will not stay shared at ./test.pl line 4710.
+Variable "$classname" will not stay shared at ./test.pl line 4723.
+Variable "$classname" will not stay shared at ./test.pl line 4736.
+Variable "$classname" will not stay shared at ./test.pl line 4749.
+Variable "$classname" will not stay shared at ./test.pl line 4762.
+Variable "$classname" will not stay shared at ./test.pl line 4775.
+Variable "$classname" will not stay shared at ./test.pl line 4928.
+Variable "$classname" will not stay shared at ./test.pl line 4940.
+Variable "$classname" will not stay shared at ./test.pl line 4952.
+Variable "$classname" will not stay shared at ./test.pl line 4964.
+Variable "$classname" will not stay shared at ./test.pl line 4976.
+Variable "$classname" will not stay shared at ./test.pl line 4988.
+Variable "$ctor" is not imported at ./test.pl line 4706.
+Variable "$ctor" is not imported at ./test.pl line 4719.
+Variable "$ctor" is not imported at ./test.pl line 4732.
+Variable "$ctor" is not imported at ./test.pl line 4745.
+Variable "$ctor" is not imported at ./test.pl line 4758.
+Variable "$ctor" is not imported at ./test.pl line 4771.
+Variable "$method" is not imported at ./test.pl line 4411.
+Variable "$method" is not imported at ./test.pl line 4413.
+Variable "$method" is not imported at ./test.pl line 4414.
+Variable "$method" is not imported at ./test.pl line 4414.
+Variable "$method" is not imported at ./test.pl line 4418.
+Variable "$method" is not imported at ./test.pl line 4418.
+Variable "$method" is not imported at ./test.pl line 4424.
+Variable "$method" is not imported at ./test.pl line 4426.
+Variable "$method" is not imported at ./test.pl line 4427.
+Variable "$method" is not imported at ./test.pl line 4427.
+Variable "$method" is not imported at ./test.pl line 4431.
+Variable "$method" is not imported at ./test.pl line 4431.
+Variable "$method" is not imported at ./test.pl line 4437.
+Variable "$method" is not imported at ./test.pl line 4439.
+Variable "$method" is not imported at ./test.pl line 4440.
+Variable "$method" is not imported at ./test.pl line 4440.
+Variable "$method" is not imported at ./test.pl line 4444.
+Variable "$method" is not imported at ./test.pl line 4444.
+Variable "$method" is not imported at ./test.pl line 4450.
+Variable "$method" is not imported at ./test.pl line 4452.
+Variable "$method" is not imported at ./test.pl line 4453.
+Variable "$method" is not imported at ./test.pl line 4453.
+Variable "$method" is not imported at ./test.pl line 4457.
+Variable "$method" is not imported at ./test.pl line 4457.
+Variable "$method" is not imported at ./test.pl line 4463.
+Variable "$method" is not imported at ./test.pl line 4465.
+Variable "$method" is not imported at ./test.pl line 4466.
+Variable "$method" is not imported at ./test.pl line 4466.
+Variable "$method" is not imported at ./test.pl line 4470.
+Variable "$method" is not imported at ./test.pl line 4470.
+Variable "$method" is not imported at ./test.pl line 4476.
+Variable "$method" is not imported at ./test.pl line 4478.
+Variable "$method" is not imported at ./test.pl line 4479.
+Variable "$method" is not imported at ./test.pl line 4479.
+Variable "$method" is not imported at ./test.pl line 4483.
+Variable "$method" is not imported at ./test.pl line 4483.
+Variable "$method" is not imported at ./test.pl line 4489.
+Variable "$method" is not imported at ./test.pl line 4491.
+Variable "$method" is not imported at ./test.pl line 4492.
+Variable "$method" is not imported at ./test.pl line 4492.
+Variable "$method" is not imported at ./test.pl line 4496.
+Variable "$method" is not imported at ./test.pl line 4496.
+Variable "$method" is not imported at ./test.pl line 4502.
+Variable "$method" is not imported at ./test.pl line 4504.
+Variable "$method" is not imported at ./test.pl line 4505.
+Variable "$method" is not imported at ./test.pl line 4505.
+Variable "$method" is not imported at ./test.pl line 4509.
+Variable "$method" is not imported at ./test.pl line 4509.
+Variable "$method" is not imported at ./test.pl line 4515.
+Variable "$method" is not imported at ./test.pl line 4517.
+Variable "$method" is not imported at ./test.pl line 4518.
+Variable "$method" is not imported at ./test.pl line 4518.
+Variable "$method" is not imported at ./test.pl line 4522.
+Variable "$method" is not imported at ./test.pl line 4522.
+Variable "$method" is not imported at ./test.pl line 4528.
+Variable "$method" is not imported at ./test.pl line 4530.
+Variable "$method" is not imported at ./test.pl line 4531.
+Variable "$method" is not imported at ./test.pl line 4531.
+Variable "$method" is not imported at ./test.pl line 4535.
+Variable "$method" is not imported at ./test.pl line 4535.
+Variable "$method" is not imported at ./test.pl line 4541.
+Variable "$method" is not imported at ./test.pl line 4543.
+Variable "$method" is not imported at ./test.pl line 4544.
+Variable "$method" is not imported at ./test.pl line 4544.
+Variable "$method" is not imported at ./test.pl line 4548.
+Variable "$method" is not imported at ./test.pl line 4548.
+Variable "$method" is not imported at ./test.pl line 4554.
+Variable "$method" is not imported at ./test.pl line 4556.
+Variable "$method" is not imported at ./test.pl line 4557.
+Variable "$method" is not imported at ./test.pl line 4557.
+Variable "$method" is not imported at ./test.pl line 4561.
+Variable "$method" is not imported at ./test.pl line 4561.
+Variable "$method" is not imported at ./test.pl line 4567.
+Variable "$method" is not imported at ./test.pl line 4569.
+Variable "$method" is not imported at ./test.pl line 4570.
+Variable "$method" is not imported at ./test.pl line 4570.
+Variable "$method" is not imported at ./test.pl line 4574.
+Variable "$method" is not imported at ./test.pl line 4574.
+Variable "$spec" will not stay shared at ./test.pl line 4107.
+Variable "$spec" will not stay shared at ./test.pl line 4118.
+Variable "$spec" will not stay shared at ./test.pl line 4129.
+Variable "$spec" will not stay shared at ./test.pl line 4140.
+Variable "$spec" will not stay shared at ./test.pl line 4151.
+Variable "$spec" will not stay shared at ./test.pl line 4162.
+Variable "$spec" will not stay shared at ./test.pl line 4173.
+Variable "$spec" will not stay shared at ./test.pl line 4184.
+Variable "$spec" will not stay shared at ./test.pl line 4195.
+Variable "$spec" will not stay shared at ./test.pl line 4206.
+Variable "$spec" will not stay shared at ./test.pl line 4217.
+Variable "$spec" will not stay shared at ./test.pl line 4228.
+Variable "$spec" will not stay shared at ./test.pl line 4239.
+Variable "$spec" will not stay shared at ./test.pl line 4250.
+Variable "$spec" will not stay shared at ./test.pl line 4261.
+Variable "$spec" will not stay shared at ./test.pl line 4272.
+Variable "$spec" will not stay shared at ./test.pl line 4283.
+Variable "$spec" will not stay shared at ./test.pl line 4294.
+Variable "$spec" will not stay shared at ./test.pl line 4305.
+Variable "$spec" will not stay shared at ./test.pl line 4316.
+Variable "$spec" will not stay shared at ./test.pl line 4327.
+Variable "$spec" will not stay shared at ./test.pl line 4338.
+Variable "$spec" will not stay shared at ./test.pl line 4349.
+Variable "$spec" will not stay shared at ./test.pl line 4416.
+Variable "$spec" will not stay shared at ./test.pl line 4429.
+Variable "$spec" will not stay shared at ./test.pl line 4442.
+Variable "$spec" will not stay shared at ./test.pl line 4455.
+Variable "$spec" will not stay shared at ./test.pl line 4468.
+Variable "$spec" will not stay shared at ./test.pl line 4481.
+Variable "$spec" will not stay shared at ./test.pl line 4494.
+Variable "$spec" will not stay shared at ./test.pl line 4507.
+Variable "$spec" will not stay shared at ./test.pl line 4520.
+Variable "$spec" will not stay shared at ./test.pl line 4533.
+Variable "$spec" will not stay shared at ./test.pl line 4546.
+Variable "$spec" will not stay shared at ./test.pl line 4559.
+Variable "$spec" will not stay shared at ./test.pl line 4572.
+Variable "$spec" will not stay shared at ./test.pl line 4704.
+Variable "$spec" will not stay shared at ./test.pl line 4717.
+Variable "$spec" will not stay shared at ./test.pl line 4730.
+Variable "$spec" will not stay shared at ./test.pl line 4743.
+Variable "$spec" will not stay shared at ./test.pl line 4756.
+Variable "$spec" will not stay shared at ./test.pl line 4769.
+Variable "$spec" will not stay shared at ./test.pl line 4922.
+Variable "$spec" will not stay shared at ./test.pl line 4934.
+Variable "$spec" will not stay shared at ./test.pl line 4946.
+Variable "$spec" will not stay shared at ./test.pl line 4958.
+Variable "$spec" will not stay shared at ./test.pl line 4970.
+Variable "$spec" will not stay shared at ./test.pl line 4982.
+Variable "$sym" is not imported at ./test.pl line 127.
+Variable "$sym" is not imported at ./test.pl line 128.
+Variable "$sym" is not imported at ./test.pl line 128.
+Variable "$sym" is not imported at ./test.pl line 151.
+Variable "$sym" is not imported at ./test.pl line 152.
+Variable "$sym" is not imported at ./test.pl line 152.
+Variable "$sym" is not imported at ./test.pl line 175.
+Variable "$sym" is not imported at ./test.pl line 176.
+Variable "$sym" is not imported at ./test.pl line 176.
+Variable "$sym" is not imported at ./test.pl line 199.
+Variable "$sym" is not imported at ./test.pl line 200.
+Variable "$sym" is not imported at ./test.pl line 200.
+Variable "$sym" is not imported at ./test.pl line 223.
+Variable "$sym" is not imported at ./test.pl line 224.
+Variable "$sym" is not imported at ./test.pl line 224.
+Variable "$sym" is not imported at ./test.pl line 247.
+Variable "$sym" is not imported at ./test.pl line 248.
+Variable "$sym" is not imported at ./test.pl line 248.
+Variable "$sym" is not imported at ./test.pl line 271.
+Variable "$sym" is not imported at ./test.pl line 272.
+Variable "$sym" is not imported at ./test.pl line 272.
+Variable "$sym" is not imported at ./test.pl line 295.
+Variable "$sym" is not imported at ./test.pl line 296.
+Variable "$sym" is not imported at ./test.pl line 296.
+Variable "$sym" is not imported at ./test.pl line 319.
+Variable "$sym" is not imported at ./test.pl line 320.
+Variable "$sym" is not imported at ./test.pl line 320.
+Variable "$sym" is not imported at ./test.pl line 343.
+Variable "$sym" is not imported at ./test.pl line 344.
+Variable "$sym" is not imported at ./test.pl line 344.
+Variable "$sym" is not imported at ./test.pl line 367.
+Variable "$sym" is not imported at ./test.pl line 368.
+Variable "$sym" is not imported at ./test.pl line 368.
+Variable "$sym" is not imported at ./test.pl line 391.
+Variable "$sym" is not imported at ./test.pl line 392.
+Variable "$sym" is not imported at ./test.pl line 392.
+Variable "$sym" is not imported at ./test.pl line 415.
+Variable "$sym" is not imported at ./test.pl line 416.
+Variable "$sym" is not imported at ./test.pl line 416.
+Variable "$sym" is not imported at ./test.pl line 439.
+Variable "$sym" is not imported at ./test.pl line 440.
+Variable "$sym" is not imported at ./test.pl line 440.
+Variable "$sym" is not imported at ./test.pl line 463.
+Variable "$sym" is not imported at ./test.pl line 464.
+Variable "$sym" is not imported at ./test.pl line 464.
+Variable "%Bits" is not imported at ./test.pl line 813.
+Variable "%Bits" is not imported at ./test.pl line 827.
+Variable "%Bits" is not imported at ./test.pl line 837.
+Variable "%DeadBits" is not imported at ./test.pl line 815.
+Variable "%DeadBits" is not imported at ./test.pl line 828.
+Variable "%DeadBits" is not imported at ./test.pl line 838.
+Variable "%Offsets" is not imported at ./test.pl line 826.
+Variable "%Offsets" is not imported at ./test.pl line 828.
+Variable "%Offsets" is not imported at ./test.pl line 836.
+Variable "%Offsets" is not imported at ./test.pl line 838.
+Variable "%Offsets" is not imported at ./test.pl line 854.
+Variable "%Offsets" is not imported at ./test.pl line 858.
+Variable "%Offsets" is not imported at ./test.pl line 886.
+Variable "%Offsets" is not imported at ./test.pl line 894.
+Variable "%Offsets" is not imported at ./test.pl line 903.
+Variable "%Offsets" is not imported at ./test.pl line 904.
+Variable "%contract" is not imported at ./test.pl line 3055.
+Variable "%contract" is not imported at ./test.pl line 3059.
+Variable "%contract" is not imported at ./test.pl line 3664.
+Variable "%contract" is not imported at ./test.pl line 3669.
+Variable "%contract" is not imported at ./test.pl line 3674.
+Variable "%contract" is not imported at ./test.pl line 3679.
+Variable "%contract" is not imported at ./test.pl line 3684.
+Variable "%contract" is not imported at ./test.pl line 3689.
+Variable "%contract" is not imported at ./test.pl line 3694.
+Variable "%contract" is not imported at ./test.pl line 3699.
+Variable "%contract" is not imported at ./test.pl line 3722.
+Variable "%contract" is not imported at ./test.pl line 3727.
+Variable "%contract" is not imported at ./test.pl line 3732.
+Variable "%contract" is not imported at ./test.pl line 3737.
+Variable "%contract" is not imported at ./test.pl line 3742.
+Variable "%contract" is not imported at ./test.pl line 3747.
+Variable "%contract" is not imported at ./test.pl line 3752.
+Variable "%contract" is not imported at ./test.pl line 3757.
+Variable "%contract" is not imported at ./test.pl line 3762.
+Variable "%contract" is not imported at ./test.pl line 3778.
+Variable "%contract" is not imported at ./test.pl line 3799.
+Variable "%contract" is not imported at ./test.pl line 3968.
+Variable "%contract" is not imported at ./test.pl line 4626.
+Variable "%contract" is not imported at ./test.pl line 4645.
+Variable "%contract" is not imported at ./test.pl line 4646.
+Variable "%contract" is not imported at ./test.pl line 4648.
+Variable "%contract" is not imported at ./test.pl line 4657.
+Variable "%contract" is not imported at ./test.pl line 4661.
+Variable "%export_tags" is not imported at ./test.pl line 605.
+Variable "%export_tags" is not imported at ./test.pl line 605.
+Variable "%export_tags" is not imported at ./test.pl line 605.
+Variable "%exports" is not imported at ./test.pl line 112.
+Variable "%exports" is not imported at ./test.pl line 115.
+Variable "%exports" is not imported at ./test.pl line 118.
+Variable "%exports" is not imported at ./test.pl line 136.
+Variable "%exports" is not imported at ./test.pl line 139.
+Variable "%exports" is not imported at ./test.pl line 142.
+Variable "%exports" is not imported at ./test.pl line 160.
+Variable "%exports" is not imported at ./test.pl line 163.
+Variable "%exports" is not imported at ./test.pl line 166.
+Variable "%exports" is not imported at ./test.pl line 184.
+Variable "%exports" is not imported at ./test.pl line 187.
+Variable "%exports" is not imported at ./test.pl line 190.
+Variable "%exports" is not imported at ./test.pl line 208.
+Variable "%exports" is not imported at ./test.pl line 211.
+Variable "%exports" is not imported at ./test.pl line 214.
+Variable "%exports" is not imported at ./test.pl line 232.
+Variable "%exports" is not imported at ./test.pl line 235.
+Variable "%exports" is not imported at ./test.pl line 238.
+Variable "%exports" is not imported at ./test.pl line 256.
+Variable "%exports" is not imported at ./test.pl line 259.
+Variable "%exports" is not imported at ./test.pl line 262.
+Variable "%exports" is not imported at ./test.pl line 280.
+Variable "%exports" is not imported at ./test.pl line 283.
+Variable "%exports" is not imported at ./test.pl line 286.
+Variable "%exports" is not imported at ./test.pl line 304.
+Variable "%exports" is not imported at ./test.pl line 307.
+Variable "%exports" is not imported at ./test.pl line 310.
+Variable "%exports" is not imported at ./test.pl line 328.
+Variable "%exports" is not imported at ./test.pl line 331.
+Variable "%exports" is not imported at ./test.pl line 334.
+Variable "%exports" is not imported at ./test.pl line 352.
+Variable "%exports" is not imported at ./test.pl line 355.
+Variable "%exports" is not imported at ./test.pl line 358.
+Variable "%exports" is not imported at ./test.pl line 376.
+Variable "%exports" is not imported at ./test.pl line 379.
+Variable "%exports" is not imported at ./test.pl line 382.
+Variable "%exports" is not imported at ./test.pl line 400.
+Variable "%exports" is not imported at ./test.pl line 403.
+Variable "%exports" is not imported at ./test.pl line 406.
+Variable "%exports" is not imported at ./test.pl line 424.
+Variable "%exports" is not imported at ./test.pl line 427.
+Variable "%exports" is not imported at ./test.pl line 430.
+Variable "%exports" is not imported at ./test.pl line 448.
+Variable "%exports" is not imported at ./test.pl line 451.
+Variable "%exports" is not imported at ./test.pl line 454.
+Variable "%exports" is not imported at ./test.pl line 490.
+Variable "%exports" is not imported at ./test.pl line 492.
+Variable "%exports" is not imported at ./test.pl line 496.
+Variable "%exports" is not imported at ./test.pl line 519.
+Variable "%exports" is not imported at ./test.pl line 536.
+Variable "%exports" is not imported at ./test.pl line 547.
+Variable "%fail" is not imported at ./test.pl line 563.
+Variable "%fail" is not imported at ./test.pl line 566.
+Variable "%fail" is not imported at ./test.pl line 570.
+Variable "@exports" is not imported at ./test.pl line 111.
+Variable "@exports" is not imported at ./test.pl line 113.
+Variable "@exports" is not imported at ./test.pl line 135.
+Variable "@exports" is not imported at ./test.pl line 137.
+Variable "@exports" is not imported at ./test.pl line 159.
+Variable "@exports" is not imported at ./test.pl line 161.
+Variable "@exports" is not imported at ./test.pl line 183.
+Variable "@exports" is not imported at ./test.pl line 185.
+Variable "@exports" is not imported at ./test.pl line 207.
+Variable "@exports" is not imported at ./test.pl line 209.
+Variable "@exports" is not imported at ./test.pl line 231.
+Variable "@exports" is not imported at ./test.pl line 233.
+Variable "@exports" is not imported at ./test.pl line 255.
+Variable "@exports" is not imported at ./test.pl line 257.
+Variable "@exports" is not imported at ./test.pl line 279.
+Variable "@exports" is not imported at ./test.pl line 281.
+Variable "@exports" is not imported at ./test.pl line 303.
+Variable "@exports" is not imported at ./test.pl line 305.
+Variable "@exports" is not imported at ./test.pl line 327.
+Variable "@exports" is not imported at ./test.pl line 329.
+Variable "@exports" is not imported at ./test.pl line 351.
+Variable "@exports" is not imported at ./test.pl line 353.
+Variable "@exports" is not imported at ./test.pl line 375.
+Variable "@exports" is not imported at ./test.pl line 377.
+Variable "@exports" is not imported at ./test.pl line 399.
+Variable "@exports" is not imported at ./test.pl line 401.
+Variable "@exports" is not imported at ./test.pl line 423.
+Variable "@exports" is not imported at ./test.pl line 425.
+Variable "@exports" is not imported at ./test.pl line 447.
+Variable "@exports" is not imported at ./test.pl line 449.
+Variable "@exports" is not imported at ./test.pl line 491.
+Variable "@exports" is not imported at ./test.pl line 492.
+Variable "@exports" is not imported at ./test.pl line 492.
+Variable "@exports" is not imported at ./test.pl line 509.
+Variable "@exports" is not imported at ./test.pl line 540.
+Variable "@exports" is not imported at ./test.pl line 559.
+Variable "@fail" is not imported at ./test.pl line 110.
+Variable "@fail" is not imported at ./test.pl line 118.
+Variable "@fail" is not imported at ./test.pl line 118.
+Variable "@fail" is not imported at ./test.pl line 134.
+Variable "@fail" is not imported at ./test.pl line 142.
+Variable "@fail" is not imported at ./test.pl line 142.
+Variable "@fail" is not imported at ./test.pl line 158.
+Variable "@fail" is not imported at ./test.pl line 166.
+Variable "@fail" is not imported at ./test.pl line 166.
+Variable "@fail" is not imported at ./test.pl line 182.
+Variable "@fail" is not imported at ./test.pl line 190.
+Variable "@fail" is not imported at ./test.pl line 190.
+Variable "@fail" is not imported at ./test.pl line 206.
+Variable "@fail" is not imported at ./test.pl line 214.
+Variable "@fail" is not imported at ./test.pl line 214.
+Variable "@fail" is not imported at ./test.pl line 230.
+Variable "@fail" is not imported at ./test.pl line 238.
+Variable "@fail" is not imported at ./test.pl line 238.
+Variable "@fail" is not imported at ./test.pl line 254.
+Variable "@fail" is not imported at ./test.pl line 262.
+Variable "@fail" is not imported at ./test.pl line 262.
+Variable "@fail" is not imported at ./test.pl line 278.
+Variable "@fail" is not imported at ./test.pl line 286.
+Variable "@fail" is not imported at ./test.pl line 286.
+Variable "@fail" is not imported at ./test.pl line 302.
+Variable "@fail" is not imported at ./test.pl line 310.
+Variable "@fail" is not imported at ./test.pl line 310.
+Variable "@fail" is not imported at ./test.pl line 326.
+Variable "@fail" is not imported at ./test.pl line 334.
+Variable "@fail" is not imported at ./test.pl line 334.
+Variable "@fail" is not imported at ./test.pl line 350.
+Variable "@fail" is not imported at ./test.pl line 358.
+Variable "@fail" is not imported at ./test.pl line 358.
+Variable "@fail" is not imported at ./test.pl line 374.
+Variable "@fail" is not imported at ./test.pl line 382.
+Variable "@fail" is not imported at ./test.pl line 382.
+Variable "@fail" is not imported at ./test.pl line 398.
+Variable "@fail" is not imported at ./test.pl line 406.
+Variable "@fail" is not imported at ./test.pl line 406.
+Variable "@fail" is not imported at ./test.pl line 422.
+Variable "@fail" is not imported at ./test.pl line 430.
+Variable "@fail" is not imported at ./test.pl line 430.
+Variable "@fail" is not imported at ./test.pl line 446.
+Variable "@fail" is not imported at ./test.pl line 454.
+Variable "@fail" is not imported at ./test.pl line 454.
+Variable "@fail" is not imported at ./test.pl line 562.
+Variable "@fail" is not imported at ./test.pl line 564.
+Variable "@value" is not imported at ./test.pl line 3828.
+Variable "@value" is not imported at ./test.pl line 3829.
+Variable "@value" is not imported at ./test.pl line 3833.
+Variable "@value" is not imported at ./test.pl line 3834.
+Variable "@value" is not imported at ./test.pl line 3838.
+Variable "@value" is not imported at ./test.pl line 3839.
+Variable "@value" is not imported at ./test.pl line 3843.
+Variable "@value" is not imported at ./test.pl line 3844.
+Variable "@value" is not imported at ./test.pl line 3848.
+Variable "@value" is not imported at ./test.pl line 3849.
